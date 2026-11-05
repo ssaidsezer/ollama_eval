@@ -1,0 +1,16 @@
+[2026-07-22T11:24:34] CSV: data/qa/final_qa_150.csv
+[2026-07-22T11:24:34] Fallback collection: rag_ablation
+[2026-07-22T11:24:34] Classic collection: rag_ablation
+[2026-07-22T11:24:34] Smart collection: documents_embeddinggemma_300m_3000p_500c_100ov
+[2026-07-22T11:24:34] Models: gemma4:26b-a4b
+[2026-07-22T11:24:34] QA backend: llamacpp base_url=http://127.0.0.1:8084/v1
+[2026-07-22T11:24:34] Variants: smart_bm25
+[2026-07-22T11:24:34] Ollama limits: timeout=300s num_predict=512
+[2026-07-22T11:24:34] Sampling: temperature=0.0 seed=42 embedding_timeout=300s resume=False
+[2026-07-22T11:24:34] Eval: disabled
+[2026-07-22T11:24:34] Output dir: data/results/rag_methods_gemma_q4_20260722_150/smart_bm25
+[2026-07-22T11:24:34] START model=gemma4:26b-a4b variant=smart_bm25 collection=documents_embeddinggemma_300m_3000p_500c_100ov
+[2026-07-22T12:11:43] OK model=gemma4:26b-a4b variant=smart_bm25 rows=150 duration=2828.79s
+[2026-07-22T12:11:43] DONE ok=1 errors=0 merged_rows=150
+[2026-07-22T12:11:43] Merged CSV: data/results/rag_methods_gemma_q4_20260722_150/smart_bm25/merged_results.csv
+[2026-07-22T12:11:43] Manifest: data/results/rag_methods_gemma_q4_20260722_150/smart_bm25/manifest.csv

@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "400 metreye atacağım, hafif rüzgâr sağdan sola esiyor; yan çarkı ne kadar çevireyim?",
+      "answer": "400 metrede hafif rüzgâr için, orta şiddet tablosundaki değerin yarısı alınır. 400 metre için tabloda 1 yazdığına göre ayarı siyah tarafa doğru 0,5 yapmalısın.",
+      "sayfa": 191,
+      "pdf_page_index": 191,
+      "kaynak_alinti": "Buradaki tablo orta şiddetteki yani 4-8 km/s hızındaki rüzgârlar için mesafeye göre yan çarktaki değerini veriyor. Biz bu tabloyu ezberlersek, hafif şiddetteki ve güçlü rüzgârlarda tahmin edebiliriz. Böylece atış için rüzgâr hesabını kolaylaştırmış oluruz. Hafif şiddette ki rüzgârlar için atacağımız mesafenin bu tablodaki değerinin yarısını alırız.\nÖrn: Hafif rüzgârda 400 m atış yapılacak. Rüzgâr sağdan sola doğru esiyor. Yan çarkı nasıl ayarlanır?\nCevap: Siyah bölüme doğru 0,5 oynatılır.",
+      "dogrulanan_bilgi": [
+        "400 m",
+        "yarısını alırız",
+        "0,5"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Hedef benden 500 metre uzakta ve 20 derece yukarıda; atışı kaç metreye göre yapayım?",
+      "answer": "Bu durumda önce 500 x 0,94 ile 470 metre bulunur. Sonra fark 30 metre çıkar ve hedef yukarıda olduğu için bu fark ölçülen mesafeye eklenir; yani atışı 530 metreye göre yapmalısın.",
+      "sayfa": 192,
+      "pdf_page_index": 192,
+      "kaynak_alinti": "Formül: Ölçülen mesafe x Cos. Değeri = Atılacak mesafe\nEğer hedef yukarıda ise; aynı formül uygulanır ve ölçülen mesafeden bulunan, mesafenin farkı bulunur ve ölçülen mesafeye eklenir.\nÖrn: Hedef bizden 500 m uzakta ve 20° üstte ise:\n1- Formül uygulanır: 500 x 0,94 = 470 m\n2- Fark bulunur: 500 – 470 = 30 m\n3- Fark mesafeye eklenir: 500 + 30 = 530 m",
+      "dogrulanan_bilgi": [
+        "500 x 0,94 = 470 m",
+        "500 – 470 = 30 m",
+        "500 + 30 = 530 m"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Hareketli hedef soldan sağa geliyor; orta, uzak ve yakın mesafede ne kadar kala atış yapayım?",
+      "answer": "Önce hedefin 1 saniyede kaç çizgi geçtiğini belirlersin. Verilen örnekte bu 4 çizgi. Orta mesafede üçgene kadar olan bu kadar kala, yani 4 çizgi kala atış yapılır. Hedef uzaksa bunun iki katı, yani 8 çizgi kala; yakınsa yarısı, yani 2 çizgi kala atış yapılır.",
+      "sayfa": 192,
+      "pdf_page_index": 192,
+      "kaynak_alinti": "Örn: Hedef soldan sağa doğru geliyor:\n1- Hedefi şemanın sol tarafına oturtur. Hedefin 1 sn de kaç çizgi geçtiği belirlenir. (4 Çizgi)\n2- Hedef orta mesafede ise üçgene belirlenen çizgi kadar kala atış yapılır. Hedef uzak mesafede ise bu çizgi sayısının iki katı kala, (8 çizgi) hedef yakın mesafede ise yarısı kadar kala (2 çizgi) atış yapılır.\nYakın Mesafe: 100–400 m\nOrta Mesafe: 400–800 m\nUzak Mesafe: 800–1000 m",
+      "dogrulanan_bilgi": [
+        "4 Çizgi",
+        "8 çizgi",
+        "2 çizgi"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

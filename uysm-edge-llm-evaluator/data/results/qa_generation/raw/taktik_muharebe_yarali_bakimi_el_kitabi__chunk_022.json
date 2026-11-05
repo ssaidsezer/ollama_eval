@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "Kan ürünü yoksa hemorajik şokta ilk sıvı olarak neyi ne kadar vermeliyim?",
+      "answer": "Kan ürünleri yoksa sıvı resüsitasyonunda tercih sırası şöyle: önce Hextend 500 ml, o yoksa Laktatlı Ringer Solüsyonu 500 ml, o da yoksa Plazma Lyte A 500 ml verilir.",
+      "sayfa": 66,
+      "pdf_page_index": 72,
+      "kaynak_alinti": "1.Hextend 500 ml.\n2.Laktatlı Ringer Solüsyonu 500 ml.\n3.Plazma Lyte A 500 ml.",
+      "dogrulanan_bilgi": [
+        "Hextend 500 ml",
+        "Laktatlı Ringer Solüsyonu 500 ml",
+        "Plazma Lyte A 500 ml"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Kanama kontrol altına alındıysa turnikeyi ne zaman dönüştürmeyi düşüneyim?",
+      "answer": "Turnike dönüşümünü ancak yaralı şokta değilse, amputasyon yoksa ve yara kanama açısından izlenebiliyorsa düşünmelisin.",
+      "sayfa": 66,
+      "pdf_page_index": 72,
+      "kaynak_alinti": "Dönüştürme Kriterleri:\n1.Yaralı şokta değil.\n2.Amputasyon yok.\n3.Yara kanama için izlenebilir.",
+      "dogrulanan_bilgi": [
+        "Yaralı şokta değil",
+        "Amputasyon yok",
+        "Yara kanama için izlenebilir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Yaralıda göğüs travması var; ilk ne yapmam gerekiyor?",
+      "answer": "Göğüs travmasında TCCC tarafından önerilen havalandırmalı göğüs kapamasını uygulamalısın.",
+      "sayfa": 65,
+      "pdf_page_index": 71,
+      "kaynak_alinti": "TCCC tarafından önerilen havalandırmalı göğüs kapamasını uygulayın.",
+      "dogrulanan_bilgi": [
+        "havalandırmalı göğüs kapaması"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

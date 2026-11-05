@@ -1,0 +1,1 @@
+/home/odine/llama.cpp/build/bin/llama-server --model /home/odine/models/llama.cpp/models--lmstudio-community--gemma-4-26B-A4B-it-GGUF/snapshots/f11c185920b2c7b202e07e4a9768bf1bea0111d1/gemma-4-26B-A4B-it-Q4_K_M.gguf --alias gemma4:26b --host 127.0.0.1 --port 8084 --ctx-size 32768 --parallel 1 --flash-attn on --cache-type-k q4_0 --cache-type-v q4_0 -ngl 99

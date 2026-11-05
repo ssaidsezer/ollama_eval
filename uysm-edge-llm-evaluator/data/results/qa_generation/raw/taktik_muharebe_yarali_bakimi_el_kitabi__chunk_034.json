@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Bir yaralının hava yolu tıkalı gibi, tansiyon pnömotoraksı da olabilir ve ciddi kanıyor; bunu hangi triyaj grubuna koymalıyım?",
+      "answer": "Bu yaralı acil triyaj grubuna girer. Bu gruptakiler ölümden ya da büyük sakatlıktan kurtulmaları için dakikalar ile 2 saat içinde dikkatle merkeze ulaştırılmalıdır. Hava yolu tıkanıklığı, potansiyel tansiyon pnömotoraks ve kontrolsüz kanama bu gruba örnektir.",
+      "sayfa": 101,
+      "pdf_page_index": 107,
+      "kaynak_alinti": "Acil. Bu grup, ölümden veya büyük sakatlıklardan kurtulmak için dakikalar ile 2 saat arasında dikkatle merkeze ulaştırılmalıdır. Yaralanmalar arasında hava yolu tıkanıklığı veya potansiyel risk, tansiyon pnömotoraks, kontrolsüz kanama, uzuv kaybı riski veya çoklu ekstremite amputasyonları yer alır.",
+      "dogrulanan_bilgi": [
+        "dakikalar ile 2 saat arasında",
+        "hava yolu tıkanıklığı",
+        "kontrolsüz kanama"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Küçük sıyrıkları ve ufak kırıkları olan, kendi işini görebilen yaralıyı nasıl sınıflandırayım?",
+      "answer": "Bunu minimal triyaj grubuna koymalısın. Bu grupta küçük laserasyonlar, sıyrıklar, küçük kemik kırıkları ve küçük yanıklar olur; ayrıca bu yaralılar minimal tıbbi bakımla kendileriyle etkili şekilde ilgilenebilir.",
+      "sayfa": 101,
+      "pdf_page_index": 107,
+      "kaynak_alinti": "Minimal. Bu grubun nispeten küçük yaralanmaları vardır (örneğin, küçük laserasyonlar, sıyrıklar, küçük kemik kırıkları ve küçük yanıklar) ve minimal tıbbi bakım ile kendileriyle etkili bir şekilde ilgilenebilirler.",
+      "dogrulanan_bilgi": [
+        "küçük laserasyonlar",
+        "küçük kemik kırıkları",
+        "minimal tıbbi bakım ile kendileriyle etkili bir şekilde ilgilenebilirler"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Kitle kazasında çok sayıda ağır yaralı geliyor; tam kan yerine bileşen verirsem hangi oran öneriliyor?",
+      "answer": "Uygun transfüzyon stratejisi olarak eritrosit, taze donmuş plazma ve trombositlerin 1:1:1 oranında verilmesi öneriliyor. Metin, bu yaklaşımın kitlesel yaralılarda önemli bir hayatta kalma yararı gösterdiğini söylüyor.",
+      "sayfa": 102,
+      "pdf_page_index": 108,
+      "kaynak_alinti": "RBC, taze donmuş plazma ve trombositler 1: 1: 1 oranında transfüse edildiğinde, Kalıcı Özgürlük Operasyonu (OEF) ve Irak Özgürlük Operasyonu (OIF) sırasında büyük nakil gerektiren yaralılar için retrospektif kohort çalışmaları, kitlesel yaralılar için önemli bir hayatta kalma yararı göstermiştir.",
+      "dogrulanan_bilgi": [
+        "1: 1: 1 oranında",
+        "RBC, taze donmuş plazma ve trombositler",
+        "önemli bir hayatta kalma yararı"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

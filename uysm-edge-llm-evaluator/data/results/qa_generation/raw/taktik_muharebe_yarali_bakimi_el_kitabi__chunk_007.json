@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Göğüste delici yara var, kapatıcıyı yaranın ne kadar dışına taşırmalıyım?",
+      "answer": "Kapatmayı, yaranın kenarlarından en az 5 cm dışarı taşacak şekilde yerleştirmelisin.",
+      "sayfa": 20,
+      "pdf_page_index": 26,
+      "kaynak_alinti": "Kapamayı, yaranın kenarlarından en az 5 cm uzağına kadar erişecek şekilde uzanmasını sağlayın.",
+      "dogrulanan_bilgi": [
+        "en az 5 cm",
+        "yaranın kenarlarından"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Tansiyon pnömotoraks düşündüğüm yaralıda iğneyi tam nereye takayım?",
+      "answer": "İğneyi etkilenen tarafta ikinci interkostal boşluğa, orta klaviküler hatta yerleştirmelisin. Kaynakta kabul edilen alternatif bölge olarak ön aksiller hatta dördüncü veya beşinci kaburga boşluğu da belirtiliyor.",
+      "sayfa": 20,
+      "pdf_page_index": 26,
+      "kaynak_alinti": "Yaralının göğsünün etkilenen tarafındaki ikinci interkostal boşluğa (ikinci ve üçüncü kaburgalar arasında) orta klaviküler hatta (yaklaşık olarak meme ucu) iğneyi yerleştirin (Resim 1-12). (Kabul edilen alternatif farklı bölge: ön aksiler hattın dördüncü veya beşinci kaburga boşluğunda yer alır",
+      "dogrulanan_bilgi": [
+        "ikinci interkostal boşluk",
+        "orta klaviküler hat",
+        "ön aksiler hattın dördüncü veya beşinci kaburga boşluğu"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "İğne göğüs dekompresyonunda iğneyi hangi açıyla ilerletmem gerekiyor, doğru yere girdiğini nasıl anlarım?",
+      "answer": "İğneyi üçüncü kaburgadan 90 derecelik açıyla, plevraya ulaşana kadar ilerletmelisin. Plevral boşluğa girdiğinde göğüsten bir \"pop\" hissi ve hava sesi gelmesi bunun işaretidir.",
+      "sayfa": 21,
+      "pdf_page_index": 27,
+      "kaynak_alinti": "İğneyi plevraya ulaşana kadar üçüncü kaburgadan 90 derecelik bir açıyla yerleştirin, iğnenin plevral boşluğa girmesi ile göğüsten “pop” hissi vererek hava sesi çıkarması bunu kanıtlar.",
+      "dogrulanan_bilgi": [
+        "90 derecelik bir açıyla",
+        "“pop” hissi",
+        "hava sesi çıkarması"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "sorular": [
+    {
+      "question": "200 metre yükseklik farkı ve 2500 metre mesafede bakış açısını hızlıca kaç derece alayım?",
+      "answer": "Bu örnekte bakış açısı arctan(200/2500) yani arctan 0,08 alınır; sonuç 4,57 derecedir.",
+      "sayfa": 176,
+      "pdf_page_index": 176,
+      "kaynak_alinti": "Örn: 200 metre yükseklik farkı, 2500 metre mesafe; bakış açısı (yükseklikten gereken derece) kaçtır?\nFormül: Bakış açısı = arctan(200/2500)\nBakış açısı = arctan0,08\n0,08 yazılır → ‘e basılır. Sonuç: 4,57 derece",
+      "dogrulanan_bilgi": [
+        "200/2500",
+        "0,08",
+        "4,57 derece"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Ağır silah dürbünlerinde dereceyi milyeme çevireceksem hangi formülü kullanayım?",
+      "answer": "Dereceyi milyeme çevirmek için dereceyi 16.66 ile çarpman gerekir.",
+      "sayfa": 177,
+      "pdf_page_index": 177,
+      "kaynak_alinti": "Milyem = Derece x 16.66",
+      "dogrulanan_bilgi": [
+        "Milyem = Derece x 16.66"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Regulajlı bir dürbünde sağ-sol TM kaçta olmalı?",
+      "answer": "Regulajlı dürbünde sağ-sol TM değeri 30,00'a getirilmelidir.",
+      "sayfa": 178,
+      "pdf_page_index": 178,
+      "kaynak_alinti": "Dürbün +'sı o noktaya getirilir. Sağ-sol TM'i; 30.00 ise regulaj vardır.",
+      "dogrulanan_bilgi": [
+        "Sağ-sol TM'i 30.00"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "Sternal EZ-IO taktıktan sonra akış yoksa ne yapayım, başarısız mı sayayım?",
+      "answer": "Önce kateteri 10 ml IV sıvı ile yıkamalısın; gerekirse bunu birden fazla kez yapabilirsin. Buna rağmen hiç akış yoksa giriş başarılı kabul edilmez.",
+      "sayfa": 37,
+      "pdf_page_index": 43,
+      "kaynak_alinti": "Kateteri yıkayın:\n• Enjektörü hazırlayarak uzatma setine takın\n• 10 ml IV sıvı ile yıkayın\n• Birden fazla yıkama gerekebilir\n• Hiçbir akış yoksa başarılı değildir",
+      "dogrulanan_bilgi": [
+        "10 ml IV sıvı",
+        "Birden fazla yıkama gerekebilir",
+        "Hiçbir akış yoksa başarılı değildir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Sternal EZ-IO’dan sıvıyı iyi akıtmak için basınçlı vermem gerekir mi?",
+      "answer": "Evet. Medüller alandaki basınç, yaralının arter basıncının yaklaşık üçte biri kadar olduğu için maksimum akış oranına ulaşmak adına infüzyonda basınçlı sıvılar gerekir.",
+      "sayfa": 38,
+      "pdf_page_index": 44,
+      "kaynak_alinti": "• Medüller alanda basınç, yaralının arter basıncının yaklaşık üçte biri kadardır.\n• Maksimum akış oranına ulaşmak için infüzyonda basınçlı sıvılar gereklidir.",
+      "dogrulanan_bilgi": [
+        "yaklaşık üçte biri",
+        "basınçlı sıvılar gereklidir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Periferik damar yolu açarken turnikeyi nereye koyayım, iğneyi hangi açıyla sokayım?",
+      "answer": "Sıkıştırma bandını giriş yerinin yaklaşık 5 cm üzerine koymalısın. İğneyi ise cilde 20/30 derecelik açıyla tutup sokmalısın.",
+      "sayfa": 39,
+      "pdf_page_index": 45,
+      "kaynak_alinti": "• Sıkıştırma bandını giriş yerinin yaklaşık 5 cm üzerine uygulayın.\n• İğneyi cilde 20/30 derecelik bir açıyla tutun ve cilde doğru sokun.",
+      "dogrulanan_bilgi": [
+        "yaklaşık 5 cm",
+        "20/30 derecelik"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

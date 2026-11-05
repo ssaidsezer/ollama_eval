@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "FAST1 taktıktan sonra hattı nasıl bağlayıp ilk ne vermeliyim, ağrıyı azaltmak için ne eklenebilir?",
+      "answer": "İnfüzyon hortumunu dişi konnektöre dik açıyla bağlamalısın. Ardından kateterden 10 ml steril IV solüsyon verilir. İnfüzyon sırasında ağrıyı azaltmak için 2-3 ml %2'lik lidokain eklenebilir.",
+      "sayfa": 25,
+      "pdf_page_index": 31,
+      "kaynak_alinti": "İnfüzyon hortumunu dik açıyla dişi konnektöre (mavi uç) bağlayın.\nKatetere 10 ml steril IV solüsyon verin.\nİnfüzyon sırasında ağrıyı azaltmak için 2 - 3 ml % 2'lik lidokain eklenebilir.",
+      "dogrulanan_bilgi": [
+        "10 ml steril IV solüsyon",
+        "2 - 3 ml % 2'lik lidokain",
+        "dik açıyla dişi konnektöre"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "FASTResponder'ı kimlere uygularken özellikle ölçüye dikkat etmeliyim, yaş sınırı ne?",
+      "answer": "Bu cihazda ölçü belirleme özellikle önemli; kalifiye profesyoneller, gerekçeli istisnalar dışında 12 yaş ve üstü hastalar için ölçütlere göre karar vermelidir.",
+      "sayfa": 26,
+      "pdf_page_index": 32,
+      "kaynak_alinti": "FASTResponder, manubrium içine 6 mm girecek şekilde tasarlanmıştır. Kalifiye profesyoneller, gerekçeler, istisnalar veya zorunlu istisnalar hariç, 12 yaş ve üstü hastalar için ölçütlere göre belirlemelidir.",
+      "dogrulanan_bilgi": [
+        "12 yaş ve üstü",
+        "manubrium içine 6 mm",
+        "ölçütlere göre belirlemelidir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "FASTResponder'ı tekrar kullanayım mı, bir de açık ucuna elim değerse sorun olur mu?",
+      "answer": "Hayır, tekrar kullanılması önerilmez; çapraz kontaminasyon ciddi yaralanma ya da ölüme yol açabilir. Ayrıca iğne kontaminasyonu riski nedeniyle cihazın açık ucuna parmakla dokunmamalısın.",
+      "sayfa": 27,
+      "pdf_page_index": 33,
+      "kaynak_alinti": "Ciddi yaralanma veya ölüme yol açabilecek çapraz kontaminasyon potansiyeli nedeniyle FASTResponder'ın yeniden kullanılması önerilmez. FASTResponder kullanıldıktan sonra çalışmaması olası değildir.\nBir iğne kontaminasyonu nedeniyle cihazın açık ucuna parmak (lar) dokundurmayın.",
+      "dogrulanan_bilgi": [
+        "yeniden kullanılması önerilmez",
+        "çapraz kontaminasyon",
+        "açık ucuna parmak (lar) dokundurmayın"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "config": {
+    "run_label": "qwen3.6-35b-a3b_q4km_kv-q8_repo-no-rag-prompt",
+    "model": "qwen3.6:35b-a3b",
+    "base_url": "http://192.168.1.29:8084/v1",
+    "csv": "/Users/hasan/Desktop/odine-llm-evaluator/uysm-edge-llm-evaluator/data/csv/question_answers_100.csv",
+    "eval_model": "gpt-5.4-mini",
+    "max_tokens": 512,
+    "temperature": 0.0,
+    "prompt_cache": "server-enabled; measured via cached_tokens",
+    "model_load_included": false,
+    "warmup_included": false
+  },
+  "counts": {
+    "total": 100,
+    "successful": 100,
+    "failed": 0
+  },
+  "inference": {
+    "wall_time_seconds": {
+      "mean": 4.32371898,
+      "median": 4.411671,
+      "p50": 4.410154,
+      "p95": 6.432665,
+      "p99": 6.847827
+    },
+    "prompt_ms": {
+      "mean": 360.90658,
+      "median": 359.4295,
+      "p50": 359.002,
+      "p95": 379.016,
+      "p99": 392.778
+    },
+    "generation_ms": {
+      "mean": 3728.0768599999997,
+      "median": 3757.1705,
+      "p50": 3746.573,
+      "p95": 5793.153,
+      "p99": 6221.8
+    },
+    "prompt_tokens_per_second": {
+      "mean": 415.6641778333031,
+      "median": 415.32128353952965,
+      "p50": 415.29049430717555,
+      "p95": 439.9928945246847,
+      "p99": 443.85022369506675
+    },
+    "generation_tokens_per_second": {
+      "mean": 33.279208029931766,
+      "median": 33.17213849395057,
+      "p50": 33.172049129335775,
+      "p95": 33.66821246077102,
+      "p99": 33.70461462986247
+    },
+    "measured_wall_time_seconds_total": 432.371898
+  },
+  "cache": {
+    "cached_tokens_total": 100,
+    "prompt_tokens_total": 15109,
+    "cached_token_ratio": 0.006618571712224502
+  },
+  "tokens": {
+    "completion_total": 12386
+  },
+  "evaluation": {
+    "successful": 100,
+    "failed": 0,
+    "skipped": 0,
+    "correctness_score_mean": 4.67,
+    "completeness_score_mean": 4.53
+  }
+}

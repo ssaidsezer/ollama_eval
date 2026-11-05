@@ -1,0 +1,82 @@
+{
+  "config": {
+    "run_label": "qwen_ngram_q4km_kv-q8_0_ctx32768_fa-on_prompt-cache-off_qa150",
+    "model": "qwen3.6:35b-a3b",
+    "base_url": "http://127.0.0.1:18084/v1",
+    "csv": "/Users/hasan/Desktop/odine-llm-evaluator/uysm-edge-llm-evaluator/data/qa/final_qa_150.csv",
+    "eval_model": "gpt-5.4-mini",
+    "max_tokens": 512,
+    "temperature": 0.0,
+    "prompt_cache": "server-enabled; measured via cached_tokens",
+    "model_load_included": false,
+    "warmup_included": false
+  },
+  "counts": {
+    "total": 150,
+    "successful": 150,
+    "failed": 0
+  },
+  "inference": {
+    "wall_time_seconds": {
+      "mean": 3.38057908,
+      "median": 3.2163105,
+      "p50": 3.206191,
+      "p95": 5.091524,
+      "p99": 10.420144
+    },
+    "prompt_ms": {
+      "mean": 440.1279,
+      "median": 439.51649999999995,
+      "p50": 439.515,
+      "p95": 456.593,
+      "p99": 465.808
+    },
+    "generation_ms": {
+      "mean": 2680.8597133333333,
+      "median": 2536.0885,
+      "p50": 2532.894,
+      "p95": 4406.334,
+      "p99": 9736.853
+    },
+    "prompt_tokens_per_second": {
+      "mean": 329.3494406795013,
+      "median": 329.12840317296786,
+      "p50": 328.942034390658,
+      "p95": 346.3660240162402,
+      "p99": 354.2981906434277
+    },
+    "generation_tokens_per_second": {
+      "mean": 37.224529011862124,
+      "median": 37.37003551924674,
+      "p50": 37.36918430293282,
+      "p95": 37.88285358908469,
+      "p99": 38.557083762510395
+    },
+    "measured_wall_time_seconds_total": 507.086862
+  },
+  "cache": {
+    "cached_tokens_total": 0,
+    "prompt_tokens_total": 21747,
+    "cached_token_ratio": 0.0
+  },
+  "tokens": {
+    "completion_total": 14949
+  },
+  "evaluation": {
+    "successful": 0,
+    "failed": 0,
+    "skipped": 150,
+    "correctness_score_mean": null,
+    "completeness_score_mean": null,
+    "answerable": {
+      "successful": 0,
+      "correctness_score_mean": null,
+      "completeness_score_mean": null
+    },
+    "unanswerable": {
+      "successful": 0,
+      "grounded_refusal_accuracy": null,
+      "hallucination_rate": null
+    }
+  }
+}

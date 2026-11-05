@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "LAW’ı ateşe hazırlayıp sonra vazgeçersem ne yapmam gerekiyor?",
+      "answer": "Roketi atış için kurduysan ama ateşlemeyeceksen, tekrar takıp kapaklarını kapatman gerekir.",
+      "sayfa": 86,
+      "pdf_page_index": 86,
+      "kaynak_alinti": "Roket, atış için kurulur ve atılmazsa, aşağıdaki gibi takılır ve kapakları örtülür.",
+      "dogrulanan_bilgi": [
+        "atış için kurulur",
+        "atılmazsa",
+        "kapakları örtülür"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Bu LAW’ın nişangâhı kaç metreye kadar?",
+      "answer": "Bu silahın nişangâhı 200 metreye kadardır.",
+      "sayfa": 86,
+      "pdf_page_index": 86,
+      "kaynak_alinti": "200 metre nişangâha sahiptir.",
+      "dogrulanan_bilgi": [
+        "200 metre"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "DSHK ile yerdeki hedefe etkili menzil ne kadar, havada ne kadar?",
+      "answer": "DSHK’nın etkili kara mesafesi 2400 metre, etkili hava mesafesi ise 1000-1500 metredir.",
+      "sayfa": 360,
+      "pdf_page_index": 87,
+      "kaynak_alinti": "Etkili kara mesafesi: 2400 m\nEtkili hava mesafesi:1000-1500 m",
+      "dogrulanan_bilgi": [
+        "2400 m",
+        "1000-1500 m"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "karsilastirma",
+      "sayfa_uyarisi": "Etiketteki SAYFA 360, sayfa altındaki basılı numarayla uyuşmuyor; etiket esas alındı."
+    }
+  ]
+}

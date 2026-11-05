@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Hedef benden yüksekteyse bulduğum bakış açısını atış cetvelindeki dereceye ekleyecek miyim çıkaracak mıyım?",
+      "answer": "Hedef yüksekteyse hesapladığın bakış açısını atış cetvelindeki dereceye eklersin. Hedef alçaktaysa çıkarılır.",
+      "sayfa": 170,
+      "pdf_page_index": 170,
+      "kaynak_alinti": "Çıkan bakış açısı;\n► Eğer hedef alçaktaysa atış cetvelindeki dereceden çıkarılır.\n► Eğer hedef yüksekteyse atış cetvelindeki dereceyle toplanır.",
+      "dogrulanan_bilgi": [
+        "hedef yüksekteyse atış cetvelindeki dereceyle toplanır",
+        "hedef alçaktaysa atış cetvelindeki dereceden çıkarılır"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Havanla atışta yükseklik farkı 400 metre ve hedef alçakta, 2500 metre yerine kaç metreye göre atış yapmalıyım?",
+      "answer": "Bu durumda yükseklik farkını ikiye bölersin: 400/2 = 200 metre. Hedef alçakta olduğu için bu değeri mesafeden çıkarırsın. Yani 2500 yerine 2300 metreye göre atış yapmalısın.",
+      "sayfa": 171,
+      "pdf_page_index": 171,
+      "kaynak_alinti": "300 metreden büyükse; yükseklik farkı ikiye bölünür. Hedef yüksekteyse mesafeye eklenir, hedef alçaktaysa mesafeden çıkarılır.\nÖrn: 2500 metreye rusi havanla atış yapılacaktır. Yükseklik farkı 400 metredir. Hedef alçakta olduğuna göre atılması gereken mesafe kaçtır?\n400/2 = 200 metre; Atış metresi = 2500 - 200 → 2300 m",
+      "dogrulanan_bilgi": [
+        "yükseklik farkı ikiye bölünür",
+        "hedef alçaktaysa mesafeden çıkarılır",
+        "2300 m"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "82 mm HDD ile 3000 metreye atacağım, 700 metre önümde 600 metre yüksek engel var. Mermi engeli aşar mı?",
+      "answer": "Hayır, aşmaz. Örnekte atılacak derece 3000 metre için 42° alınmış. Engel için 700 metreye 5° ve yükseklikten gelen açı arctan(600/700) = 41°; buna ihtiyaten 3 derece daha eklenince ED 49° oluyor. AD 42° olduğu için ED'den küçük kalıyor ve mermi engeli aşmıyor.",
+      "sayfa": 172,
+      "pdf_page_index": 172,
+      "kaynak_alinti": "Örnek; 82 mm HDD 3000 metreye atış yapılacak. 700 m önümüzde 600 m yüksekliğinde bir engel var. Mermi aşar mı? Aşmaz mı?\n• Atılacak Derece (AD): Atış cetvelinde 3000 m = 42°\n• Engel Derecesi: Atış cetvelinde 700 m=5°\nYükseklikten gereken derece: arctan(600/700) = 41°\nED = Engel derecesi + yükseklikten gereken derece + 3 derece (ihtiyaten)\nED = 5 + 41 + 3 =49°\n• AD, ED den küçük olduğu için mermi engeli aşmaz.",
+      "dogrulanan_bilgi": [
+        "3000 m = 42°",
+        "ED = 5 + 41 + 3 =49°",
+        "mermi engeli aşmaz"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

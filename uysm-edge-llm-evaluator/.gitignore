@@ -1,0 +1,46 @@
+.env
+__pycache__
+.pytest_cache/
+hf_cache/
+.DS_Store
+.vscode
+tmp/
+.worktrees/
+.remember/
+
+# Local Python virtual environments
+.venv/
+.venv*/
+venv/
+
+# Local model profile store (runtime)
+web_backend/data/model_profiles.json
+web_backend/data/model_profiles.json.lock
+
+# ASR pipeline runtime artifacts
+asr/atbk_pipeline.log
+asr/ATBK_Pipeline/reports/
+asr/ATBK_Pipeline/transcripts/
+
+# Generated QA page renders. Keep the manifest as provenance.
+data/qa_chunks/*
+!data/qa_chunks/manifest.json
+
+# Superseded local smoke artifacts.
+data/qa/qwen_smoke_3.csv
+data/results/qwen_smoke_150_20260721/
+
+# Runtime-only server artifacts. Keep run.log, evaluation logs, and
+# server_command.txt as experiment provenance.
+data/results/**/server.pid
+data/results/**/server.log
+data/results/**/server_smoke.log
+
+# Completed-run checkpoints verified byte-for-byte identical to merged_results.csv.
+data/results/kv_rag_classic_bm25_20260722_150/*/checkpoints/
+data/results/kv_rag_classic_vector_20260722_150/*/checkpoints/
+data/results/rag_methods_gemma_q4_20260722_150/*/checkpoints/
+
+# Derived chart exports; canonical PDFs and source scripts remain visible.
+output/pdf/*.png
+output/pdf/*.svg

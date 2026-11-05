@@ -1,0 +1,27 @@
+# FastAPI stack + RAG core package and pipeline. Install from repo root: pip install -r requirements.txt
+fastapi>=0.115.0
+uvicorn>=0.32.0
+python-multipart>=0.0.9
+pandas>=2.0.0
+plotly>=5.18.0
+openai>=1.0.0
+pdfplumber
+pymupdf>=1.24.0
+requests
+python-dotenv
+numpy<2
+qdrant-client>=1.17.0
+rank-bm25>=0.2.2
+pydantic>=2.0.0
+portalocker>=2.0.0
+
+# ASR pipeline (asr/atbk_asr_llm_local.py)
+torch>=2.0.0
+transformers>=4.35.0
+accelerate>=0.25.0
+bitsandbytes>=0.41.0  # CUDA için 4-bit quantization (CPU/macOS'ta USE_4BIT=False yapın)
+librosa>=0.10.0
+soundfile>=0.12.0
+pydub>=0.25.0
+gTTS>=2.4.0
+tqdm>=4.66.0

@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Gece helikoptere iniş noktasını ışıkla göstereceksem hangi işaret kullanılıyor?",
+      "answer": "Gece taktik iniş bölgesini işaretlemek için ışıklı ters \"Y\" kullanılır; bu işaret helikoptere iniş noktasını gösterir.",
+      "sayfa": 106,
+      "pdf_page_index": 112,
+      "kaynak_alinti": "Ters “Y” sistemi ABD Kuvvetleri için birincil işaretleme olarak kullanılır. Duman dışında günlük operasyonlar için iniş bölgesi (LZ) işareti yoktur. İniş bölgesinin taktik aydınlatması, zeminde “beanbag”, ya da dairesel bir hareketle döndürülen 550 kordona bağlanan bir Chemlight (kimyasal ışık çubuğu)'tan oluşabilir. Işıklı ters \"Y\", belirtilen helikoptere iniş noktasını gösterir.",
+      "dogrulanan_bilgi": [
+        "Ters “Y” sistemi",
+        "Işıklı ters \"Y\"",
+        "iniş noktasını gösterir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "9 hatlı tahliyede birden fazla yaralıyı tek taleple bildirebiliyorum; peki MIST raporunu da hepsi için tek formda mı geçerim?",
+      "answer": "Hayır. Tek bir 9 Hatlı Talep içinde birden fazla yaralı bildirilebilir ama MIST raporu her yaralı için ayrı kullanılır.",
+      "sayfa": 108,
+      "pdf_page_index": 114,
+      "kaynak_alinti": "Tek bir 9 Hatlı Talep Raporunda birden fazla yaralı kullanılabilir fakat MIST Raporu bir yaralı için kullanılır.",
+      "dogrulanan_bilgi": [
+        "Tek bir 9 Hatlı Talep Raporunda birden fazla yaralı",
+        "MIST Raporu bir yaralı için kullanılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "karsilastirma",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "MIST tam olarak hangi başlıkları kapsıyor?",
+      "answer": "MIST; yaralanma mekanizması, yaralanma, işaret veya semptomlar ve tedavi mekanizmasını içeren bir rapordur.",
+      "sayfa": 108,
+      "pdf_page_index": 114,
+      "kaynak_alinti": "9-Hatlı Talep, bir MIST (yaralanma mekanizması, yaralanma, işaret / semptom ve tedavi mekanizması) raporunu içerir.",
+      "dogrulanan_bilgi": [
+        "yaralanma mekanizması",
+        "yaralanma",
+        "işaret / semptom ve tedavi mekanizması"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

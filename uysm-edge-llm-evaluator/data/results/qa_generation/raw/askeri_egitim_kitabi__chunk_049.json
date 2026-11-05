@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "75 mm GTT ile 400 metrede sağdan sola giden araç saniyede 2 bölme ilerliyorsa ne kadar önüne almam gerekir?",
+      "answer": "400 metrede bu hızdaki hedef için 3 bölme önleme yapmalısın. Sağ şebekede, 400 metre hattında 0 çizgisinin 3 bölme sağına kalıp ateş edilir.",
+      "sayfa": 149,
+      "pdf_page_index": 149,
+      "kaynak_alinti": "Örn: 400 metrede, sağdan sola giden bir araç, 1 saniyede 2 bölme ilerliyor. 2 x 1,5 = 3\nSağ şebekede, 400 metre hattında, 0 çizgisinin 3 bölme kala, ateşlenir.",
+      "dogrulanan_bilgi": [
+        "400 metrede",
+        "1 saniyede 2 bölme",
+        "3 bölme"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "SPG-9'un geri tehlike bölgesi ne kadar?",
+      "answer": "SPG-9 için geri tehlike bölgesi 30 metredir.",
+      "sayfa": 150,
+      "pdf_page_index": 150,
+      "kaynak_alinti": "Geri tehlike bölgesi 30 m'dir.",
+      "dogrulanan_bilgi": [
+        "30 m"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "SPG-9 delici mermiyle hareketli hedefe atacağım; 700 metreye mermi ne kadar sürede varır?",
+      "answer": "Delici mermi 700 metreye 1 saniyede ulaşır. Hareketli hedefte önleme hesabını buna göre yapmalısın.",
+      "sayfa": 151,
+      "pdf_page_index": 151,
+      "kaynak_alinti": "Delici merminin; 350 metreye ulaşma zamanı 0,5 sn, 700 metreye ulaşma zamanı 1 sn, 1200 metreye ulaşma zamanı 2 sn’dir.",
+      "dogrulanan_bilgi": [
+        "700 metreye",
+        "1 sn"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

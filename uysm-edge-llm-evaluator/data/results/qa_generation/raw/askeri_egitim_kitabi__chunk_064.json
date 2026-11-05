@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Atıştan sonra tetiği ne kadar sürede sökmem lazım, beklersem ne olur?",
+      "answer": "Tetik, atıştan sonra en geç 3 dakika içinde silahtan çıkarılmalı. Daha uzun beklersen yanma riski var.",
+      "sayfa": 195,
+      "pdf_page_index": 195,
+      "kaynak_alinti": "Uyarı: Tetik atıştan sonra 3 dakika içinde silahtan çıkarılmalıdır. Aksi takdirde yanabilir.",
+      "dogrulanan_bilgi": [
+        "3 dakika içinde",
+        "yanabilir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "SA-7 ile atışa hazırlanırken namluyu hangi açıda tutup önümü ne kadar mesafede kontrol etmeliyim?",
+      "answer": "Atış yerinde silahı 20 derece kaldırıp kauçuk parçayı açarak 400 metrelik alanda engel olup olmadığını kontrol etmelisin. Engel varsa atış yapılmaz.",
+      "sayfa": 195,
+      "pdf_page_index": 195,
+      "kaynak_alinti": "Atış yapılacak yerde silah 20 derece kaldırılır. Kavuçuk parça açılır ve 400m’lik alanda herhangi bir engel varmı yokmu kontrol edilir. Varsa atış yapılmaz.",
+      "dogrulanan_bilgi": [
+        "20 derece",
+        "400m’lik alanda",
+        "Varsa atış yapılmaz"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Güneş hedef tarafındaysa hangi sektöre atış yapmamam gerekiyor?",
+      "answer": "Güneşin sağ ve solunda 22,5 derecelik sektöre atış yapmamalısın; bu durumda mermi güneşe gider.",
+      "sayfa": 196,
+      "pdf_page_index": 196,
+      "kaynak_alinti": "Güneşin 22,5 derece sağına ve soluna atış yapılmaz. Bu durumda mermi güneşe gider.",
+      "dogrulanan_bilgi": [
+        "22,5 derece sağına ve soluna",
+        "atış yapılmaz",
+        "mermi güneşe gider"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

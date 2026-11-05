@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "FASTResponder'ı sternuma yerleştirirken tam olarak nasıl hizalamalıyım?",
+      "answer": "Cihazın ayak çentiğini hastanın sternal çentiğinin orta hattına gelecek ve manubriuma dik olacak şekilde yerleştirmelisin.",
+      "sayfa": 20,
+      "pdf_page_index": 34,
+      "kaynak_alinti": "Cihazın ayak çentiğini hastanın sternal çentiğinin orta hattı üzerinde ve manubriuma dik gelecek şekilde hizalayın.",
+      "dogrulanan_bilgi": [
+        "sternal çentiğinin orta hattı üzerinde",
+        "manubriuma dik"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": "Etikette SAYFA 20 yazıyor, ancak sayfa altındaki basılı numara 28 görünüyor."
+    },
+    {
+      "question": "FASTResponder'ı bastıktan sonra infüzyon tüpünü çıkarmak için ne yapacağım?",
+      "answer": "Cihazın ayağını basılı tutup FASTResponder'ı geri çekmelisin; bu sırada alttan infüzyon tüpü çıkar. Sonrasında FASTResponder'ı yerel kontaminasyon protokollerine göre atmalısın.",
+      "sayfa": 29,
+      "pdf_page_index": 35,
+      "kaynak_alinti": "Cihazın ayağını basılı tutarken FASTResponder'ı geri çekin. Altından infüzyon tüpü çıkacaktır. Yerel kontaminasyon protokollerini izleyerek FASTResponder'ı atın.",
+      "dogrulanan_bilgi": [
+        "ayağını basılı tutarken geri çekin",
+        "Altından infüzyon tüpü çıkacaktır",
+        "Yerel kontaminasyon protokollerini izleyerek FASTResponder'ı atın"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Sternal girişten sonra IV hattı bağlayınca hattın gerilmemesi için ne yapmalıyım, bir de yerini nasıl kontrol edebilirim?",
+      "answer": "IV hortumunu infüzyon tüpüne bağladıktan sonra gerilimi önlemek için kancayı cihazın ayağına sabitlemelisin. İstersen yerleşimi aspirasyonla doğrulayıp temizlemek için sıvı verebilirsin.",
+      "sayfa": 30,
+      "pdf_page_index": 36,
+      "kaynak_alinti": "IV hortumu infüzyon tüpüne bağlayın ve gerginliği önlemek için kancayı cihazın ayağına sabitleyin. İsteğe bağlı: Yerleşimi aspirasyon ile onaylayın ve temizlemek için sıvı verin.",
+      "dogrulanan_bilgi": [
+        "kancayı cihazın ayağına sabitleyin",
+        "Yerleşimi aspirasyon ile onaylayın",
+        "temizlemek için sıvı verin"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

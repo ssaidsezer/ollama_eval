@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "Bacakta hayatı tehdit eden kanama var; turnikeyi yaraya tam nereye koyayım?",
+      "answer": "Turnikeyi yaranın 5-7.5 cm üzerine, giysilerin altına yerleştirmelisin.",
+      "sayfa": 1,
+      "pdf_page_index": 7,
+      "kaynak_alinti": "Turnike yaranın 5-7.5 cm üzerine giysilerin altına yerleştirilir.",
+      "dogrulanan_bilgi": [
+        "5-7.5 cm",
+        "giysilerin altına"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Şüpheli pnömotoraksta iğne dekompresyonunu hangi kalınlıkta kateterle yapayım?",
+      "answer": "Şüpheli pnömotoraksı tedavi etmek için 14 gauge kateterle iğne dekompresyonu uygulamalısın.",
+      "sayfa": 2,
+      "pdf_page_index": 8,
+      "kaynak_alinti": "Pnömotoraksı tedavi etmek için 14 gauge kateterle iğne dekompresyonu uygulayın.",
+      "dogrulanan_bilgi": [
+        "14 gauge",
+        "iğne dekompresyonu"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Yaralı ağızdan ilaç alabiliyor; hangi antibiyotiği ne dozda verebilirim?",
+      "answer": "Yaralı oral sıvıları tolere edebiliyorsa moksifloksasin 400 miligram verebilirsin.",
+      "sayfa": 3,
+      "pdf_page_index": 9,
+      "kaynak_alinti": "Yaralının oral sıvıları tolere edebilmesi durumunda, sefotetan ve ertapenem yerine moksifloksasin 400 miligram (mg) verilebilir.",
+      "dogrulanan_bilgi": [
+        "moksifloksasin",
+        "400 miligram"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

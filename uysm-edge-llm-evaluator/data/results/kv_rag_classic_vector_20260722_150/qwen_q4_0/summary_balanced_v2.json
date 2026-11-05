@@ -1,0 +1,37 @@
+{
+  "rubric": "balanced-v2",
+  "eval_model": "gpt-5.4-mini",
+  "reasoning_effort": "high",
+  "source_csv": "data/results/kv_rag_classic_vector_20260722_150/qwen_q4_0/merged_results.csv",
+  "counts": {
+    "total": 150,
+    "successful": 150,
+    "failed": 0
+  },
+  "evaluation": {
+    "correctness_score_mean": 7.3933333333333335,
+    "completeness_score_mean": 6.446666666666666,
+    "groundedness_score_mean": 6.953333333333333,
+    "verdicts": {
+      "partial": 30,
+      "fail": 34,
+      "pass": 86
+    },
+    "hallucination_risk": {
+      "medium": 23,
+      "high": 33,
+      "low": 94
+    },
+    "answerable": {
+      "count": 140,
+      "correctness_score_mean": 7.478571428571429,
+      "completeness_score_mean": 6.614285714285714,
+      "groundedness_score_mean": 7.164285714285715
+    },
+    "unanswerable": {
+      "count": 10,
+      "grounded_refusal_accuracy": 0.3,
+      "hallucination_rate": 0.6
+    }
+  }
+}

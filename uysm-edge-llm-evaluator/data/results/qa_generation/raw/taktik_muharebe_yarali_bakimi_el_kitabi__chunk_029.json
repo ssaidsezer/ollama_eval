@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Göğüs travmalı yaralımın nefesi giderek kötüleşiyor; tansiyon pnömotorakstan şüpheleniyorsam iğneyi nereye ve nasıl sokmalıyım?",
+      "answer": "14 gauge iğneyi çıkarıp üçüncü kaburganın orta klavikular çizgisinin üst sınırından cilde yerleştirerek, 90 derecelik açıyla ikinci interkostal alana doğru yönlendirmelisin. Plevral boşluğa girince bir “pop” hissi beklenir; bu hissi alınca iğnenin göbeğe kadar ilerlediğinden emin ol.",
+      "sayfa": 85,
+      "pdf_page_index": 91,
+      "kaynak_alinti": "14 gauge iğneyi plastik kabından çıkartın.\nİğneyi üçüncü kaburganın orta klavikular çizgisinin üst sınırından cilde yerleştirin ve iğneyi 90 derecelik açıyla ikinci interkostal alana doğru yönlendirin.\nİğne plevral boşluğa girdiğinde, bir “pop” hissi verecektir. Bu “pop” sesi duyulursa, iğnenin göbeğe kadar ilerlediğinden emin olun.",
+      "dogrulanan_bilgi": [
+        "14 gauge iğne",
+        "üçüncü kaburganın orta klavikular çizgisinin üst sınırı",
+        "90 derecelik açıyla ikinci interkostal alan"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Şoktaki yaralıya Hextend vereceksem ilk bolus ne kadar, ne kadar izlemeliyim ve gerekirse ikinci bolus ne zaman?",
+      "answer": "Resüsitasyona 500 ml Hextend bolus ile başlanır. Yaralı 30 dakika izlenir; klinik düzelme yetersizse ikinci 500 ml Hextend bolus uygulanır. Toplamda 1.000 ml’den fazla Hextend verilmez.",
+      "sayfa": 86,
+      "pdf_page_index": 92,
+      "kaynak_alinti": "Yaralıda şok varsa, tam kan, dondurulmuş plazma veya 500 mililitre (ml) Hextend bolus ile resüsitasyona başlayın. Yaralı 30 dakika boyunca izlenmelidir. Klinik iyileşme yetersizse, ikinci bir 500 ml Hextend bolus uygulanmalıdır. 1.000 ml'den fazla Hextend kullanmayınız.",
+      "dogrulanan_bilgi": [
+        "500 mililitre (ml) Hextend bolus",
+        "30 dakika",
+        "1.000 ml'den fazla Hextend kullanmayınız"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Yaralım şokta ve ağrısı şiddetli; fentanil yerine ketamini nasıl vermeliyim?",
+      "answer": "Şoktaki ve orta-şiddetli ağrısı olan yaralıda ketamin tercih edilir. Gerektikçe her 30 dakikada bir 50 mg IM veya IN verebilirsin; alternatif olarak yavaş IV ya da IO yolla 20 mg verilir ve gerekirse her 20 dakikada bir tekrarlanır.",
+      "sayfa": 87,
+      "pdf_page_index": 93,
+      "kaynak_alinti": "Orta ve şiddetli ağrı varsa ve yaralı şokta ise, gereken her 30 dakikada bir 50 miligram ketamin IM veya IN verin veya yavaşça IV veya IO ile 20 mg ketamin verin, gerekirse her 20 dakikada bir tekrarlayın.",
+      "dogrulanan_bilgi": [
+        "her 30 dakikada bir 50 miligram ketamin IM veya IN",
+        "yavaşça IV veya IO ile 20 mg ketamin",
+        "gerekirse her 20 dakikada bir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Atış cetvelinde tam mesafe yoksa aradaki dereceyi nasıl çıkarırım?",
+      "answer": "Önce cetvelde gereken mesafenin alt ve üstündeki iki mesafenin derece farkını ve metre aralığını bulursun. Sonra gereken mesafeden alttaki mesafeyi çıkarıp küsuratı hesaplarsın. Eklenecek derece, küsurat × derece farkı / aralık formülüyle bulunur. Normal durumda gerekli derece, alttaki mesafenin derecesine bu eklenecek dereceyi ekleyerek hesaplanır; havanda ise mesafe arttıkça derece düştüğü için çıkarılır.",
+      "sayfa": 174,
+      "pdf_page_index": 174,
+      "kaynak_alinti": "Eklenecek Derece = Küsurat x Derece Farkı / Aralık\n\nGerekli Derece = Alttaki mesafenin derecesi + Eklenecek Derece\n\nHavanda; dereceler, mesafe arttıkça düştüğü için;\nGerekli Derece = Alttaki mesafenin derecesi - Eklenecek Derece",
+      "dogrulanan_bilgi": [
+        "Küsurat x Derece Farkı / Aralık",
+        "Alttaki mesafenin derecesi + Eklenecek Derece",
+        "havanda ... - Eklenecek Derece"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "7640 metreye BM atışı yapacaksam dereceyi kaç alayım?",
+      "answer": "7640 metre için gerekli derece 27,06° olur. Örnekte 7600 m için 26,9° ve 7700 m için 27,3° alınmış; aradaki 40 metrelik fark için eklenecek derece 0,16° hesaplanıp 26,9° üzerine eklenmiştir.",
+      "sayfa": 174,
+      "pdf_page_index": 174,
+      "kaynak_alinti": "Örn: 7640 metreye BM atış derecesi;\n(7600 m= 26.9˚, 7700 m=27.3˚)\n• 27,3 – 26,9 = 0,4˚ (Derece Farkı)\n• 7700 – 7600 = 100 (Aralık)\n• 7640 – 7600 = 40 (Küsurat)\n• Eklenecek Derece = 40 x 0,4 /100 = 0,16˚\n• Gerekli Derece = 26,9 + 0,16 = 27,06˚",
+      "dogrulanan_bilgi": [
+        "27,06˚",
+        "40 x 0,4 /100 = 0,16˚",
+        "7600 m= 26.9˚, 7700 m=27.3˚"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "200 metre yükseklik farkı ve 2500 metre mesafede bakış açısını hesap makinesiyle kaç derece bulurum?",
+      "answer": "Bakış açısı 4,57 derece çıkar. Formül arctan(200/2500), yani arctan 0,08’dir. Hesap makinesinde 0,08 yazıp ikinci fonksiyonla tan tersini kullanırsın.",
+      "sayfa": 57,
+      "pdf_page_index": 175,
+      "kaynak_alinti": "Örn: 200 metre yükseklik farkı, 2500 metre mesafe; bakış açısı (yükseklikten gereken derece) kaçtır?\nFormül: Bakış açısı = arctan(200/2500)\nBakış açısı = arctan0,08\n\n0,08 yazılır → 2ndf → tan tuşuna basılır = 4,57 derece bakış açısı",
+      "dogrulanan_bilgi": [
+        "arctan(200/2500)",
+        "0,08",
+        "4,57 derece"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

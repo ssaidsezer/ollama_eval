@@ -1,0 +1,2 @@
+variant,model,collection,status,total_questions,attempted_questions,successful_questions,inference_errors,evaluation_errors,rows,duration_seconds,output_csv,error
+smart_vector,gemma4:26b-a4b,documents_embeddinggemma_300m_3000p_500c_100ov,ok,150,150,150,0,0,150,1706.4,checkpoints/gemma4_26b-a4b__smart_vector.csv,

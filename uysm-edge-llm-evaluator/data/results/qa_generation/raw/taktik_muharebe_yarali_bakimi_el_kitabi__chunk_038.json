@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Aşırı kanayan yaralı geldi; TXA’yı ne dozda ve neyle vermeliyim, bir de ne kadar erken yapmam lazım?",
+      "answer": "Aşırı kanamada TXA 1 g IV verilir. 100 ml normal serum fizyolojik, Laktatlı Ringer veya Hextend solüsyonu ile uygulanır. Etkili olması için ilk üç saat içinde verilmelidir.",
+      "sayfa": 112,
+      "pdf_page_index": 118,
+      "kaynak_alinti": "Traneksamik asit (TXA), 1 g IV 100 ml normal serum fizyolojik ile, Laktatlı Ringer veya Hextend solusyonu. Aşırı kanamalarda ilk üç saat içinde uygulanması endikedir.",
+      "dogrulanan_bilgi": [
+        "1 g IV",
+        "100 ml normal serum fizyolojik ile",
+        "ilk üç saat içinde"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Opioid verdikten sonra bulantı-kusma başladı; antiemetik olarak ne kullanayım?",
+      "answer": "Bu durumda ondansetron kullanılabilir. Formu oral parçalanan tablettir ve dozu 4 mg hızlı serbest bırakmadır; opioid uygulamasında bulantı ve kusmayı önlemek için endikedir.",
+      "sayfa": 112,
+      "pdf_page_index": 118,
+      "kaynak_alinti": "Ondansetron (Zofran), oral parçalanan tablet, 4 mg hızlı serbest bırakma. Endikasyonu, opioid uygulamasında anti-emetiktir. (bulantı ve kusmayı önleme).",
+      "dogrulanan_bilgi": [
+        "oral parçalanan tablet",
+        "4 mg hızlı serbest bırakma",
+        "opioid uygulamasında anti-emetik"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Devir teslim öncesi yerleştirme sahası anketinde özellikle hangi başlıkları konuşmamız gerekiyor?",
+      "answer": "Bu ilk temasta özellikle taşıma ve tahliye araç-ekipman eğitimi ile güzergâhlar, tıbbi özellik sorumluluğu ve kayıt/kitap transferi, senaryoya özgü tıbbi brifingler ve politikalar, ileri işletme temel tesislerinin oryantasyonu, acil müdahale ve kitle tahliye planı ile iletişim desteği ele alınmalıdır.",
+      "sayfa": 113,
+      "pdf_page_index": 119,
+      "kaynak_alinti": "Aşağıdakiler RIP ve TOA sırasında ele alınması gereken anahtar alanlardır. Gelen takım, giden takım veya her ikisine de başvurabilirler.\n•Taşımacılık ve tahliye araç ve ekipman eğitimi, güzergâhlar, ileri işletme taban düzenlemeleri ve güvenlik koordinasyonunu içerecek şekilde yapılmalı.\n•Tıbbi özellik sorumluluğu ve kitap transfer özellikleri.\n• Senaryoya özgü tıbbi brifingler ve politikalar.\n•İleri işletme temel tesislerinin oryantasyonu.\n•Acil müdahale planı süreci ve kitle tahliye planı ile kazazedelerin toplanması ve gözden geçirilmesi.\n• İletişim desteği.",
+      "dogrulanan_bilgi": [
+        "Taşımacılık ve tahliye araç ve ekipman eğitimi, güzergâhlar",
+        "Tıbbi özellik sorumluluğu ve kitap transfer özellikleri",
+        "Acil müdahale planı süreci ve kitle tahliye planı"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

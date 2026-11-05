@@ -1,0 +1,50 @@
+{
+  "sorular": [
+    {
+      "question": "Araçta yaralı tahliyesi için WALK kullanacaksam, bu kit tam olarak ne işe yarıyor ve ağırlığı ne kadar?",
+      "answer": "WALK, araçta hayat kurtaran kit seçeneği olarak kullanılır; ilk yardım tedavisine, yaralının araçtan derhal tahliyesine ve yaralanma noktasında birden fazla travma hastasının tedavisine imkan sağlar. Toplam ağırlığı 13.2 kilogramdır.",
+      "sayfa": 56,
+      "pdf_page_index": 62,
+      "kaynak_alinti": "Muharebe İlkyardım ve Sedye Kiti (WALK) (Ulusal Stok Numarası [NSN]: 6545-01-587-1199) araçta hayat kurtaran kit için bir seçenek sunar.\nWALK, ilk yardım tedavisine ve bir yaralının (CASEVAC) araçtan derhal tahliye edilmesine ve yaralanma noktasında birden fazla travma hastasının (POI) tedavisine olanak sağlar. WALK’ın toplam ağırlığı 13.2 kilogramdır.",
+      "dogrulanan_bilgi": [
+        "araçta hayat kurtaran kit için bir seçenek",
+        "araçtan derhal tahliye",
+        "13.2 kilogram"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "WALK çantasında göğüs yarası ve tansiyon pnömotoraks için ne var?",
+      "answer": "WALK içinde göğüs yaraları için iki HyFin göğüs kapaması bulunur. İğne dekompresyon için de 3.25 inç, 14 gauge iki ARS iğne dekompresyon kiti vardır.",
+      "sayfa": 56,
+      "pdf_page_index": 62,
+      "kaynak_alinti": "• İki HyFin göğüs kapaması\n• İki ARS iğne dekompresyon kitleri, 3.25 inç tarafından 14 gauge",
+      "dogrulanan_bilgi": [
+        "İki HyFin göğüs kapaması",
+        "İki ARS iğne dekompresyon kitleri",
+        "3.25 inç",
+        "14 gauge"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Bu WALK setini standart olmayan tahliyede ya da ileri gizli çalışma alanında kullanabilir miyim?",
+      "answer": "Evet. WALK hem standart hem de standart olmayan tahliyeyle uyumludur. Ayrıca gizli ileri çalışma alanına, kaza toplama noktasına veya devriye üssüne tıbbi malzeme olarak yerleştirmek için de uygundur.",
+      "sayfa": 57,
+      "pdf_page_index": 63,
+      "kaynak_alinti": "WALK, herhangi bir standart veya standart olmayan tahliyeye (CASEVAC) uyum sağlar ve gizli ileri çalışma alanına, kaza toplama noktasına veya devriye üssüne tıbbi malzeme olarak yerleştirilmesi yararlıdır.",
+      "dogrulanan_bilgi": [
+        "standart veya standart olmayan tahliyeye (CASEVAC) uyum sağlar",
+        "gizli ileri çalışma alanına",
+        "kaza toplama noktasına veya devriye üssüne"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Turnikeyi sıktım ama distal nabız hâlâ var, şimdi ne yapayım?",
+      "answer": "Taktik durum uygunsa distal nabzı kontrol et. Nabız hâlâ alınıyorsa ilk turnikenin hemen altına, yanına ikinci bir turnike koy. Bu ikinci turnikeyi sıkıca uygula ve distal nabzı tekrar kontrol et.",
+      "sayfa": 7,
+      "pdf_page_index": 13,
+      "kaynak_alinti": "Adım 7. Taktik durum izin veriyorsa distal nabzı kontrol edin. Distal nabız hala mevcutsa ilk turnikenin altına hemen yanına olacak şekilde ikinci turnikeyi uygulayın. Bu turnikeyi sıkıca uygulayın ve distal nabzı tekrar kontrol edin.",
+      "dogrulanan_bilgi": [
+        "distal nabız hala mevcutsa",
+        "ilk turnikenin altına hemen yanına olacak şekilde ikinci turnikeyi uygulayın",
+        "distal nabzı tekrar kontrol edin"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Derin yarayı muharebe gazlı beziyle kapatırken ne kadar bası uygulayayım, kanama sürerse ne yapayım?",
+      "answer": "Yarayı gazlı bezle doldurduktan sonra sargının sonunda kalan kısmı üzerine yerleştirip 3 dakika doğrudan bası uygula. Eğer 3 dakika sonra kanama devam ediyorsa önce gazlı bezi çıkarıp ilk adımı yeniden yap.",
+      "sayfa": 7,
+      "pdf_page_index": 13,
+      "kaynak_alinti": "Sargının sonunda kalan kısmı üzerine yerleştirin ve 3 dakika doğrudan bası uygulayın.\n\nNOT: Yaranın içerisini doldurmak için birden fazla gazlı bez gerekebilir. 3 dakika sonra kanama devam ederse önce gazlı bezi çıkarın ve adım 1'i tekrarlayın.",
+      "dogrulanan_bilgi": [
+        "3 dakika doğrudan bası",
+        "3 dakika sonra kanama devam ederse",
+        "gazlı bezi çıkarın ve adım 1'i tekrarlayın"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "NPA takacağım; burun ya da kulaktan berrak sıvı geliyorsa yine de kullanayım mı, bir de hangi yağlayıcı uygun?",
+      "answer": "Hayır, kulaklardan veya burundan akıcı sıvı geliyorsa NPA kullanma. Ayrıca tüpü yalnızca su bazlı yağlayıcıyla yağla; petrol bazlı ya da su bazlı olmayan yağlayıcı kullanma.",
+      "sayfa": 8,
+      "pdf_page_index": 14,
+      "kaynak_alinti": "Dikkat: NPA'yı kulaklardan veya burundan gelen akıcı sıvı (beyin omurilik sıvısı) varsa kullanmayın. Bu bir kafatası kırığına işaret edebilir.\n\n2. Tüpü su bazlı yağlayıcıyla yağlayın.\n\nDikkat: Petrol bazlı veya su bazlı olmayan yağlayıcı kullanmayın.",
+      "dogrulanan_bilgi": [
+        "kulaklardan veya burundan gelen akıcı sıvı",
+        "Tüpü su bazlı yağlayıcıyla yağlayın",
+        "Petrol bazlı veya su bazlı olmayan yağlayıcı kullanmayın"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

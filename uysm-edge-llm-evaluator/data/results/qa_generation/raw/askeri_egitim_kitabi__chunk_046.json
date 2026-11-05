@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "GPS alıcım 198°, pusulam 195° gösteriyor; north reference’ı neye ayarlamalıyım?",
+      "answer": "Açı farkı 3° olur. GPS alıcısının değeri daha yüksek olduğu için ayarı kullanıcı tanımlı olarak 003°E yapmalısın.",
+      "sayfa": 140,
+      "pdf_page_index": 140,
+      "kaynak_alinti": "Örn: GPS alıcı: 198°, pusula: 195° ise north referance ne olmalıdır?\n198-195 = 3° ve GPS alıcının değeri daha yüksek olduğu için; User…003°E",
+      "dogrulanan_bilgi": [
+        "198-195 = 3°",
+        "User…003°E"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Görünen hedefe ağır silah kurarken sıh çubuklarını kaç metre arayla dikmeliyim?",
+      "answer": "Silahın önüne hedef doğrultusunda 3 adet sıh çubuğu dikilir; bunlar silahtan 3 m, 5 m ve 7 m önde olmalıdır. Hedefle bu üç sıh aynı doğrultuda tutulur.",
+      "sayfa": 141,
+      "pdf_page_index": 141,
+      "kaynak_alinti": "Silahın 3 m, 5 m ve 7 m önüne hedef doğrultusunda 3 adet sıh çubuğu (varsa 1 metrelik düz çubuklar) dikilir. Hedef ve bu 3 sıh aynı doğrultuda olması gerekir.",
+      "dogrulanan_bilgi": [
+        "3 m, 5 m ve 7 m",
+        "3 adet sıh çubuğu",
+        "aynı doğrultuda"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Havan mermisinde tek eksi işareti varsa cetvel mesafesine göre ne kadar kısa düşer?",
+      "answer": "Tek eksi işaretli mermi, cetvel mesafesinden 50 metre kısa düşer.",
+      "sayfa": 142,
+      "pdf_page_index": 142,
+      "kaynak_alinti": "Bu bilgiye göre her bir mermi 50 metre aralıklı düşer.\n-: CF – 50m",
+      "dogrulanan_bilgi": [
+        "50 metre",
+        "-: CF – 50m"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

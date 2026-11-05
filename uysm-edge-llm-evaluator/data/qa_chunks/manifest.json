@@ -1,0 +1,2486 @@
+[
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_001",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 7,
+        "sayfa": 1
+      },
+      {
+        "pdf_page_index": 8,
+        "sayfa": 2
+      },
+      {
+        "pdf_page_index": 9,
+        "sayfa": 3
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_001/page_007.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_001/page_008.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_001/page_009.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_002",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 10,
+        "sayfa": 4
+      },
+      {
+        "pdf_page_index": 11,
+        "sayfa": 5
+      },
+      {
+        "pdf_page_index": 12,
+        "sayfa": 6
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_002/page_010.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_002/page_011.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_002/page_012.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_003",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 13,
+        "sayfa": 7
+      },
+      {
+        "pdf_page_index": 14,
+        "sayfa": 8
+      },
+      {
+        "pdf_page_index": 15,
+        "sayfa": 9
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_003/page_013.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_003/page_014.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_003/page_015.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_004",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 16,
+        "sayfa": 10
+      },
+      {
+        "pdf_page_index": 17,
+        "sayfa": 11
+      },
+      {
+        "pdf_page_index": 18,
+        "sayfa": 12
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_004/page_016.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_004/page_017.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_004/page_018.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_005",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 19,
+        "sayfa": 13
+      },
+      {
+        "pdf_page_index": 20,
+        "sayfa": 14
+      },
+      {
+        "pdf_page_index": 21,
+        "sayfa": 15
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_005/page_019.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_005/page_020.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_005/page_021.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_006",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 22,
+        "sayfa": 16
+      },
+      {
+        "pdf_page_index": 23,
+        "sayfa": 17
+      },
+      {
+        "pdf_page_index": 24,
+        "sayfa": 18
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_006/page_022.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_006/page_023.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_006/page_024.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_007",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 25,
+        "sayfa": 19
+      },
+      {
+        "pdf_page_index": 26,
+        "sayfa": 20
+      },
+      {
+        "pdf_page_index": 27,
+        "sayfa": 21
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_007/page_025.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_007/page_026.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_007/page_027.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_008",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 28,
+        "sayfa": 22
+      },
+      {
+        "pdf_page_index": 29,
+        "sayfa": 23
+      },
+      {
+        "pdf_page_index": 30,
+        "sayfa": 24
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_008/page_028.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_008/page_029.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_008/page_030.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_009",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 31,
+        "sayfa": 25
+      },
+      {
+        "pdf_page_index": 32,
+        "sayfa": 26
+      },
+      {
+        "pdf_page_index": 33,
+        "sayfa": 27
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_009/page_031.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_009/page_032.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_009/page_033.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_010",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 34,
+        "sayfa": 20
+      },
+      {
+        "pdf_page_index": 35,
+        "sayfa": 29
+      },
+      {
+        "pdf_page_index": 36,
+        "sayfa": 30
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_010/page_034.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_010/page_035.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_010/page_036.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_011",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 37,
+        "sayfa": 31
+      },
+      {
+        "pdf_page_index": 38,
+        "sayfa": 32
+      },
+      {
+        "pdf_page_index": 39,
+        "sayfa": 33
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_011/page_037.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_011/page_038.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_011/page_039.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_012",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 40,
+        "sayfa": 34
+      },
+      {
+        "pdf_page_index": 41,
+        "sayfa": 35
+      },
+      {
+        "pdf_page_index": 42,
+        "sayfa": 36
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_012/page_040.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_012/page_041.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_012/page_042.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_013",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 43,
+        "sayfa": 37
+      },
+      {
+        "pdf_page_index": 44,
+        "sayfa": 38
+      },
+      {
+        "pdf_page_index": 45,
+        "sayfa": 39
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_013/page_043.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_013/page_044.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_013/page_045.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_014",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 46,
+        "sayfa": 40
+      },
+      {
+        "pdf_page_index": 47,
+        "sayfa": 41
+      },
+      {
+        "pdf_page_index": 48,
+        "sayfa": 38
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_014/page_046.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_014/page_047.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_014/page_048.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_015",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 49,
+        "sayfa": 43
+      },
+      {
+        "pdf_page_index": 50,
+        "sayfa": 44
+      },
+      {
+        "pdf_page_index": 51,
+        "sayfa": 2
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_015/page_049.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_015/page_050.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_015/page_051.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_016",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 52,
+        "sayfa": 46
+      },
+      {
+        "pdf_page_index": 53,
+        "sayfa": 47
+      },
+      {
+        "pdf_page_index": 54,
+        "sayfa": 48
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_016/page_052.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_016/page_053.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_016/page_054.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_017",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 55,
+        "sayfa": 49
+      },
+      {
+        "pdf_page_index": 56,
+        "sayfa": 50
+      },
+      {
+        "pdf_page_index": 57,
+        "sayfa": 51
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_017/page_055.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_017/page_056.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_017/page_057.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_018",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 58,
+        "sayfa": 52
+      },
+      {
+        "pdf_page_index": 59,
+        "sayfa": 53
+      },
+      {
+        "pdf_page_index": 60,
+        "sayfa": 54
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_018/page_058.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_018/page_059.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_018/page_060.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_019",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 61,
+        "sayfa": 55
+      },
+      {
+        "pdf_page_index": 62,
+        "sayfa": 56
+      },
+      {
+        "pdf_page_index": 63,
+        "sayfa": 57
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_019/page_061.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_019/page_062.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_019/page_063.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_020",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 64,
+        "sayfa": 58
+      },
+      {
+        "pdf_page_index": 65,
+        "sayfa": 59
+      },
+      {
+        "pdf_page_index": 66,
+        "sayfa": 60
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_020/page_064.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_020/page_065.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_020/page_066.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_021",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 67,
+        "sayfa": 61
+      },
+      {
+        "pdf_page_index": 68,
+        "sayfa": 62
+      },
+      {
+        "pdf_page_index": 69,
+        "sayfa": 1
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_021/page_067.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_021/page_068.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_021/page_069.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_022",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 70,
+        "sayfa": 2
+      },
+      {
+        "pdf_page_index": 71,
+        "sayfa": 65
+      },
+      {
+        "pdf_page_index": 72,
+        "sayfa": 66
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_022/page_070.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_022/page_071.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_022/page_072.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_023",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 73,
+        "sayfa": 67
+      },
+      {
+        "pdf_page_index": 74,
+        "sayfa": 68
+      },
+      {
+        "pdf_page_index": 75,
+        "sayfa": 69
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_023/page_073.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_023/page_074.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_023/page_075.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_024",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 76,
+        "sayfa": 70
+      },
+      {
+        "pdf_page_index": 77,
+        "sayfa": 71
+      },
+      {
+        "pdf_page_index": 78,
+        "sayfa": 72
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_024/page_076.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_024/page_077.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_024/page_078.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_025",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 79,
+        "sayfa": 73
+      },
+      {
+        "pdf_page_index": 80,
+        "sayfa": 74
+      },
+      {
+        "pdf_page_index": 81,
+        "sayfa": 75
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_025/page_079.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_025/page_080.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_025/page_081.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_026",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 82,
+        "sayfa": 76
+      },
+      {
+        "pdf_page_index": 83,
+        "sayfa": 77
+      },
+      {
+        "pdf_page_index": 84,
+        "sayfa": 78
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_026/page_082.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_026/page_083.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_026/page_084.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_027",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 85,
+        "sayfa": 79
+      },
+      {
+        "pdf_page_index": 86,
+        "sayfa": 80
+      },
+      {
+        "pdf_page_index": 87,
+        "sayfa": 81
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_027/page_085.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_027/page_086.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_027/page_087.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_028",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 88,
+        "sayfa": 82
+      },
+      {
+        "pdf_page_index": 89,
+        "sayfa": 83
+      },
+      {
+        "pdf_page_index": 90,
+        "sayfa": 84
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_028/page_088.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_028/page_089.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_028/page_090.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_029",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 91,
+        "sayfa": 85
+      },
+      {
+        "pdf_page_index": 92,
+        "sayfa": 86
+      },
+      {
+        "pdf_page_index": 93,
+        "sayfa": 87
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_029/page_091.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_029/page_092.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_029/page_093.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_030",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 94,
+        "sayfa": 88
+      },
+      {
+        "pdf_page_index": 95,
+        "sayfa": 89
+      },
+      {
+        "pdf_page_index": 96,
+        "sayfa": 90
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_030/page_094.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_030/page_095.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_030/page_096.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_031",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 97,
+        "sayfa": 91
+      },
+      {
+        "pdf_page_index": 98,
+        "sayfa": 92
+      },
+      {
+        "pdf_page_index": 99,
+        "sayfa": 1
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_031/page_097.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_031/page_098.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_031/page_099.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_032",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 100,
+        "sayfa": 94
+      },
+      {
+        "pdf_page_index": 101,
+        "sayfa": 95
+      },
+      {
+        "pdf_page_index": 102,
+        "sayfa": 96
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_032/page_100.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_032/page_101.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_032/page_102.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_033",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 103,
+        "sayfa": 97
+      },
+      {
+        "pdf_page_index": 104,
+        "sayfa": 98
+      },
+      {
+        "pdf_page_index": 105,
+        "sayfa": 99
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_033/page_103.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_033/page_104.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_033/page_105.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_034",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 106,
+        "sayfa": 100
+      },
+      {
+        "pdf_page_index": 107,
+        "sayfa": 101
+      },
+      {
+        "pdf_page_index": 108,
+        "sayfa": 102
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_034/page_106.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_034/page_107.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_034/page_108.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_035",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 109,
+        "sayfa": 103
+      },
+      {
+        "pdf_page_index": 110,
+        "sayfa": 104
+      },
+      {
+        "pdf_page_index": 111,
+        "sayfa": 105
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_035/page_109.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_035/page_110.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_035/page_111.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_036",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 112,
+        "sayfa": 106
+      },
+      {
+        "pdf_page_index": 113,
+        "sayfa": 107
+      },
+      {
+        "pdf_page_index": 114,
+        "sayfa": 108
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_036/page_112.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_036/page_113.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_036/page_114.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_037",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 115,
+        "sayfa": 109
+      },
+      {
+        "pdf_page_index": 116,
+        "sayfa": 110
+      },
+      {
+        "pdf_page_index": 117,
+        "sayfa": 111
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_037/page_115.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_037/page_116.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_037/page_117.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_038",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 118,
+        "sayfa": 112
+      },
+      {
+        "pdf_page_index": 119,
+        "sayfa": 113
+      },
+      {
+        "pdf_page_index": 120,
+        "sayfa": 114
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_038/page_118.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_038/page_119.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_038/page_120.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_039",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 121,
+        "sayfa": 115
+      },
+      {
+        "pdf_page_index": 122,
+        "sayfa": 116
+      },
+      {
+        "pdf_page_index": 123,
+        "sayfa": 117
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_039/page_121.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_039/page_122.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_039/page_123.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_040",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 124,
+        "sayfa": 118
+      },
+      {
+        "pdf_page_index": 125,
+        "sayfa": 119
+      },
+      {
+        "pdf_page_index": 126,
+        "sayfa": 120
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_040/page_124.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_040/page_125.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_040/page_126.png"
+    ]
+  },
+  {
+    "chunk": "taktik_muharebe_yarali_bakimi_el_kitabi/chunk_041",
+    "kaynak": "taktik_muharebe_yarali_bakimi_el_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 127,
+        "sayfa": 121
+      },
+      {
+        "pdf_page_index": 128,
+        "sayfa": 122
+      },
+      {
+        "pdf_page_index": 129,
+        "sayfa": 123
+      }
+    ],
+    "images": [
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_041/page_127.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_041/page_128.png",
+      "data/qa_chunks/taktik_muharebe_yarali_bakimi_el_kitabi/chunk_041/page_129.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_001",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 5,
+        "sayfa": 5
+      },
+      {
+        "pdf_page_index": 6,
+        "sayfa": 6
+      },
+      {
+        "pdf_page_index": 7,
+        "sayfa": 7
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_001/page_005.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_001/page_006.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_001/page_007.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_002",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 8,
+        "sayfa": 8
+      },
+      {
+        "pdf_page_index": 9,
+        "sayfa": 9
+      },
+      {
+        "pdf_page_index": 10,
+        "sayfa": 10
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_002/page_008.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_002/page_009.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_002/page_010.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_003",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 11,
+        "sayfa": 11
+      },
+      {
+        "pdf_page_index": 12,
+        "sayfa": 12
+      },
+      {
+        "pdf_page_index": 13,
+        "sayfa": 13
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_003/page_011.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_003/page_012.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_003/page_013.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_004",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 14,
+        "sayfa": 14
+      },
+      {
+        "pdf_page_index": 15,
+        "sayfa": 15
+      },
+      {
+        "pdf_page_index": 16,
+        "sayfa": 16
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_004/page_014.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_004/page_015.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_004/page_016.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_005",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 17,
+        "sayfa": 17
+      },
+      {
+        "pdf_page_index": 18,
+        "sayfa": 18
+      },
+      {
+        "pdf_page_index": 19,
+        "sayfa": 19
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_005/page_017.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_005/page_018.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_005/page_019.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_006",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 20,
+        "sayfa": 20
+      },
+      {
+        "pdf_page_index": 21,
+        "sayfa": 21
+      },
+      {
+        "pdf_page_index": 22,
+        "sayfa": 22
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_006/page_020.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_006/page_021.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_006/page_022.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_007",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 23,
+        "sayfa": 23
+      },
+      {
+        "pdf_page_index": 24,
+        "sayfa": 24
+      },
+      {
+        "pdf_page_index": 25,
+        "sayfa": 25
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_007/page_023.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_007/page_024.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_007/page_025.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_008",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 26,
+        "sayfa": 26
+      },
+      {
+        "pdf_page_index": 27,
+        "sayfa": 27
+      },
+      {
+        "pdf_page_index": 28,
+        "sayfa": 28
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_008/page_026.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_008/page_027.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_008/page_028.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_009",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 29,
+        "sayfa": 29
+      },
+      {
+        "pdf_page_index": 30,
+        "sayfa": 30
+      },
+      {
+        "pdf_page_index": 31,
+        "sayfa": 31
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_009/page_029.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_009/page_030.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_009/page_031.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_010",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 32,
+        "sayfa": 32
+      },
+      {
+        "pdf_page_index": 33,
+        "sayfa": 33
+      },
+      {
+        "pdf_page_index": 34,
+        "sayfa": 34
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_010/page_032.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_010/page_033.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_010/page_034.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_011",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 35,
+        "sayfa": 35
+      },
+      {
+        "pdf_page_index": 36,
+        "sayfa": 36
+      },
+      {
+        "pdf_page_index": 37,
+        "sayfa": 37
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_011/page_035.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_011/page_036.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_011/page_037.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_012",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 38,
+        "sayfa": 38
+      },
+      {
+        "pdf_page_index": 39,
+        "sayfa": 39
+      },
+      {
+        "pdf_page_index": 40,
+        "sayfa": 40
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_012/page_038.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_012/page_039.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_012/page_040.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_013",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 41,
+        "sayfa": 41
+      },
+      {
+        "pdf_page_index": 42,
+        "sayfa": 42
+      },
+      {
+        "pdf_page_index": 43,
+        "sayfa": 43
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_013/page_041.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_013/page_042.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_013/page_043.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_014",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 44,
+        "sayfa": 44
+      },
+      {
+        "pdf_page_index": 45,
+        "sayfa": 45
+      },
+      {
+        "pdf_page_index": 46,
+        "sayfa": 46
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_014/page_044.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_014/page_045.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_014/page_046.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_015",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 47,
+        "sayfa": 47
+      },
+      {
+        "pdf_page_index": 48,
+        "sayfa": 48
+      },
+      {
+        "pdf_page_index": 49,
+        "sayfa": 49
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_015/page_047.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_015/page_048.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_015/page_049.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_016",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 50,
+        "sayfa": 50
+      },
+      {
+        "pdf_page_index": 51,
+        "sayfa": 51
+      },
+      {
+        "pdf_page_index": 52,
+        "sayfa": 52
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_016/page_050.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_016/page_051.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_016/page_052.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_017",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 53,
+        "sayfa": 53
+      },
+      {
+        "pdf_page_index": 54,
+        "sayfa": 54
+      },
+      {
+        "pdf_page_index": 55,
+        "sayfa": 55
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_017/page_053.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_017/page_054.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_017/page_055.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_018",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 56,
+        "sayfa": 56
+      },
+      {
+        "pdf_page_index": 57,
+        "sayfa": 57
+      },
+      {
+        "pdf_page_index": 58,
+        "sayfa": 58
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_018/page_056.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_018/page_057.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_018/page_058.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_019",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 59,
+        "sayfa": 59
+      },
+      {
+        "pdf_page_index": 60,
+        "sayfa": 60
+      },
+      {
+        "pdf_page_index": 61,
+        "sayfa": 61
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_019/page_059.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_019/page_060.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_019/page_061.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_020",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 62,
+        "sayfa": 62
+      },
+      {
+        "pdf_page_index": 63,
+        "sayfa": 63
+      },
+      {
+        "pdf_page_index": 64,
+        "sayfa": 120
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_020/page_062.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_020/page_063.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_020/page_064.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_021",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 65,
+        "sayfa": 65
+      },
+      {
+        "pdf_page_index": 66,
+        "sayfa": 66
+      },
+      {
+        "pdf_page_index": 67,
+        "sayfa": 67
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_021/page_065.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_021/page_066.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_021/page_067.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_022",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 68,
+        "sayfa": 68
+      },
+      {
+        "pdf_page_index": 69,
+        "sayfa": 69
+      },
+      {
+        "pdf_page_index": 70,
+        "sayfa": 90
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_022/page_068.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_022/page_069.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_022/page_070.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_023",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 71,
+        "sayfa": 71
+      },
+      {
+        "pdf_page_index": 72,
+        "sayfa": 72
+      },
+      {
+        "pdf_page_index": 73,
+        "sayfa": 73
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_023/page_071.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_023/page_072.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_023/page_073.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_024",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 74,
+        "sayfa": 74
+      },
+      {
+        "pdf_page_index": 75,
+        "sayfa": 100
+      },
+      {
+        "pdf_page_index": 76,
+        "sayfa": 76
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_024/page_074.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_024/page_075.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_024/page_076.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_025",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 77,
+        "sayfa": 77
+      },
+      {
+        "pdf_page_index": 78,
+        "sayfa": 78
+      },
+      {
+        "pdf_page_index": 79,
+        "sayfa": 79
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_025/page_077.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_025/page_078.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_025/page_079.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_026",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 80,
+        "sayfa": 80
+      },
+      {
+        "pdf_page_index": 81,
+        "sayfa": 500
+      },
+      {
+        "pdf_page_index": 82,
+        "sayfa": 82
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_026/page_080.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_026/page_081.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_026/page_082.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_027",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 83,
+        "sayfa": 83
+      },
+      {
+        "pdf_page_index": 84,
+        "sayfa": 84
+      },
+      {
+        "pdf_page_index": 85,
+        "sayfa": 85
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_027/page_083.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_027/page_084.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_027/page_085.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_028",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 86,
+        "sayfa": 86
+      },
+      {
+        "pdf_page_index": 87,
+        "sayfa": 360
+      },
+      {
+        "pdf_page_index": 88,
+        "sayfa": 88
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_028/page_086.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_028/page_087.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_028/page_088.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_029",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 89,
+        "sayfa": 89
+      },
+      {
+        "pdf_page_index": 90,
+        "sayfa": 90
+      },
+      {
+        "pdf_page_index": 91,
+        "sayfa": 91
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_029/page_089.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_029/page_090.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_029/page_091.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_030",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 92,
+        "sayfa": 11
+      },
+      {
+        "pdf_page_index": 93,
+        "sayfa": 93
+      },
+      {
+        "pdf_page_index": 94,
+        "sayfa": 94
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_030/page_092.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_030/page_093.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_030/page_094.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_031",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 95,
+        "sayfa": 95
+      },
+      {
+        "pdf_page_index": 96,
+        "sayfa": 96
+      },
+      {
+        "pdf_page_index": 97,
+        "sayfa": 97
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_031/page_095.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_031/page_096.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_031/page_097.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_032",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 98,
+        "sayfa": 98
+      },
+      {
+        "pdf_page_index": 99,
+        "sayfa": 99
+      },
+      {
+        "pdf_page_index": 100,
+        "sayfa": 100
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_032/page_098.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_032/page_099.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_032/page_100.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_033",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 101,
+        "sayfa": 101
+      },
+      {
+        "pdf_page_index": 102,
+        "sayfa": 102
+      },
+      {
+        "pdf_page_index": 103,
+        "sayfa": 103
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_033/page_101.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_033/page_102.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_033/page_103.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_034",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 104,
+        "sayfa": 104
+      },
+      {
+        "pdf_page_index": 105,
+        "sayfa": 105
+      },
+      {
+        "pdf_page_index": 106,
+        "sayfa": 106
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_034/page_104.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_034/page_105.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_034/page_106.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_035",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 107,
+        "sayfa": 1
+      },
+      {
+        "pdf_page_index": 108,
+        "sayfa": 108
+      },
+      {
+        "pdf_page_index": 109,
+        "sayfa": 109
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_035/page_107.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_035/page_108.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_035/page_109.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_036",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 110,
+        "sayfa": 110
+      },
+      {
+        "pdf_page_index": 111,
+        "sayfa": 111
+      },
+      {
+        "pdf_page_index": 112,
+        "sayfa": 112
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_036/page_110.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_036/page_111.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_036/page_112.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_037",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 113,
+        "sayfa": 113
+      },
+      {
+        "pdf_page_index": 114,
+        "sayfa": 114
+      },
+      {
+        "pdf_page_index": 115,
+        "sayfa": 115
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_037/page_113.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_037/page_114.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_037/page_115.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_038",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 116,
+        "sayfa": 116
+      },
+      {
+        "pdf_page_index": 117,
+        "sayfa": 117
+      },
+      {
+        "pdf_page_index": 118,
+        "sayfa": 118
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_038/page_116.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_038/page_117.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_038/page_118.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_039",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 119,
+        "sayfa": 119
+      },
+      {
+        "pdf_page_index": 120,
+        "sayfa": 120
+      },
+      {
+        "pdf_page_index": 121,
+        "sayfa": 121
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_039/page_119.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_039/page_120.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_039/page_121.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_040",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 122,
+        "sayfa": 122
+      },
+      {
+        "pdf_page_index": 123,
+        "sayfa": 123
+      },
+      {
+        "pdf_page_index": 124,
+        "sayfa": 358
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_040/page_122.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_040/page_123.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_040/page_124.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_041",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 125,
+        "sayfa": 125
+      },
+      {
+        "pdf_page_index": 126,
+        "sayfa": 126
+      },
+      {
+        "pdf_page_index": 127,
+        "sayfa": 127
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_041/page_125.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_041/page_126.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_041/page_127.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_042",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 128,
+        "sayfa": 128
+      },
+      {
+        "pdf_page_index": 129,
+        "sayfa": 129
+      },
+      {
+        "pdf_page_index": 130,
+        "sayfa": 130
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_042/page_128.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_042/page_129.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_042/page_130.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_043",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 131,
+        "sayfa": 131
+      },
+      {
+        "pdf_page_index": 132,
+        "sayfa": 132
+      },
+      {
+        "pdf_page_index": 133,
+        "sayfa": 133
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_043/page_131.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_043/page_132.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_043/page_133.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_044",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 134,
+        "sayfa": 134
+      },
+      {
+        "pdf_page_index": 135,
+        "sayfa": 135
+      },
+      {
+        "pdf_page_index": 136,
+        "sayfa": 136
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_044/page_134.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_044/page_135.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_044/page_136.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_045",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 137,
+        "sayfa": 137
+      },
+      {
+        "pdf_page_index": 138,
+        "sayfa": 138
+      },
+      {
+        "pdf_page_index": 139,
+        "sayfa": 139
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_045/page_137.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_045/page_138.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_045/page_139.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_046",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 140,
+        "sayfa": 140
+      },
+      {
+        "pdf_page_index": 141,
+        "sayfa": 141
+      },
+      {
+        "pdf_page_index": 142,
+        "sayfa": 142
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_046/page_140.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_046/page_141.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_046/page_142.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_047",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 143,
+        "sayfa": 143
+      },
+      {
+        "pdf_page_index": 144,
+        "sayfa": 144
+      },
+      {
+        "pdf_page_index": 145,
+        "sayfa": 145
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_047/page_143.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_047/page_144.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_047/page_145.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_048",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 146,
+        "sayfa": 146
+      },
+      {
+        "pdf_page_index": 147,
+        "sayfa": 147
+      },
+      {
+        "pdf_page_index": 148,
+        "sayfa": 148
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_048/page_146.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_048/page_147.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_048/page_148.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_049",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 149,
+        "sayfa": 149
+      },
+      {
+        "pdf_page_index": 150,
+        "sayfa": 150
+      },
+      {
+        "pdf_page_index": 151,
+        "sayfa": 151
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_049/page_149.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_049/page_150.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_049/page_151.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_050",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 152,
+        "sayfa": 152
+      },
+      {
+        "pdf_page_index": 153,
+        "sayfa": 153
+      },
+      {
+        "pdf_page_index": 154,
+        "sayfa": 154
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_050/page_152.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_050/page_153.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_050/page_154.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_051",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 155,
+        "sayfa": 155
+      },
+      {
+        "pdf_page_index": 156,
+        "sayfa": 156
+      },
+      {
+        "pdf_page_index": 157,
+        "sayfa": 157
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_051/page_155.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_051/page_156.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_051/page_157.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_052",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 158,
+        "sayfa": 158
+      },
+      {
+        "pdf_page_index": 159,
+        "sayfa": 159
+      },
+      {
+        "pdf_page_index": 160,
+        "sayfa": 160
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_052/page_158.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_052/page_159.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_052/page_160.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_053",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 161,
+        "sayfa": 161
+      },
+      {
+        "pdf_page_index": 162,
+        "sayfa": 162
+      },
+      {
+        "pdf_page_index": 163,
+        "sayfa": 163
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_053/page_161.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_053/page_162.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_053/page_163.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_054",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 164,
+        "sayfa": 164
+      },
+      {
+        "pdf_page_index": 165,
+        "sayfa": 0
+      },
+      {
+        "pdf_page_index": 166,
+        "sayfa": 166
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_054/page_164.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_054/page_165.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_054/page_166.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_055",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 167,
+        "sayfa": 167
+      },
+      {
+        "pdf_page_index": 168,
+        "sayfa": 168
+      },
+      {
+        "pdf_page_index": 169,
+        "sayfa": 169
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_055/page_167.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_055/page_168.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_055/page_169.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_056",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 170,
+        "sayfa": 170
+      },
+      {
+        "pdf_page_index": 171,
+        "sayfa": 171
+      },
+      {
+        "pdf_page_index": 172,
+        "sayfa": 172
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_056/page_170.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_056/page_171.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_056/page_172.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_057",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 173,
+        "sayfa": 173
+      },
+      {
+        "pdf_page_index": 174,
+        "sayfa": 174
+      },
+      {
+        "pdf_page_index": 175,
+        "sayfa": 57
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_057/page_173.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_057/page_174.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_057/page_175.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_058",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 176,
+        "sayfa": 176
+      },
+      {
+        "pdf_page_index": 177,
+        "sayfa": 177
+      },
+      {
+        "pdf_page_index": 178,
+        "sayfa": 178
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_058/page_176.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_058/page_177.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_058/page_178.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_059",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 179,
+        "sayfa": 179
+      },
+      {
+        "pdf_page_index": 180,
+        "sayfa": 12
+      },
+      {
+        "pdf_page_index": 181,
+        "sayfa": 180
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_059/page_179.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_059/page_180.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_059/page_181.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_060",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 182,
+        "sayfa": 182
+      },
+      {
+        "pdf_page_index": 183,
+        "sayfa": 183
+      },
+      {
+        "pdf_page_index": 184,
+        "sayfa": 184
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_060/page_182.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_060/page_183.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_060/page_184.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_061",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 185,
+        "sayfa": 185
+      },
+      {
+        "pdf_page_index": 186,
+        "sayfa": 186
+      },
+      {
+        "pdf_page_index": 187,
+        "sayfa": 187
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_061/page_185.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_061/page_186.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_061/page_187.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_062",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 188,
+        "sayfa": 188
+      },
+      {
+        "pdf_page_index": 189,
+        "sayfa": 189
+      },
+      {
+        "pdf_page_index": 190,
+        "sayfa": 190
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_062/page_188.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_062/page_189.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_062/page_190.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_063",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 191,
+        "sayfa": 191
+      },
+      {
+        "pdf_page_index": 192,
+        "sayfa": 192
+      },
+      {
+        "pdf_page_index": 193,
+        "sayfa": 193
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_063/page_191.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_063/page_192.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_063/page_193.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_064",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 194,
+        "sayfa": 194
+      },
+      {
+        "pdf_page_index": 195,
+        "sayfa": 195
+      },
+      {
+        "pdf_page_index": 196,
+        "sayfa": 196
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_064/page_194.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_064/page_195.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_064/page_196.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_065",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 197,
+        "sayfa": 197
+      },
+      {
+        "pdf_page_index": 198,
+        "sayfa": 198
+      },
+      {
+        "pdf_page_index": 199,
+        "sayfa": 10
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_065/page_197.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_065/page_198.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_065/page_199.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_066",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 200,
+        "sayfa": 200
+      },
+      {
+        "pdf_page_index": 201,
+        "sayfa": 201
+      },
+      {
+        "pdf_page_index": 202,
+        "sayfa": 202
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_066/page_200.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_066/page_201.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_066/page_202.png"
+    ]
+  },
+  {
+    "chunk": "askeri_egitim_kitabi/chunk_067",
+    "kaynak": "askeri_egitim_kitabi.pdf",
+    "pages": [
+      {
+        "pdf_page_index": 203,
+        "sayfa": 48
+      },
+      {
+        "pdf_page_index": 204,
+        "sayfa": 204
+      },
+      {
+        "pdf_page_index": 205,
+        "sayfa": 205
+      }
+    ],
+    "images": [
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_067/page_203.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_067/page_204.png",
+      "data/qa_chunks/askeri_egitim_kitabi/chunk_067/page_205.png"
+    ]
+  }
+]

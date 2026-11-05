@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Sahada önlenebilir muharebe ölümlerinin en büyük kısmı nerede oluyor, oranı ne kadar?",
+      "answer": "Bu sayfaya göre muharebe ölümlerinin büyük bölümü hastane öncesi dönemde oluyor; oran yüzde 87. Bu yüzden hastane öncesi bakım kritik kabul ediliyor.",
+      "sayfa": 119,
+      "pdf_page_index": 125,
+      "kaynak_alinti": "Irak Özgürlük Operasyonu (OIF) ve Kalıcı Özgürlük Operasyonu (OEF) muharebe ölümlerinin yüzde 87'sinin hastane öncesi vakalar olduğu ortaya konuldu.",
+      "dogrulanan_bilgi": [
+        "yüzde 87",
+        "hastane öncesi vakalar"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Birliğimde TCCC eğitimini ne sıklıkla yenilememiz gerekiyor?",
+      "answer": "Bu metne göre TCCC eğitimi her dağıtımdan önce tamamlanmalı. Dağıtım yoksa da sağlık personeli eğitimi sürdürmek için en az her 3 yılda bir, yani 180 gün önce tamamlanacak şekilde yeniden eğitim almalı.",
+      "sayfa": 119,
+      "pdf_page_index": 125,
+      "kaynak_alinti": "Tüm aktif görevliler ve ihtiyat hastaneler, doktor asistanları, doktorlar, ileri düzey hemşireler ve hemşire uzmanları, TCCC eğitimini (daha önce tamamlanmadığı takdirde, Sefer Tıbbı Web Tabanlı Eğitim dahil), her Bireysel Sağlık personeli veya Sağlık Hizmetler Hazırlığı sürdürebilmek için arttırma programı dağıtım veya her 3 yılda bir 180 gün önce tamamlayacaklardır.",
+      "dogrulanan_bilgi": [
+        "her 3 yılda bir",
+        "180 gün önce",
+        "dağıtım"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "TCCC kılavuzlarını ve eğitim materyallerini kim güncelliyor?",
+      "answer": "Metne göre bunu TCCC Komitesi yapıyor. Komite kanıta dayalı yönergeleri, eğitimi, slaytları ve videoları yayımlayıp revize ediyor; ayrıca TCCC-AC ve TCCC-MP yönergeleri komite üyeleri tarafından gözden geçirilip güncelleniyor.",
+      "sayfa": 120,
+      "pdf_page_index": 126,
+      "kaynak_alinti": "TCCC Komitesi kanıta dayalı yönergeleri, eğitimi, slaytları ve videoları yayınlar ve revize eder. TCCC-AC ve TCCC-MP yönergeleri TCCC Komitesi üyeleri tarafından gözden geçirilir ve güncellenir.",
+      "dogrulanan_bilgi": [
+        "TCCC Komitesi",
+        "kanıta dayalı yönergeleri",
+        "gözden geçirilir ve güncellenir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

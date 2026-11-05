@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Birlikte TCCC-AC eğitimi planlıyoruz; öğrencilerle slayt kısmında hangi üç şeyi sırayla yapmam gerekiyor?",
+      "answer": "Slayt eğitiminde önce TCCC-AC yazılı ön testini yapmalısın. Sonra tüm slaytları öğrencilerle birlikte görüntüleyip incelemelisin. En sonda da TCCC-AC yazılı son testini uygulamalısın.",
+      "sayfa": 71,
+      "pdf_page_index": 77,
+      "kaynak_alinti": "•TCCC-AC yazılı ön testini gerçekleştirin.\n\n•Tüm slaytları öğrencilerle görüntüleyin ve inceleyin.\n\n•TCCC-AC yazılı son testini gerçekleştirin.",
+      "dogrulanan_bilgi": [
+        "yazılı ön testi",
+        "tüm slaytları öğrencilerle görüntüleyin ve inceleyin",
+        "yazılı son testi"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Ben TCCC-AC eğitmeni olmak istiyorum; bunun için hangi kursu bitirmiş olmam gerekiyor ve çevrimiçi eğitim yaklaşık ne kadar sürüyor?",
+      "answer": "TCCC-AC eğitmeni olabilmek için Taktik Muharebe Yaralı Bakımı-Sağlık Personeli yani TCCC-MP kursunu başarıyla tamamlamış olman gerekiyor. Ayrıca çevrimiçi NAEMT eğitmenlik kursu yaklaşık 6 saat sürüyor.",
+      "sayfa": 71,
+      "pdf_page_index": 77,
+      "kaynak_alinti": "Eğitmenler. TCCC-AC eğitmenleri Taktik Muharebe Yaralı Bakımı-Sağlık Personeli (TCCC-MP) kursunu başarıyla tamamlayan personeldir. Çevrimiçi NAEMT eğitmeni kursu yaklaşık 6 saat sürmektedir.",
+      "dogrulanan_bilgi": [
+        "TCCC-MP kursunu başarıyla tamamlayan personel",
+        "yaklaşık 6 saat"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "İlk müdahale becerisi olarak ağır kanamada neleri yapabiliyor olmam lazım?",
+      "answer": "Ağır kanamada doğrudan basınç uygulayabilmeli, bandaj koyabilmeli, basınçlı pansuman yapabilmeli, ekstremite turnikesi uygulayabilmeli ve combat gauze kullanabilmelisin.",
+      "sayfa": 72,
+      "pdf_page_index": 78,
+      "kaynak_alinti": "• Ağır Kanamalar:\n\noKanamaya direk basınç uygulamak.\n\noKanamaya bandaj uygulamak.\n\noKanamaya basınçlı pansuman uygulamak.\n\noKanamaya ekstremite turnikesi uygulamak.\n\noKanamaya combat gauze uygulamak.",
+      "dogrulanan_bilgi": [
+        "direk basınç",
+        "ekstremite turnikesi",
+        "combat gauze"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

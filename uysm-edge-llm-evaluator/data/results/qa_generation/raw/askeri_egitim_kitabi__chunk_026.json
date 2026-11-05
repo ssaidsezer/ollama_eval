@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "Hareketli hedefe atarken araç tam yandan gidiyorsa hızın ne kadarını hesaba katayım, 45 derecede gidiyorsa ne yapayım?",
+      "answer": "Araç bakış açına göre 90° ile hareket ediyorsa hızın tamamını alırsın. 45° açıyla gidiyorsa hızın yarısını hesaba katman gerekir.",
+      "sayfa": 80,
+      "pdf_page_index": 80,
+      "kaynak_alinti": "Araç bakış açısına göre, 90º açıyla hareket ediyorsa, hızın tamamı, 45 º açıyla hareket ediyorsa hızın yarısı hesaba katılır.",
+      "dogrulanan_bilgi": [
+        "90º açıyla hareket ediyorsa hızın tamamı",
+        "45 º açıyla hareket ediyorsa hızın yarısı"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Hedefin hızını net çıkaramıyorsam bu hesaplı yöntemi yine kullanayım mı, yoksa başka nasıl nişan alayım?",
+      "answer": "Hayır, aracın hızını sağlıklı belirleyemiyorsan bu yöntem uygulanmaz. Böyle durumda yavaş giden aracın ucuna, normal hızla gidenin ise 3-5 metre önüne nişan alınır; hızlı giden araca atış yapılmaz.",
+      "sayfa": 500,
+      "pdf_page_index": 81,
+      "kaynak_alinti": "Bu yöntem, aracın hızı sağlıklı tespit edilemediği zaman uygulanamaz. Bunun için gez-arpacıkla hareketli hedeflere şu şekilde nişan alınır. Yavaş giden araçların ucuna, normal hızla giden hedeflerin 3-5 metre önüne nişan alınır. Hızlı giden araçlara ise atış yapılmaz.",
+      "dogrulanan_bilgi": [
+        "uygulanamaz",
+        "3-5 metre önüne",
+        "Hızlı giden araçlara ise atış yapılmaz"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": "Etikette SAYFA 500 yazıyor, ancak sayfanın basılı numarası 81 görünüyor. Etiketteki SAYFA esas alındı."
+    },
+    {
+      "question": "Rus yapımı dürbünde 2,7 metre standardı dışında bir araç görürsem mesafeyi nasıl hesaplayayım?",
+      "answer": "Önce standart eğriden çıkan mesafeyi alıp araç yüksekliğiyle çarparsın, sonra 2,7’ye bölersin. Formül: Mesafe = Aracın Yüksekliği x Çıkan Mesafe / 2,7. Örnek olarak araç 2,3 metre yüksekliğindeyse ve çıkan mesafe 400 ise sonuç 340 metredir.",
+      "sayfa": 82,
+      "pdf_page_index": 82,
+      "kaynak_alinti": "Formül: Mesafe = Aracın Yüksekliği x Çıkan Mesafe / 2,7\n\nAynı tank; 2,3 metre yüksekliğindeyse; Mesafe= 2,3 x 400 / 2,7 = 340 metrededir.",
+      "dogrulanan_bilgi": [
+        "Mesafe = Aracın Yüksekliği x Çıkan Mesafe / 2,7",
+        "2,3 x 400 / 2,7 = 340 metre"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

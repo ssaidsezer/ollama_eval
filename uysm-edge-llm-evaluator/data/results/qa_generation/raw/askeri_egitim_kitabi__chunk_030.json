@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Bana tam karşıdan gelen hava hedefine nasıl nişan almalıyım?",
+      "answer": "Hedef silaha 0 derece açıyla gelip gidiyorsa merkezden nişan alınır. Bu durumda mesafe ve hız belirleyici değildir; sadece gelen hedefte hedefin altına, giden hedefte üstüne nişan tutulur.",
+      "sayfa": 93,
+      "pdf_page_index": 93,
+      "kaynak_alinti": "Silaha doğru, açısız(0°) gelen ve giden hedeflere merkezden nişan alınır. Mesafenin ve hızın önemi yoktur. Yalnız, gelen hedefin altına, giden hedefin üstüne nişan alınır.",
+      "dogrulanan_bilgi": [
+        "açısız(0°)",
+        "merkezden nişan alınır",
+        "gelen hedefin altına, giden hedefin üstüne"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "A-10 uçağı 1000 metrede, 45 derece açıyla 200 m/sn gidiyorsa kaçıncı halkadan atış yapayım?",
+      "answer": "Bu durumda 3. halkadan atış yapılır.",
+      "sayfa": 93,
+      "pdf_page_index": 93,
+      "kaynak_alinti": "Örn: A 10 uçağı 1000 metrede, 45 derece açıyla 200 m/sn hızla uçmaktadır. 3. halkadan atış yapılır.",
+      "dogrulanan_bilgi": [
+        "1000 metrede",
+        "45 derece açıyla",
+        "3. halkadan atış"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Zukiyak'la uzun seri attım; namluyu ne zaman değiştirmem gerekiyor?",
+      "answer": "14,5 mm Zukiyak'ta 500 mermi seri atıştan sonra namlu değiştirilmelidir.",
+      "sayfa": 94,
+      "pdf_page_index": 94,
+      "kaynak_alinti": "500 mermi seri atıştan sonra namluyu değiştirmek gerekir.",
+      "dogrulanan_bilgi": [
+        "500 mermi",
+        "seri atıştan sonra",
+        "namluyu değiştirmek gerekir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "RPK ile 700 metrede hedefe etkili atış beklemeli miyim?",
+      "answer": "Evet. RPK’nin tesirli mesafesi 1000 metre olarak verilmiş. Ama öldürme mesafesi 600 metre olduğu için 700 metrede etkili atış beklenir, öldürücü etki için verilen sınırın üstündedir.",
+      "sayfa": 63,
+      "pdf_page_index": 63,
+      "kaynak_alinti": "Öldürme mesafesi: 600 m\n• Tesirli Mesafesi: 1000 m",
+      "dogrulanan_bilgi": [
+        "600 m",
+        "1000 m"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "PKM’nin öldürücü ve tesirli mesafesi ne kadar?",
+      "answer": "PKM’nin öldürücü mesafesi 900 ile 1000 metre, tesirli mesafesi ise 1500 metredir.",
+      "sayfa": 120,
+      "pdf_page_index": 64,
+      "kaynak_alinti": "• Öldürücü mesafesi: 900 ile 1000 m.\n• Tesirli mesafesi: 1500 m.",
+      "dogrulanan_bilgi": [
+        "900 ile 1000 m",
+        "1500 m"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": "Etikette SAYFA 120 yazıyor, ancak sayfanın altındaki basılı numara 64 görünüyor. Talimat gereği etiket esas alındı."
+    },
+    {
+      "question": "PKM’de hangi tamburalar var, silaha takılan standart tambura kaç mermilik?",
+      "answer": "PKM için 120, 200 ve 250 mermilik tamburalar var. Ancak silaha takılan tambura 120 mermiliktir.",
+      "sayfa": 120,
+      "pdf_page_index": 64,
+      "kaynak_alinti": "• 120, 200, 250 mermilik tamburaları vardır. Fakat silaha takılan tambura 120 mermiliktir.",
+      "dogrulanan_bilgi": [
+        "120, 200, 250 mermilik",
+        "120 mermiliktir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": "Etikette SAYFA 120 yazıyor, ancak sayfanın altındaki basılı numara 64 görünüyor. Talimat gereği etiket esas alındı."
+    }
+  ]
+}

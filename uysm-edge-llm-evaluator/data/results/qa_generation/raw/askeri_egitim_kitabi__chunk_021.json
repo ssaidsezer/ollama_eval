@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Namlu çok ısındıysa bu silahta yedek namluyu ne zaman takabilirim?",
+      "answer": "Bu silahta 500 mermi atıldığında ya da namlu ısındığı anda yedek namlu takılabilir.",
+      "sayfa": 65,
+      "pdf_page_index": 65,
+      "kaynak_alinti": "500 mermi atıldığı veya namlu ısındığı anda yedek namlu takılabilir.",
+      "dogrulanan_bilgi": [
+        "500 mermi",
+        "namlu ısındığı anda",
+        "yedek namlu takılabilir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Silahı sökerken gaz borusu ve ayak tertibatını nasıl çıkarıyorum?",
+      "answer": "Gaz borusunun önündeki dili aşağı bastırıp gaz borusu ile ayak tertibatını sökersin.",
+      "sayfa": 65,
+      "pdf_page_index": 65,
+      "kaynak_alinti": "Gaz borusunun önündeki dil aşağı doğru bastırılarak gaz borusu ve ayak tertibatı sökülür.",
+      "dogrulanan_bilgi": [
+        "dil aşağı doğru bastırılarak",
+        "gaz borusu",
+        "ayak tertibatı sökülür"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Mesafe cetvelinde baştaki P harfi kaç metreye denk geliyor, rakamlar da kaçar metre artıyor?",
+      "answer": "Baştaki P harfi 300 metreye karşılık gelir. Cetveldeki her rakam da 100 metreyi ifade eder.",
+      "sayfa": 67,
+      "pdf_page_index": 67,
+      "kaynak_alinti": "İlk başta P harfi bulunur. Bu da; 300 metreye tekabül eder. Her bir rakam 100 metreye tekabül etmektedir.",
+      "dogrulanan_bilgi": [
+        "P harfi",
+        "300 metre",
+        "Her bir rakam 100 metre"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

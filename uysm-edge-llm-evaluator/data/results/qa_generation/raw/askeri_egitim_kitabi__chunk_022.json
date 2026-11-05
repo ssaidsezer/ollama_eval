@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "Silahın emniyette mi atışa hazır mı olduğunu pimin yönünden nasıl anlarım?",
+      "answer": "Emniyet pimi namlu yönüne bakıyorsa silah atışa hazırdır; dipçik yönüne bakıyorsa emniyettedir.",
+      "sayfa": 68,
+      "pdf_page_index": 68,
+      "kaynak_alinti": "Emniyet pimi namluya bakıyorsa atışa hazır, dipçiğe bakıyorsa emniyettedir.",
+      "dogrulanan_bilgi": [
+        "namluya bakıyorsa atışa hazır",
+        "dipçiğe bakıyorsa emniyettedir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Hava çok soğuk, yağlar donacak gibi ve atış yoğunluğunu artırmam gerekiyor; gaz ayarını kaça almalıyım?",
+      "answer": "Bu durumda 3 nolu gaz ayarı kullanılır. Bu ayarda iki delik de kapalı olur ve atış yoğunluğunu artırmak için tercih edilir.",
+      "sayfa": 68,
+      "pdf_page_index": 68,
+      "kaynak_alinti": "3 nolu gaz ayarı: Atış yoğunluğu artırılmak istenirse, silah kirli ise veya hava, yağlar donacak kadar soğuksa kullanılır. İki delikte kapalı olur. (900 mermi)",
+      "dogrulanan_bilgi": [
+        "3 nolu gaz ayarı",
+        "hava, yağlar donacak kadar soğuksa",
+        "İki delikte kapalı olur"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "MG-3’le dürbünlü kullanımda etkili menzil ne kadar?",
+      "answer": "MG-3’ün dürbünlü kullanımda tesirli menzili 1600 metredir.",
+      "sayfa": 90,
+      "pdf_page_index": 70,
+      "kaynak_alinti": "Tesirli menzil (dürbünlü): 1600 m",
+      "dogrulanan_bilgi": [
+        "Tesirli menzil (dürbünlü)",
+        "1600 m"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": "Sayfa etiketi SAYFA 90, ancak görüntü altındaki basılı numara 70 görünüyor; etiketteki SAYFA esas alındı."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "Makineli tüfekte dipçiği sökerken tamponu ne kadar çevirmem gerekiyor?",
+      "answer": "Dipçiği ayırmak için önce dipçik kilit pimine basılır, sonra tampon herhangi bir yöne 45 derece döndürülür. Ardından dipçik geriye doğru çıkarılır.",
+      "sayfa": 71,
+      "pdf_page_index": 71,
+      "kaynak_alinti": "Dipçik kilid pimine basılır ve tampon herhangi bir yöne 45 derece döndürülür. Dipçik geriye doğru çıkarılır.",
+      "dogrulanan_bilgi": [
+        "45 derece",
+        "dipçik geriye doğru çıkarılır"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Silah tutukluk yapıyorsa en sık hangi nedenlere bakmalıyım?",
+      "answer": "Önce silahın doğru kullanılıp kullanılmadığını, kirli olup olmadığını, parçaların aşınmış-hasarlı-kırık olup olmadığını ve yayların zayıflayıp zayıflamadığını kontrol etmelisin.",
+      "sayfa": 72,
+      "pdf_page_index": 72,
+      "kaynak_alinti": "• Silahın doğru kullanılmaması\n• Silahın kirli olması\n• Parçaların aşınmış, hasara uğramış veya kırılmış olması\n• Yayların zayıflamış veya kırılmış olması",
+      "dogrulanan_bilgi": [
+        "Silahın kirli olması",
+        "Parçaların aşınmış, hasara uğramış veya kırılmış olması",
+        "Yayların zayıflamış veya kırılmış olması"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Taarruzda dost birliklerin üstünden aşırma atışı yapabilir miyim, hangi şartla olur?",
+      "answer": "Evet, ama bu sadece sehpaya monte edilmiş makineli tüfeklerle yapılır. Ayrıca dost birliklerin atış hattından zarar görmeyeceği açıkça görülmelidir.",
+      "sayfa": 73,
+      "pdf_page_index": 73,
+      "kaynak_alinti": "Taarruz esnasında ilerleyen dost birlikler üzerinden aşırma atışı yapabilirler. Bu atış sadece sehpaya monte edilmiş, makineli tüfekler tarafından yapılır. Çatal ayak üzerindeki makineli tüfekler bu atışa, dost birliklerin atışımızdan tehlikeye düşmeyeceği, açık olarak görülüyorsa katılabilirler.",
+      "dogrulanan_bilgi": [
+        "sadece sehpaya monte edilmiş",
+        "dost birliklerin atışımızdan tehlikeye düşmeyeceği"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

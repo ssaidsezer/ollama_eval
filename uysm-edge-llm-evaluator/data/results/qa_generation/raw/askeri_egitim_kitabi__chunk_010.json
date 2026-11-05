@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Gece atışındayım, mesafe rakamlarını seçemiyorum; gez ayarını nereye almalıyım?",
+      "answer": "Rakamlar görünmüyorsa gez ayarını baştaki \"П\" işaretine alman gerekir. Bu işaret 300 metreyi gösterir ve değişken mesafelerde ortalama değer olarak kullanılır.",
+      "sayfa": 32,
+      "pdf_page_index": 32,
+      "kaynak_alinti": "Bu levhanın başında П harfi vardır. Bu 3 rakamına, yani 300 metreye delalet eder. Gece rakamlar görülmezse ve değişkenlik gösteren mesafelere atışta, ortalama değer olduğu için mandal geriye çekilir.",
+      "dogrulanan_bilgi": [
+        "П harfi",
+        "300 metre",
+        "mandal geriye çekilir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Tüfek patladı ama kovan odada kaldı, en olası arızalar ne olur?",
+      "answer": "Bu durumda önce tırnak ya da yayı kırık mı, yay gevşek mi diye düşünülür. Bir diğer ihtimal de kovanın çentik kanalının kırık olması ve tırnağın kovanı çekememesidir.",
+      "sayfa": 32,
+      "pdf_page_index": 32,
+      "kaynak_alinti": "Patlama Sonrası Kovan Çıkmayıp Patlama Odasında Kalırsa; • Tırnak veya yayı kırık veya yay gevşek olabilir. • Kovanın çentik kanalı kırık olur ve tırnak çekemeyebilir.",
+      "dogrulanan_bilgi": [
+        "Tırnak veya yayı kırık veya yay gevşek olabilir",
+        "Kovanın çentik kanalı kırık olur",
+        "tırnak çekemeyebilir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "AK-107'yi standart Kaleşnikoflardan ayıran şey ne, otomatik atışta ne sağlıyor?",
+      "answer": "AK-107'de BARS denilen bir tepme önleyici sistem var. Bu sistemde kovan geri gelirken bir metal ileri giderek denge kuruyor; böylece silah sarsılmadan otomatik atış yapabiliyor.",
+      "sayfa": 34,
+      "pdf_page_index": 34,
+      "kaynak_alinti": "Bu model standart Kaleşnikofların aksine, bir tepme önleyicisine sahiptir(BARS). BARS sistemi, kovan geri gelirken, bir metal ileri giderek dengeyi sağlar. Silah sarsılmadan otomatik atış yapabilmektedir.",
+      "dogrulanan_bilgi": [
+        "tepme önleyicisine sahiptir(BARS)",
+        "kovan geri gelirken, bir metal ileri giderek dengeyi sağlar",
+        "Silah sarsılmadan otomatik atış yapabilmektedir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Elektrikli fünye kullanacağım; askeri tip olanı hangi volt ve akımla patlar, direnç yükselirse neye bakarım?",
+      "answer": "Askeri elektrikli fünye 1,5 volt ve 0,5 amper ile patlar. Direnci 2,5 ohmu aşarsa daha yüksek gerilim gerekir; asgari gerilim hesabı 0,5 x direnç formülüyle verilir.",
+      "sayfa": 119,
+      "pdf_page_index": 119,
+      "kaynak_alinti": "Elektrikli fünyelerin askeri olanları 1,5 volt; 0,5 amper ile patlar. (Direnci 2,5 Ω‘u geçerse daha yüksek gerilim gerekir.) Formül: Gerekli asgari gerilim = 0,5 x direnç",
+      "dogrulanan_bilgi": [
+        "1,5 volt",
+        "0,5 amper",
+        "0,5 x direnç"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Elimde yavaş yanan fitil var; hızı ne kadar ve nem aldıysa uçlardan ne kadar kesmem gerekir?",
+      "answer": "Yavaş yanan fitilin hızı yaklaşık 1,4 cm/saniyedir. Nem ihtimali varsa uçlarından onar santimetre kesilmelidir.",
+      "sayfa": 120,
+      "pdf_page_index": 120,
+      "kaynak_alinti": "Yavaş Yanan Fitil Siyah renklidir. İçinde lifler ve kara barut vardır. Hızı takriben 1,4 cm/sn’dir. Normal fünyeyi patlatmak, elektrik fünyesi bozuk olan BM‘i çıkarmak vb işlerde kullanılır. Gerekli olan zaman, boyu ile hesaplanır. Nemden etkilenir. Nem olma ihtimaline karşı uçlarından onar cm kesilir.",
+      "dogrulanan_bilgi": [
+        "1,4 cm/sn",
+        "uçlarından onar cm kesilir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Korteks ana hattını döşerken nasıl çekeyim; aralık ve bağlama mesafesi ne olmalı?",
+      "answer": "Korteks ana hatlarda paralel çekilir ve birbirine dolanmaz; her 15–20 cm'de bantlanır. Fünye de korteksin 15 cm ucundan sonra bantlanmalıdır.",
+      "sayfa": 120,
+      "pdf_page_index": 120,
+      "kaynak_alinti": "Korteks ana hatlarda, ihtiyat için ikili çekilir. Bunlar birbirine dolanmaz. Paralel olarak çekilir. Her 15–20 cm de bantlanır.\n• Fünye kortekse bantlanmalıdır. Kapalı uç tarafı patlar. Kablolu olan kısım, kimi zaman patlamaz. Tecrübe edilmiştir. Bunun için her zaman fünyenin kapalı ucu mayına bakmalıdır. Fünye, korteksin 15 cm ucundan sonra bantlanır.",
+      "dogrulanan_bilgi": [
+        "Paralel olarak çekilir",
+        "Her 15–20 cm de bantlanır",
+        "korteksin 15 cm ucundan sonra"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

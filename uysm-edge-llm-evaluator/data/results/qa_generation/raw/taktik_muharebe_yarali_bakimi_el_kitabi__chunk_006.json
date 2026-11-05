@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "Kriktirotomi sonrası kanülün kafını ne kadar hava ile şişirmeliyim?",
+      "answer": "Kanülün kafını 10 cc hava ile şişirmelisin.",
+      "sayfa": 16,
+      "pdf_page_index": 22,
+      "kaynak_alinti": "Kafı 10 cc hava ile şişirin.",
+      "dogrulanan_bilgi": [
+        "10 cc hava"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Cerrahi hava yolunu açtım; yerleşimin doğru olduğunu sahada nasıl anlarım?",
+      "answer": "Hava giriş çıkışını kontrol etmelisin. Tüpün buğulanmasına bak, kanülün yerleşimini hisset ve doğrula. Göğsün iki taraflı yükselip alçaldığını izle. Yaralı kendi nefes almıyorsa ambuyu kanülün manşetine bağlayıp havalandır ve iki tarafta solunum sesi olup olmadığını kontrol et.",
+      "sayfa": 16,
+      "pdf_page_index": 22,
+      "kaynak_alinti": "Hava giriş çıkışını kontrol edin ve tüpün havalanmasını sağlayarak, tüpün buğulanmasını görerek, kanülün yerleşimini hissedin ve doğrulayın. Göğsün çift taraflı yükselip alçaldığına bakın. Yaralının kendiliğinden nefes almaması halinde, ambuyu kanülün manşetine bağlayın ve havalandırın. Çift taraflı olarak solunum sesleri olup olmadığını kontrol edin.",
+      "dogrulanan_bilgi": [
+        "tüpün buğulanması",
+        "Göğsün çift taraflı yükselip alçalması",
+        "Çift taraflı olarak solunum sesleri"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "LT takarken tüpü ağızdan verirken hangi açıyla çevirip nasıl ilerletmeliyim?",
+      "answer": "Tüpü yan olarak 45 ile 90 derece döndürüp ucunu ağza yerleştirerek dil kökünün arkasına doğru ilerletmelisin. Uç farenksin arkasına ulaşınca da orta hatta döndürmelisin.",
+      "sayfa": 18,
+      "pdf_page_index": 24,
+      "kaynak_alinti": "Tüpü yan olarak 45 ile 90 derece döndürün, ucunu yaralının ağzına yerleştirin ve dil kökünün arkasına doğru iletin.\n\nTüpün ucu farenksin arkasına ulaştığında orta hatta döndürün.",
+      "dogrulanan_bilgi": [
+        "45 ile 90 derece",
+        "dil kökünün arkasına",
+        "orta hatta döndürün"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

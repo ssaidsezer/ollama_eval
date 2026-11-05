@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Gece ateş eden hedefin namlu alevini gördüm, sesi 3 saniye sonra geldi; mesafeyi nasıl hesaplarım?",
+      "answer": "Bu usulde çıkışı görünce süre tutulur, ses gelene kadar geçen saniye 340 ile çarpılır. 3 saniye geçtiyse hedef yaklaşık 1020 metre uzaktadır.",
+      "sayfa": 129,
+      "pdf_page_index": 129,
+      "kaynak_alinti": "Uygulama şöyle yapılır. Çıkışı görünce saniye tutulur. Ses gelince kaç saniye geçmişse 340 ile çarpılır.",
+      "dogrulanan_bilgi": [
+        "340 ile çarpılır",
+        "3 saniye",
+        "1020 metre"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Dürbünde 6 metrelik bir tankı 3 çizik görüyorum; bana uzaklığı ne çıkar?",
+      "answer": "Askeri dürbün hesabına göre hedefin bilinen boyu 1000 ile çarpılıp ölçülen çizik sayısına bölünür. 6 metre ve 3 çizik için mesafe 2000 metredir.",
+      "sayfa": 130,
+      "pdf_page_index": 130,
+      "kaynak_alinti": "Hedefin metre cinsinden bilinen boyu X 1000 / Hedefin çizik cinsinden ölçülen boyu = Hedefin mesafesi (HB X 1000 / HÇB = HM)\n\n6 X 1000 / 3 = 2000 metre. Bu mesafe tankın bize olan uzaklığıdır.",
+      "dogrulanan_bilgi": [
+        "6 X 1000 / 3",
+        "2000 metre",
+        "Hedefin metre cinsinden bilinen boyu X 1000 / Hedefin çizik cinsinden ölçülen boyu"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "El bombasını attıktan sonra ne kadar sürede patlar, o anda ben ne yapmalıyım?",
+      "answer": "Mandal kurtulup kapsül sesi geldikten 4 saniye sonra patlama olur. Bombayı attıktan sonra siper arkasına geçmelisin; siper yoksa yatmalısın.",
+      "sayfa": 128,
+      "pdf_page_index": 128,
+      "kaynak_alinti": "Bu sesten 4 sn sonra patlama gerçekleşir.\n\nNot: El bombası atıldığı zaman siper arkasına geçilir. Siper yoksa yatılır.",
+      "dogrulanan_bilgi": [
+        "4 sn sonra",
+        "siper arkasına geçilir",
+        "Siper yoksa yatılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Uzamış saha bakımında elimdeki imkanlarla hastaya ne tür ileri bakım şeyleri yapabilirim?",
+      "answer": "Bu kapsamda hasta izlenebilir, kan ürünleriyle resüsitasyon yapılabilir, havayolu ve oksijenlendirme sağlanabilir, kesin havayolu kontrolü alınabilir, sedasyon ve ağrı tedavisi uygulanabilir. Ayrıca tanısal araçlar kullanılabilir, hemşirelik ve yara bakımı verilebilir, ileri cerrahi girişimler yapılabilir, teletıp danışması kurulabilir ve yaralı uçuşa hazırlanabilir.",
+      "sayfa": 109,
+      "pdf_page_index": 115,
+      "kaynak_alinti": "PFC’nin 10 kabiliyeti:\n• Faydalı bir yaşamsal belirti eğilimi oluşturmak için hastayı izler.\n• Hastayı kristalloid veya kolloid infüzyonunun ötesinde resüsite eder. (kan ürünleri).\n• Yaralıyı havalandırır veya oksijenlendirir (pozitif ekspirasyon sonu basınç [PEEP], ventilatör, tamamlayıcı oksijen).\n• Yaralının hava yolunun kesin kontrolünü kazanır (krikotiroidotomi, hızlı sıralı entübasyon, endotrakeal tüp).\n• Sedasyon veya ağrı kontrolünü kullanır (intravenöz [IV] sedasyon, ketamin, Versed(midazolam), fentanil, vb.).\n• Fizik muayene veya tanı ölçütlerini kullanır (ultrason, diagnostik peritonal lavaj, laboratuar testleri).\n• Hemşirelik, hijyen veya konfor önlemlerini sağlar (yara bakımı ve kateterizasyon).\n• Gelişmiş cerrahi girişimler gerçekleştirir (göğüs tüpü, krikotiroidotomi, fasyotomi, amputasyon).\n• Teletıp danışması yapar (medya trendleri transfer etmek, resimler, laboratuar sonuçları).",
+      "dogrulanan_bilgi": [
+        "kan ürünleri",
+        "kesin hava yolu kontrolü",
+        "teletıp danışması"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Turnikeyi 3 saattir takılı tutuyorum, şimdi dönüştürmeyi düşünebilir miyim?",
+      "answer": "Evet, 3 saatlik süre 2 ile 6 saat aralığına girer. Kaynağa göre bu aralık güvenli kabul edilir ve dönüştürme girişimi düşünülebilir; ancak üst güvenlik sınırı bilimsel olarak net belirlenmemiştir.",
+      "sayfa": 110,
+      "pdf_page_index": 116,
+      "kaynak_alinti": "• İki ile altı saat güvenlidir, ancak üst güvenlik sınırı bilimsel olarak belirlenmemiştir. (dönüştürme girişimi).",
+      "dogrulanan_bilgi": [
+        "İki ile altı saat güvenlidir",
+        "üst güvenlik sınırı bilimsel olarak belirlenmemiştir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Bilinçli yaralının orta-şiddetli ağrısı var, ağızdan pastil verebiliyorsam fentanili nasıl kullanayım?",
+      "answer": "Bu durumda 800 mikrogram oral transmukozal fentanil sitrat pastil kullanılabilir. Pastili yaralının işaret parmağına yapıştırıp ağzına yönlendirmelisin; ısırmaması ve yutmaması tavsiye edilir.",
+      "sayfa": 111,
+      "pdf_page_index": 117,
+      "kaynak_alinti": "Fentanil sitrat, transmukozal pastil (oral transmukozal fentanil sitrat [OTFC]), 800 mikrograms (mcg). Endikasyonu, ağızdan pastil alabilen bilinçli bir yaralıda orta şiddetli ağrıdır. Pastili yaralının işaret parmağına yapıştırın ve ağzına yönlendirin. Isırmayı tavsiye etmeyin ve yutturmayın.",
+      "dogrulanan_bilgi": [
+        "800 mikrograms (mcg)",
+        "orta şiddetli ağrı",
+        "Isırmayı tavsiye etmeyin ve yutturmayın"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "sorular": [
+    {
+      "question": "Tabancayla kafaya ya da göğse vurmak istersem tam nereye nişan almalıyım?",
+      "answer": "Bu sayfaya göre ölümcül bölgeler kafa ve göğüs. Kafaya atış için ağza, göğse atış için ise karın bölgesine nişan alınır.",
+      "sayfa": 23,
+      "pdf_page_index": 23,
+      "kaynak_alinti": "İnsanın ölümcül bölgeleri kafa ve göğüs bölgesidir. Kafaya atış edilmek istenirse ağza, göğüse atış edilmek istenirse karın bölgesine nişan alınır.",
+      "dogrulanan_bilgi": [
+        "kafa ve göğüs bölgesi",
+        "ağza",
+        "karın bölgesine"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Atışta bileğimi ve dirseğimi nasıl tutmalıyım, bir de nişan alırken başımı nasıl konumlamalıyım?",
+      "answer": "Bileği sağa sola bükmemek, sağ dirseği kırmamak gerekiyor. Nişan alırken tabanca göz hizasına gelse de hat tam oluşmadığı için kafa sağ omuza yatırılmalı.",
+      "sayfa": 23,
+      "pdf_page_index": 23,
+      "kaynak_alinti": "Bilek sağa-sola bükülmemelidir. Sağ dirsekte kırılmamalıdır. Omuzdan başlıyıp silah ucuna kadar düz bir hat olmalıdır. Nişan alırken tabanca göz hizasına getirilirse bu hat gözle tam bir doğru oluşturmaz. Bunun için kafa sağ omuza yatırılır.",
+      "dogrulanan_bilgi": [
+        "Bilek sağa-sola bükülmemelidir",
+        "Sağ dirsekte kırılmamalıdır",
+        "kafa sağ omuza yatırılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Gez-arpacık kullanmadan içgüdüsel atış yapacaksam en kritik nokta ne?",
+      "answer": "Bu atışta gez ve arpacıktan nişan alınmaz; önemli olan gözle silahın paralelliğini sağlamaktır. İsabet de tecrübeye ve çok fazla atış yapmaya bağlıdır.",
+      "sayfa": 24,
+      "pdf_page_index": 24,
+      "kaynak_alinti": "Gez- arpacıktan nişan alınmaz. Silah hedefe doğrultulduğunda nereye geleceği bilinir. Bu atışlarda isabet tecrübeye bağlıdır. Buda çok fazla atış yapmakla sağlanır. Aşağıdaki şekillerde bazı garazi atış teknikleri gösterilmiştir. Önemli olan gözle silahın paralelliğinin sağlanmasıdır.",
+      "dogrulanan_bilgi": [
+        "Gez- arpacıktan nişan alınmaz",
+        "isabet tecrübeye bağlıdır",
+        "gözle silahın paralelliğinin sağlanması"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Ayakta kalmam şartsa kendimi daha küçük hedef yapmak için tabancayı nasıl tutmalıyım?",
+      "answer": "Hedefi küçültmek normalde oturarak ve yatarak sağlanır. Ama ayakta atış mecburiyeti varsa yandaki şekildeki gibi durulmalı ve silah tek elle tutulmalıdır.",
+      "sayfa": 25,
+      "pdf_page_index": 25,
+      "kaynak_alinti": "Atış yaparken hedefin bizi daha ufak görmesini sağlayıp vurma ihtimalini azaltmaktır. Oturarak ve yatarak sağlanır. İlla ayakta atış yapılması gerekiyorsa yandaki şekildeki gibi yapılır. Silah tek elle tutulur.",
+      "dogrulanan_bilgi": [
+        "Oturarak ve yatarak sağlanır",
+        "İlla ayakta atış yapılması gerekiyorsa",
+        "Silah tek elle tutulur"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Tabancam vurduğu yeri kaydırıyorsa regulaj nasıl yapılır, neyi oynatıyoruz?",
+      "answer": "Bu sayfaya göre regulaj, arpacığı eğerek ya da üstüne parça kaynatarak; gezi ise sağa sola kaydırarak yapılır. Ancak silahın orijinalliği bozulacağı için çok gerekmedikçe yapılmamalıdır.",
+      "sayfa": 25,
+      "pdf_page_index": 25,
+      "kaynak_alinti": "Tabancalarda regulaj, arpacık eğelenerek veya üstüne parça kaynatılarak, gez ise sağa sola kaydırılarak sağlanır. Arpacık oynanacağı için silahın orjinalliği bozulacaktır. Bunun için çok gerekmedikçe regulaj yapılmaz.",
+      "dogrulanan_bilgi": [
+        "arpacık eğelenerek veya üstüne parça kaynatılarak",
+        "gez ise sağa sola kaydırılarak",
+        "çok gerekmedikçe regulaj yapılmaz"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

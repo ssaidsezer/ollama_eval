@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "Dürbünü sıfırlarken çarkı bir çıt çevirirsem 100 metrede ne kadar oynatır?",
+      "answer": "Dürbün ayarında çarkın 1 çıt dönmesi 100 metrede 5 cm'lik düzeltmeye karşılık gelir.",
+      "sayfa": 189,
+      "pdf_page_index": 189,
+      "kaynak_alinti": "Çarkların 1 çıt dönmesi 100 m'de 5 cm'ye tekabül eder.",
+      "dogrulanan_bilgi": [
+        "1 çıt",
+        "100 m'de 5 cm"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Atışta nefesi nasıl tutayım, ne kadar sürede tetiği düşürmem lazım?",
+      "answer": "Nefes kontrolü yapıp bir kısmını dışarı verdikten sonra kalan nefesi tutarak atışı 3–5 saniye içinde yapmalısın. Eğer 8 saniyeye kadar atış çıkmadıysa nefes kontrolünü yeniden kurman gerekir.",
+      "sayfa": 190,
+      "pdf_page_index": 190,
+      "kaynak_alinti": "Nefes kontrolü yapılır. Rahatlayıncaya kadar bir kısmı dışarı verilir ve bir kısmı tutularak, nefes alış verişi kesilir ve 3–5 sn içinde atış yapılır. Eğer 8 saniyeye kadar atış yapılmamışsa nefes kontrolü tekrarlanır.",
+      "dogrulanan_bilgi": [
+        "3–5 sn içinde",
+        "8 saniyeye kadar"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Dürbünle baktım, hedef 4 çizgi geliyor ve boyu da 1,70 civarı. Mesafe kaç metre sayılır?",
+      "answer": "Bu durumda üstteki çizgilerle mesafe hesabına göre mesafe 425 metredir. Formül hedef boyu bölü çizgi sayısı çarpı 1000 şeklindedir; 1,70 / 4 x 1000 = 425 m eder.",
+      "sayfa": 190,
+      "pdf_page_index": 190,
+      "kaynak_alinti": "Formül: Mesafe = Hedef boyu (m) / çizgi sayısı x 1000\n\nÖrnek: Hedefin boyu 4 çizgi ve uzunluğu 1,70 ise mesafesi nedir?\n1,70 / 4 x 1000 = 425 m",
+      "dogrulanan_bilgi": [
+        "4 çizgi",
+        "1,70",
+        "425 m"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

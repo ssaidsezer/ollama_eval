@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "Makarof’ta emniyet kolu yukarıdayken silahın durumu ne oluyor?",
+      "answer": "Makarof’ta emniyet kolu yukarı konumdaysa emniyet açıktır. Aşağı konum ise kapalıdır.",
+      "sayfa": 9,
+      "pdf_page_index": 9,
+      "kaynak_alinti": "Emniyet Sistemi: Yukarı: Açık; Aşağı: Kapalı",
+      "dogrulanan_bilgi": [
+        "Yukarı: Açık",
+        "Aşağı: Kapalı"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Şarjör bittiğinde Makarof’ta bunu nasıl anlarım?",
+      "answer": "Şarjör boşaldığında mekanizma tamamen geride kalır ve muhabir-i sadık tarafından tutulur. Yani mekanizma geride kaldıysa şarjörün boş olduğunu anlarsın.",
+      "sayfa": 8,
+      "pdf_page_index": 8,
+      "kaynak_alinti": "Muhbir-i Sadık: Şarjörde mermi bittiği zaman, mekanizma geriye tam gelip, muhbiri sadık tarafından tutulur. Silaha yeni şarjör takıldığında mekanizma ileri doğru giderek mermiyi namluya alır. Mekanizma geride kaldığında, şarjörün boşaldığını öğreniriz.",
+      "dogrulanan_bilgi": [
+        "mekanizma geriye tam gelip",
+        "Mekanizma geride kaldığında, şarjörün boşaldığını öğreniriz"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "TT tabancayı sökerken mekanizma yayını ne zaman çıkarıyorum?",
+      "answer": "TT’nin sökümünde önce mekanizma ileri itilip namlu ucundan tutularak çıkarılır; bunun ardından mekanizma yayı çıkarılır.",
+      "sayfa": 10,
+      "pdf_page_index": 10,
+      "kaynak_alinti": "Mekanizma ileri doğru itilerek ve namlu ucundan tutularak çıkartılır. Beden kapağının altında mekanizma yayı bulunur. Fırlamaması için tutulmalıdır.\n• Mekanizma yayı çıkartılır.",
+      "dogrulanan_bilgi": [
+        "Mekanizma ileri doğru itilerek ve namlu ucundan tutularak çıkartılır",
+        "Mekanizma yayı çıkartılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

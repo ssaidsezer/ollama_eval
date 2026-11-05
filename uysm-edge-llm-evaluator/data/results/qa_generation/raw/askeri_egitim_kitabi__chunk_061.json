@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Gündüz rahat yerleşip telsizi de iyi kullanmak istiyorsam, gözetleme yerini geri yamaca mı kurayım?",
+      "answer": "Evet, bu ihtiyaçlar için geri yamaç daha uygundur. Metne göre gündüz koşullarında yerleşmeye elverişlidir, hareket serbestliği sağlar ve telsiz muhaberesine uygun ortam verir. Ayrıca düşmanın görerek ateş eden silahlarından da etkilenmez.",
+      "sayfa": 185,
+      "pdf_page_index": 185,
+      "kaynak_alinti": "Gündüz koşullarında yerleşilebilir ve hareket serbestliği sağlar.\n• Telsiz muhaberesi için uygun ortam sağlar.\n• Düşmanın görerek ateş eden silahlarından etkilenmez.",
+      "dogrulanan_bilgi": [
+        "Gündüz koşullarında yerleşilebilir",
+        "Telsiz muhaberesi için uygun ortam sağlar",
+        "Düşmanın görerek ateş eden silahlarından etkilenmez"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Atıcıyla gözcünün hedefe bakış açısı farklıysa düzeltmeyi nasıl vermeliyim?",
+      "answer": "Atış kontrol bunun farkında olmalı ve düzeltmeyi ona göre yaptırmalıdır. Tarassuta göre hata ileri 100 m ve sağ-sol yoksa birinci şekildeki gibi işlem yapılır. İkinci durumda hata açıya göre sağ-sol ve ileri-geri olarak değerlendirilir. Üçüncü durumda ise hata gözcüye göre 100 m ilerideyken, silaha göre 100 metre sağdadır.",
+      "sayfa": 186,
+      "pdf_page_index": 186,
+      "kaynak_alinti": "Atış kontrolün bunu bilmesi ve ona göre düzeltme yaptırması gerekir. Tarassuta göre hata ileri 100 m sağ-sol yokken; birinci şekilde aynen işleme tabi tutulur. İkinci şekle göre açıya göre hata sağ-sol ve ileri-geri olarak işleme tabi tutulur. Üçüncü şekilde ise; hata gözcüye göre 100 m ileride iken, silaha göre 100 metre sağdadır.",
+      "dogrulanan_bilgi": [
+        "ileri 100 m",
+        "sağ-sol ve ileri-geri",
+        "100 metre sağdadır"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Elimde Dragunov var; bunun etkili mesafesi ve mermi çıkış hızı ne?",
+      "answer": "Dragunov’un tesirli mesafesi 1500 m, mermi çıkış hızı ise 830 m/sn’dir.",
+      "sayfa": 187,
+      "pdf_page_index": 187,
+      "kaynak_alinti": "Merminin çıkış hızı 830 m\\sn’dir.\n• Tesirli mesafesi 1500 m, merminin son varış noktası 4500–5000 m’dir.",
+      "dogrulanan_bilgi": [
+        "830 m/sn",
+        "1500 m"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

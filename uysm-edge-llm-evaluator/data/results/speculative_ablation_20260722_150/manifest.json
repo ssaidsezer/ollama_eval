@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-22T12:13:05",
+  "csv": "/Users/hasan/Desktop/odine-llm-evaluator/uysm-edge-llm-evaluator/data/qa/final_qa_150.csv",
+  "baseline_root": "/Users/hasan/Desktop/odine-llm-evaluator/uysm-edge-llm-evaluator/data/results/kv_ablation_20260721_150",
+  "conditions": {
+    "qwen_ngram": {
+      "status": "failed",
+      "config": {
+        "name": "qwen_ngram",
+        "model_alias": "qwen3.6:35b-a3b",
+        "model_path": "/home/odine/models/llama.cpp/models--lmstudio-community--Qwen3.6-35B-A3B-GGUF/snapshots/68a34855558af61cbef0324d31f411be8a506b08/Qwen3.6-35B-A3B-Q4_K_M.gguf",
+        "spec_type": "ngram-mod",
+        "spec_args": [
+          "--spec-type",
+          "ngram-mod",
+          "--spec-ngram-mod-n-match",
+          "24",
+          "--spec-ngram-mod-n-min",
+          "48",
+          "--spec-ngram-mod-n-max",
+          "64"
+        ],
+        "baseline_subdir": "qwen_q8_0",
+        "draft_model": ""
+      },
+      "error_type": "RuntimeError",
+      "error_message": "Speculative statistics missing for qwen_ngram"
+    },
+    "gemma_ngram": {
+      "status": "failed",
+      "config": {
+        "name": "gemma_ngram",
+        "model_alias": "gemma4:26b-a4b",
+        "model_path": "/home/odine/models/llama.cpp/models--lmstudio-community--gemma-4-26B-A4B-it-GGUF/snapshots/f11c185920b2c7b202e07e4a9768bf1bea0111d1/gemma-4-26B-A4B-it-Q4_K_M.gguf",
+        "spec_type": "ngram-mod",
+        "spec_args": [
+          "--spec-type",
+          "ngram-mod",
+          "--spec-ngram-mod-n-match",
+          "24",
+          "--spec-ngram-mod-n-min",
+          "48",
+          "--spec-ngram-mod-n-max",
+          "64"
+        ],
+        "baseline_subdir": "gemma_q8_0",
+        "draft_model": ""
+      },
+      "error_type": "CalledProcessError",
+      "error_message": "Command '['ssh', '-S', '/tmp/odine-codex.sock', '-o', 'BatchMode=yes', '-o', 'ConnectTimeout=10', 'odine@192.168.1.29', 'bash', '-s']' returned non-zero exit status 255.",
+      "stop_error": "Command '['ssh', '-S', '/tmp/odine-codex.sock', '-o', 'BatchMode=yes', '-o', 'ConnectTimeout=10', 'odine@192.168.1.29', 'bash', '-s']' returned non-zero exit status 255."
+    }
+  }
+}

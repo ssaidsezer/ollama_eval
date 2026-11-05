@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "M4 benzeri bu tüfekle 300 metrede hedefe etkili atış bekleyebilir miyim, azami tesirli menzil ne kadar?",
+      "answer": "Evet, bu silahın etkili menzili 300 m olarak veriliyor. Tesirli menzili ise 800 m.",
+      "sayfa": 44,
+      "pdf_page_index": 44,
+      "kaynak_alinti": "Etkili menzil: 300 m\nTesirli menzil: 800 m",
+      "dogrulanan_bilgi": [
+        "300 m",
+        "800 m"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "L85A1-A2’nin etkili menzili ve şarjör kapasitesi ne?",
+      "answer": "L85A1-A2’nin etkili menzili 460 m, şarjör kapasitesi ise 30 mermi.",
+      "sayfa": 45,
+      "pdf_page_index": 45,
+      "kaynak_alinti": "Etkili menzili: 460 m\nŞarjör kapasitesi= 30 mermi",
+      "dogrulanan_bilgi": [
+        "460 m",
+        "30 mermi"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "L85’i sökerken dürbünü nasıl çıkarıyorum, ilk adım ne?",
+      "answer": "Önce dürbünün solundaki iki kilidi sola çevirerek açarsın. Ardından dürbünü arkaya doğru çekip çıkarırsın.",
+      "sayfa": 46,
+      "pdf_page_index": 46,
+      "kaynak_alinti": "Dürbünün solundaki iki kilit sola doğru çevrilerek açılır.\nDürbün arkaya doğru çekilerek çıkarılır.",
+      "dogrulanan_bilgi": [
+        "iki kilit sola doğru çevrilerek açılır",
+        "arkaya doğru çekilerek çıkarılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "Hareketli hedefe pratik hesapla atış yapacağım; 200 metrede araç 1 saniyede kaç bölme gidiyorsa ne yapmalıyım?",
+      "answer": "Pratik yöntemde dürbünü bir noktaya sabitleyip araç şebekeye girince 1 saniyede kaç bölme ilerlediğini sayarsın. 200 metrede bu sayı aynen alınır ve hedef, 0 çizgisine doğru o kadar yaklaştırılarak tetiğe basılır.",
+      "sayfa": 84,
+      "pdf_page_index": 84,
+      "kaynak_alinti": "Dürbün bir noktaya sabitlenir. Araç şebekeye girince yavaşça subhanallah (1 sn) denir. Kaç bölme gitmişse; 100 m'de yarısı; 200, 300 ve 400 metrelerde aynısı; 500 m de iki katı kadar 0 çizgisine yaklaşınca tetiğe basılır. (Bulunduğu mesafe yatay çizgisinde)",
+      "dogrulanan_bilgi": [
+        "200, 300 ve 400 metrelerde aynısı",
+        "1 sn",
+        "0 çizgisine yaklaşınca tetiğe basılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Dürbün regulajında regulaj tahtasını göz lastiğinden ne kadar ileri koymalıyım?",
+      "answer": "Regulaj tahtası, dürbünün göz lastiğinden 20 metre ileriye yerleştirilir.",
+      "sayfa": 85,
+      "pdf_page_index": 85,
+      "kaynak_alinti": "Dürbünün göz lastiğinden 20 metre ileriye regulaj tahtası konulur.",
+      "dogrulanan_bilgi": [
+        "20 metre ileriye"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "RPG-2'nin menzili Çin ve Rus yapımında ne kadar?",
+      "answer": "RPG-2'nin mesafesi Çin yapımında 200 metre, Rus yapımında 150 metredir.",
+      "sayfa": 85,
+      "pdf_page_index": 85,
+      "kaynak_alinti": "Mesafesi: Çin yapımı: 200 m, Rus yapımı: 150 m",
+      "dogrulanan_bilgi": [
+        "Çin yapımı: 200 m",
+        "Rus yapımı: 150 m"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "karsilastirma",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "NPA takarken bir burun deliğinde takıldı, ne yapayım?",
+      "answer": "Bir tarafta ilerlemiyorsa NPA’yı çıkarıp diğer burun pasajından denemelisin.",
+      "sayfa": 10,
+      "pdf_page_index": 16,
+      "kaynak_alinti": "Burun pasajının bir tarafına takılamıyorsa çıkarın ve diğer tarafı deneyin.",
+      "dogrulanan_bilgi": [
+        "çıkarın",
+        "diğer tarafı deneyin"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "NPA’yı buruna hangi açıyla ve neye kadar ilerletmeliyim?",
+      "answer": "NPA’yı burun içine yüze 90 derecelik açıyla yerleştirip, yakaları burun deliklerine dayananaa kadar ilerletmelisin. Başın üst kısmına doğru yukarı itmemelisin.",
+      "sayfa": 10,
+      "pdf_page_index": 16,
+      "kaynak_alinti": "NPA’yı yüze 90 derecelik bir açıyla burun içine yerleştirin. Başın üst kısmına doğru yukarı doğru ilerlemekten kaçının. NPA’nın yakaları burun deliklerine dayanana kadar ilerletin.",
+      "dogrulanan_bilgi": [
+        "90 derecelik bir açıyla",
+        "NPA’nın yakaları burun deliklerine dayanana kadar"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Kriko yapacaksam boynu nasıl pozisyonlayayım, ne zaman hiperekstansiyon vermeyeyim?",
+      "answer": "Servikal yaralanma yoksa boynu hiperekstansiyona getirirsin; yaralıyı sırtüstü yatırıp boynunun altına ya da kürek kemikleri arasına sarılı battaniye veya panço koyarak hava yolunu düz pozisyona alırsın. Ama servikal yaralanma varsa boynu hiperekstansiyona getirmezsin.",
+      "sayfa": 12,
+      "pdf_page_index": 18,
+      "kaynak_alinti": "Yaralının boynunu hiperekstansiyona getirin.\nYaralıyı sırtüstü pozisyonda yatırın.\nYaralının boynunun altına veya kürek kemikleri arasına sarılı bir battaniye veya panço yerleştirin, böylece hava yolu düz pozisyonu alacaktır.\nUyarı: Servikal yaralanma varsa yaralının boynunu hiperekstansiyona getirmeyin.",
+      "dogrulanan_bilgi": [
+        "hiperekstansiyona getirin",
+        "sırtüstü pozisyonda",
+        "Servikal yaralanma varsa"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

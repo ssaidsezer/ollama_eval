@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "2500 metrede atış yaptım, ilk mermi 150 metre sola düştü. Sağ-sol T.M’yi kaça getirmeliyim?",
+      "answer": "2500 metrede 150 metrelik sapma için mil hesabı 150 / 2,5 = 60 milyem, yani 0.60 T.M eder. Hata solda olduğu için mevcut 30.00 T.M’ye 0.60 eklenir ve sağ-sol T.M 30.60’a getirilir.",
+      "sayfa": 179,
+      "pdf_page_index": 179,
+      "kaynak_alinti": "Sapma Milyemi: hata / mesafe (km) = 150 / 2,5 = 60 milyem = 0.60 T.M\nHata solda olduğu için; 30.00 + 0.60 = 30.60 T.M değerine getirilir.",
+      "dogrulanan_bilgi": [
+        "150 / 2,5 = 60 milyem",
+        "0.60 T.M",
+        "30.60 T.M"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Hedef benden daha aşağıdaysa, yükseklik farkından çıkan T.M’yi atış cetveline ekler miyim çıkarır mıyım?",
+      "answer": "Hedef alçaktaysa, yükseklik farkından bulduğun T.M’yi atış cetvelindeki T.M’den çıkarman gerekir.",
+      "sayfa": 12,
+      "pdf_page_index": 180,
+      "kaynak_alinti": "Eğer hedef alçaktaysa atış cetvelindeki T.M’den çıkarılır.",
+      "dogrulanan_bilgi": [
+        "hedef alçaktaysa",
+        "atış cetvelindeki T.M’den çıkarılır"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": "Etikette SAYFA 12 yazıyor, ancak sayfa altındaki basılı numara 180 görünüyor. Etiketteki SAYFA esas alındı."
+    },
+    {
+      "question": "AGS-17 ile dürbün kullanarak en fazla kaç metreye kadar atış yapabilirim, tam milyem ve dereceyle bu sınır kaç metre oluyor?",
+      "answer": "Dürbünle atış sınırı 700 metredir. Tam milyem ve derece açıları kullanılırsa bu silahla 1730 metreye kadar atış yapılabilir.",
+      "sayfa": 180,
+      "pdf_page_index": 181,
+      "kaynak_alinti": "Dürbün ile 700 m'ye kadar atış yapılabilir.\nTam.Milyem ve derece zaviyeleri ile 1730 m'ye kadar atış yapılır.",
+      "dogrulanan_bilgi": [
+        "700 m",
+        "1730 m",
+        "Tam.Milyem ve derece zaviyeleri"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "karsilastirma",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

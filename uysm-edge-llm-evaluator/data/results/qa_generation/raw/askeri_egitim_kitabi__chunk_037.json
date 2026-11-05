@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Kabloyu avometreyle ölçeceğim; önce hangi kademeden başlamalıyım, sonuç çıkmazsa ne yaparım?",
+      "answer": "Kabloyu önce 200 Ω kademesinde ölçersin. Orada değer vermezse 2000 Ω kademesine geçersin. Yine sonuç yoksa kablo kopuk ya da yüksek dirençlidir, kullanılmaz.",
+      "sayfa": 113,
+      "pdf_page_index": 113,
+      "kaynak_alinti": "Kablolar önce 200 Ω kademesinden ölçülür. Değer vermezse 2000 Ω kademesinden ölçülür. Yine değer vermezse kablo kopuktur yada yüksek dirençlidir. Kullanılmaz..",
+      "dogrulanan_bilgi": [
+        "200 Ω",
+        "2000 Ω",
+        "kablo kopuktur yada yüksek dirençlidir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Casio saatle zamanlayıcı kurdum; bataryayı bağladıktan sonra düğmeye basarsam ne olur?",
+      "answer": "Basmazsın. Batarya bağlandıktan sonra düğmelere basılırsa devre açılır.",
+      "sayfa": 113,
+      "pdf_page_index": 113,
+      "kaynak_alinti": "Batarya bağlantısı yapılır. Batarya bağlandıktan sonra asla düğmelere basılmaz. Basılırsa devre açılır.",
+      "dogrulanan_bilgi": [
+        "Batarya bağlandıktan sonra asla düğmelere basılmaz",
+        "Basılırsa devre açılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Icom V8’le kullanılan normal remotede araç yaklaşırken ve hedefin üstüne gelince tuşlara nasıl basılıyor?",
+      "answer": "Araç yaklaşınca patlatma numaralarının birincisine 10 saniye, ikincisine 5 saniye basıp beklersin. Araç mayının üstüne gelince son numaraya basarsın; bu sırada konuşma mandalını da basılı tutarsın.",
+      "sayfa": 114,
+      "pdf_page_index": 114,
+      "kaynak_alinti": "Araç yaklaşınca patlatma numaralarının birincisine 10 sn, ikincisine 5 sn basılır ve beklenir.\nAraç mayının üstüne gelince son numaraya basılır. Numaralara basılırken konuşma mandalına basılı tutulur.",
+      "dogrulanan_bilgi": [
+        "10 sn",
+        "5 sn",
+        "konuşma mandalına basılı tutulur"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

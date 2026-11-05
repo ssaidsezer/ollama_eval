@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "TCCC-MP eğitimini planlıyorum; öğrencilerle slayt eğitiminde hangi sırayı izlemeliyim?",
+      "answer": "Önce TCCC-MP yazılı ön testini yapmalısın. Ardından tüm slaytları öğrencilerle görüntüleyip incelemelisin. En sonda da TCCC-MP yazılı son testini uygulamalısın.",
+      "sayfa": 79,
+      "pdf_page_index": 85,
+      "kaynak_alinti": "•TCCC-MP yazılı ön testini yapın.\n\n•Tüm slaytları öğrencilerle görüntüleyin ve inceleyin.\n\n•TCCC-MP yazılı son testini yapın.",
+      "dogrulanan_bilgi": [
+        "yazılı ön testi",
+        "tüm slaytları öğrencilerle görüntüleyin ve inceleyin",
+        "yazılı son testi"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Dar bir alanda yaralıya bakım eğitimi vereceğim; travma hattı eğitimi böyle bir yerde kullanılabiliyor mu?",
+      "answer": "Evet, travma hattı eğitimi yaralılara bakım verirken karşılaşılacak kısıtlamaları canlandırmak için sınırlı alanlarda kullanılabiliyor. Örnek olarak ofis alanı, tekne, gemi ya da gövde gibi yerler belirtilmiş.",
+      "sayfa": 80,
+      "pdf_page_index": 86,
+      "kaynak_alinti": "Travma Hattı. TCCC Komitesi, TCCC için ek hat eğitimine izin verir. Yaralılara bakım vermek için gerçekçi kısıtlamalar (örneğin, zor tahliye) sunabilecek sınırlı bir alan (örneğin, bir ofis alanı, tekne, gemi veya gövde) kullanılabilir.",
+      "dogrulanan_bilgi": [
+        "ek hat eğitimine izin verir",
+        "sınırlı bir alan",
+        "bir ofis alanı, tekne, gemi veya gövde"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "TCCC-MP beceri setinde dolaşım başlığında hangi damar yolu ve ilaç uygulamaları bekleniyor?",
+      "answer": "Dolaşım bölümünde şok değerlendirmesi yanında IV giriş veya salin kilidi başlatma, IO erişimi başlatma, IV/IO sıvı resüsitasyonu, IV/IO analjezik kullanımı, IV/IO TXA kullanımı, IV/IO antibiyotik kullanımı ve uygun personel için IV/IO kan ürünleri kullanımı gösterilmesi bekleniyor.",
+      "sayfa": 81,
+      "pdf_page_index": 87,
+      "kaynak_alinti": "•Dolaşım:\n○Şok değerlendirmek.\n○İntravenöz (IV) giriş / salin kilidini başlatmak.\n○İntraosseoz (IO) erişimi başlatmak.\n○IV/IO sıvı resüsitasyonunu göstermek.\n○IV / IO analjeziklerin kullanımını göstermek.\n○IV / IO traneksamik asit (TXA) kullanımını göstermek.\n○IV/IO antibiyotiklerin kullanımını göstermek.\n○IV / IO kan ürünleri kullanımını göstermek (Tıbbi memurlar ve Özel Operasyon Servisi sağlık personelleri).",
+      "dogrulanan_bilgi": [
+        "İntravenöz (IV) giriş / salin kilidini başlatmak",
+        "İntraosseoz (IO) erişimi başlatmak",
+        "IV / IO traneksamik asit (TXA) kullanımını göstermek"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

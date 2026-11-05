@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Pusulada 70° istikametim var, geri dönüş yönünü hızlıca nasıl bulurum?",
+      "answer": "70° değeri 180°'den küçük olduğu için ters açıyı 180 ekleyerek bulursun. Yani geri dönüş yönün 250° olur.",
+      "sayfa": 134,
+      "pdf_page_index": 134,
+      "kaynak_alinti": "Derece 180° ‘den küçükse; Ters açı= Derece +180\nÖrn: 70° 'nin ters açısı kaçtır?\nTers açı = 70 + 180 = 250°",
+      "dogrulanan_bilgi": [
+        "180° ‘den küçükse",
+        "Derece +180",
+        "250°"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "GPS'i açtım, ne zaman güvenip yön bulmaya başlayayım?",
+      "answer": "Cihazda “Ready To Navigate Accuracy: X meters” yazısını görmen gerekir. X değeri küçüldükçe hata azalır; kullanıma başlamadan önce bu değerin 10 metreden küçük olmasını beklemelisin. 2D-3D konum gösteren cihazlarda ayrıca 3D yazması beklenir.",
+      "sayfa": 136,
+      "pdf_page_index": 136,
+      "kaynak_alinti": "Ready To Navigate Accuracy: X meters  (Yönlendirmeye hazır, X metre doğrulukla): Yazısı olduğu zaman kullanıma hazır. X rakamı ne kadar küçük olursa hata oranı düşer.\nX rakamı 10 metreden küçük oluncaya kadar beklenir. 2D-3D konumu olanlarda 3D yazması beklenir.",
+      "dogrulanan_bilgi": [
+        "Ready To Navigate Accuracy: X meters",
+        "10 metreden küçük",
+        "3D yazması beklenir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Kayıtlı bir noktaya gitmek istiyorum, GPS'te hangi sayfa beni hedefe yönlendirir?",
+      "answer": "Kayıtlı noktayı Find içinden seçip GO TO dediğinde Navigation yani Yönlendirme sayfasına geçersin. Bu sayfa hedefin yönünü gösterir, mesafe bilgisini verir ve ok işareti gidilmesi gereken yönü gösterir.",
+      "sayfa": 136,
+      "pdf_page_index": 136,
+      "kaynak_alinti": "3.Sayfa: Navigation (Yönlendirme )Sayfası\nFind dosyasından kayıtlı bir noktaya girilip; GO TO seçeneğini seçersek bu sayfaya gelir ve bize hedefin yönünü gösterir. Mesafesi vs bilgilerini verir. Ok işaretide gidilmesi gereken yöne bakar.",
+      "dogrulanan_bilgi": [
+        "GO TO",
+        "hedefin yönünü gösterir",
+        "Ok işaretide gidilmesi gereken yöne bakar"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

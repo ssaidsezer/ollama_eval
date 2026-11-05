@@ -1,0 +1,2 @@
+variant,model,collection,status,total_questions,attempted_questions,successful_questions,inference_errors,evaluation_errors,rows,duration_seconds,output_csv,error
+classic_bm25,gemma4:26b-a4b,documents_embeddinggemma_300m_1000c_200ov,ok,150,150,150,0,0,150,930.02,checkpoints/gemma4_26b-a4b__classic_bm25.csv,

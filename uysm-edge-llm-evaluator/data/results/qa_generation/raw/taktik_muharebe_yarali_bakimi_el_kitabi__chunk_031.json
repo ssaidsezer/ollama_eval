@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "Penetran kafa travması olan yaralıda hangi antibiyotiği ne dozda vermeliyim?",
+      "answer": "Penetran kafa travmasında ertapenem uygulanır ve doz 1 gramdır.",
+      "sayfa": 91,
+      "pdf_page_index": 97,
+      "kaynak_alinti": "Penetran kafa travması için antibiyotik uygulayın (ertapenam, 1 gr).",
+      "dogrulanan_bilgi": [
+        "ertapenam",
+        "1 gr"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Yaklaşan herniasyon düşündüğüm yaralıda hipertonik sıvıyı nasıl vermeliyim?",
+      "answer": "IV veya IO yoldan %3 ya da %5 hipertonik sıvıyı 250 ml bolus olarak vermelisin.",
+      "sayfa": 91,
+      "pdf_page_index": 97,
+      "kaynak_alinti": "IV veya IO ile% 3 veya% 5 hipertonik sıvı bolus 250 ml uygulayın.",
+      "dogrulanan_bilgi": [
+        "IV veya IO",
+        "% 3 veya % 5",
+        "250 ml"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Kafa içi basınç artışı düşündüğüm yaralının başını ne kadar kaldırayım, ventilasyonu kaçta tutayım?",
+      "answer": "Başını 30 derece yükseltmelisin. Ayrıca yaralıyı hiperventile edip torba-valf maske ile ventilasyon oranını 14 ila 20 arasında tutmalısın.",
+      "sayfa": 91,
+      "pdf_page_index": 97,
+      "kaynak_alinti": "Yaralının başını 30 derece yükseltin.\n\nYaralıyı hiperventile edin (ventilasyon oranı torba-valf maskesi 14 ila 20).",
+      "dogrulanan_bilgi": [
+        "30 derece",
+        "14 ila 20"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

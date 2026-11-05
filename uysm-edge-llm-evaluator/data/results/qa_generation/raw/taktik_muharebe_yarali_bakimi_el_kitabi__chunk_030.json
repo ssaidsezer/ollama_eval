@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Patlama sonrası nabzı da solunumu da olmayan yaralıya savaş alanında CPR başlayayım mı?",
+      "answer": "Hayır. Muharebe alanında patlama ya da penetran travma sonrası nabız, solunum ve başka yaşam belirtisi yoksa resüsitasyon yapılmamalı.",
+      "sayfa": 88,
+      "pdf_page_index": 94,
+      "kaynak_alinti": "Muharebe alanında patlama veya penetran travma nedeniyle nabız ve solunumu ve başka yaşam belirtisi olmayan yaralılara resüsitasyon yapılmamalıdır.",
+      "dogrulanan_bilgi": [
+        "patlama veya penetran travma",
+        "nabız ve solunumu ve başka yaşam belirtisi olmayan",
+        "resüsitasyon yapılmamalıdır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Yanık alanını hızlı hesaplayacağım; bir yetişkinde her bacak toplam yüzde kaç sayılıyor?",
+      "answer": "Dokuzlar Kuralı'na göre bir yetişkinde her bacak toplam %18 kabul edilir; bunun %9'u ön, %9'u arkadır.",
+      "sayfa": 89,
+      "pdf_page_index": 95,
+      "kaynak_alinti": "Her bacak = 18% toplam (ön = 9%, arka = 9%)",
+      "dogrulanan_bilgi": [
+        "18%",
+        "ön = 9%",
+        "arka = 9%"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Yanık hastasında Hextend kullanıyorsam en fazla ne kadar verebilirim?",
+      "answer": "Hextend kullanılıyorsa 1000 ml'den fazla verilmemeli. Sıvı desteği sürecekse Laktatlı Ringer veya SF ile devam edilmeli.",
+      "sayfa": 89,
+      "pdf_page_index": 95,
+      "kaynak_alinti": "Hextend solüsyonu kullanılıyorsa 1000 ml den fazla kullanmayın. Sıvı desteğine devam etmek gerekiyorsa Laktatlı Ringer veya SF kullanın.",
+      "dogrulanan_bilgi": [
+        "1000 ml den fazla kullanmayın",
+        "Laktatlı Ringer veya SF kullanın"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

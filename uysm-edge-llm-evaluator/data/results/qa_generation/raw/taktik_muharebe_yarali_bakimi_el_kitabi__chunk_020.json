@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "Dar bir alanda yaralıyı çıkaracağım; hem yaralıyı koruyup hem de taşıyanların ellerini boş bırakan hangi sedye sistemi var?",
+      "answer": "Bu durumda Sked temel kurtarma sistemi uygun. Dar alan, yüksek açı ve teknik kurtarmada kullanılabiliyor; yaralıyı korurken taşıyıcıların silah ve güvenlik için ellerini serbest bırakmasına da imkan veriyor.",
+      "sayfa": 58,
+      "pdf_page_index": 64,
+      "kaynak_alinti": "Dar alan, yüksek açı veya teknik kurtarma için kullanılır ve sedye, taşıyıcıların silah ve güvenlik için ellerini serbest bırakmasına izin verirken, yaralıyı korumaya da sağlar.",
+      "dogrulanan_bilgi": [
+        "Dar alan, yüksek açı veya teknik kurtarma",
+        "ellerini serbest bırakmasına izin verir",
+        "yaralıyı korumaya da sağlar"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Helikopterle dikey kaldırma yapacaksam ya da kapalı alanda yatay kaldırma gerekiyorsa Sked buna uygun mu?",
+      "answer": "Evet, Sked bu işler için tasarlanmış. Helikopterde veya mağarada dikey kaldırmada, ayrıca endüstriyel kapalı alanlarda yatay kaldırmada kullanılabiliyor.",
+      "sayfa": 58,
+      "pdf_page_index": 64,
+      "kaynak_alinti": "Sked, helikopter ya da mağaralarda dikey kaldırma veya endüstriyel kapalı alanlarda yatay kaldırma için donatılmıştır.",
+      "dogrulanan_bilgi": [
+        "helikopter ya da mağaralarda dikey kaldırma",
+        "endüstriyel kapalı alanlarda yatay kaldırma"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "M9 tıbbi yardım çantasını sahada sabit takıp da kullanabilir miyim, yoksa sadece sökülünce mi kullanılıyor?",
+      "answer": "İkisi de mümkün. M9 çanta monte edilmiş halde de, sökülmüş halde de kullanılabiliyor.",
+      "sayfa": 60,
+      "pdf_page_index": 66,
+      "kaynak_alinti": "Bu çanta monte edilerek veya sökülmüş olarak kullanılabilir.",
+      "dogrulanan_bilgi": [
+        "monte edilerek",
+        "sökülmüş olarak kullanılabilir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

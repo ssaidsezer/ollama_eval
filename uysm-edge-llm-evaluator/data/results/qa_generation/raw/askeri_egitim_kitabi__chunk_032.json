@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Mekanizmayı çekiyorum ama kızak hiç hareket etmiyor, ilk neye bakayım?",
+      "answer": "Önce hareketli aksamın çevresinde toz ya da barut lekesi olup olmadığına bak. Bu durumda çözüm, hareketli aksamı temizlemek.",
+      "sayfa": 99,
+      "pdf_page_index": 99,
+      "kaynak_alinti": "Aksam çekildiğinde kızak hareket etmiyor: Hareketli aksamın çevresinde toz veya barut lekesi vardır. Hareketli aksam temizlenir.",
+      "dogrulanan_bilgi": [
+        "toz veya barut lekesi vardır",
+        "Hareketli aksam temizlenir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "İğne kapsüle vuruyor ama mermi çıkmıyor, ne yapmam lazım?",
+      "answer": "Bu durumda mermi bozuk olabilir ya da iğne aşınmış veya kırılmış olabilir. Çözüm olarak yeni bir mermi atılır ya da iğne değiştirilir.",
+      "sayfa": 99,
+      "pdf_page_index": 99,
+      "kaynak_alinti": "İğne kapsüle vurduğu halde mermi çıkmıyor: Mermi bozuk, iğne aşınmış veya kırılmıştır. Yeni bir mermi atılır yada iğne değiştirilir.",
+      "dogrulanan_bilgi": [
+        "Mermi bozuk",
+        "iğne aşınmış veya kırılmıştır",
+        "Yeni bir mermi atılır yada iğne değiştirilir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Gece atışında jet gibi hızlı hedefe bakıyorum; hangi şebekeyi kullanırım?",
+      "answer": "Jet ve benzeri 278 m/sn yani yaklaşık 1000 km/saat ve daha düşük hızdaki hedefler için 3. şebeke kullanılır. Bu şebekede dış halka 278 m/sn, iç halka 140 m/sn, merkez ise 0 kabul edilir.",
+      "sayfa": 100,
+      "pdf_page_index": 100,
+      "kaynak_alinti": "3.şebeke\n2 daire vardır. 278 yazılıdır. 278 m/sn (1000 km/saat) ve daha altı hızlarla giden hedefler için kullanılır. (Jet)\n2.halka (Dış halka): 278 m/sn, 1.halka (İç halka): 140 m/sn, Merkez: 0",
+      "dogrulanan_bilgi": [
+        "3.şebeke",
+        "278 m/sn (1000 km/saat)",
+        "2.halka (Dış halka): 278 m/sn, 1.halka (İç halka): 140 m/sn, Merkez: 0"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

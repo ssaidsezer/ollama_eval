@@ -1,0 +1,34 @@
+{
+  "sorular": [
+    {
+      "question": "Yaralıyı devrederken MIST raporu tam olarak ne işe yarıyor?",
+      "answer": "MIST raporu, yaralıyı bir sonraki bakım ya da tahliye ekibine bilgilendirme ve hasta devir raporu vermek için kullanılır.",
+      "sayfa": 95,
+      "pdf_page_index": 101,
+      "kaynak_alinti": "MIST Raporu, bir sonraki bakım veya tahliye platformu görevlisi rolü için “bilgilendirme” veya hasta devir raporudur.",
+      "dogrulanan_bilgi": [
+        "bir sonraki bakım veya tahliye platformu görevlisi",
+        "bilgilendirme",
+        "hasta devir raporu"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "TCCC kartındaki verilerle performans takibi yapacaksak neye dikkat etmeliyiz?",
+      "answer": "Değişiklikler metriklerle yapılır; bu metrikler verilerden oluşturulur ve verilerin mutlaka belgelendirilmesi gerekir.",
+      "sayfa": 95,
+      "pdf_page_index": 101,
+      "kaynak_alinti": "Değişiklikler metriklerle gerçekleşir. Metrikler verilerden oluşturulur. Veriler belgelendirilmelidir.",
+      "dogrulanan_bilgi": [
+        "Değişiklikler metriklerle gerçekleşir",
+        "Metrikler verilerden oluşturulur",
+        "Veriler belgelendirilmelidir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

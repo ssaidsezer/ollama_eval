@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "Tabancam iki mermi birden almaya çalışıyor, en olası sorun ne ve ne yapayım?",
+      "answer": "Bu durumda en olası neden şarjör ağzının genişlemiş olmasıdır. Çözüm olarak şarjörü değiştirmelisin.",
+      "sayfa": 11,
+      "pdf_page_index": 11,
+      "kaynak_alinti": "İki mermi almaya çalışıyor. Şarjör ağzı genişlemiştir. Değiştirilir.",
+      "dogrulanan_bilgi": [
+        "İki mermi almaya çalışıyor",
+        "Şarjör ağzı genişlemiştir",
+        "Değiştirilir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Kovan dışarı çıkmıyor, patlama odasına yapıştıysa nasıl çıkaracağım?",
+      "answer": "Eğer kovan patlama odasına yapıştıysa, kovanı silah temizleme çubuğuyla çıkarmalısın.",
+      "sayfa": 11,
+      "pdf_page_index": 11,
+      "kaynak_alinti": "Kovanı atmıyor. Kovan, patlama odasına yapışmıştır. Kovan silh çubuğuyla çıkartılır.",
+      "dogrulanan_bilgi": [
+        "Kovan, patlama odasına yapışmıştır",
+        "Kovan silh çubuğuyla çıkartılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Elimde Zigana T var, 100 metrede etkili menzilde sayılır mı?",
+      "answer": "Evet. Zigana T'nin etkili menzili 100 metredir, yani 100 metrede etkili menzil sınırı içindedir.",
+      "sayfa": 12,
+      "pdf_page_index": 12,
+      "kaynak_alinti": "Zigana T 9 x 19 mm 100 m",
+      "dogrulanan_bilgi": [
+        "Zigana T",
+        "100 m"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "HK33'te mekanizma şarjörden mermi almadan ileri gidiyorsa ilk neye bakıp ne yapayım?",
+      "answer": "Önce şarjörün düzgün takılıp takılmadığını kontrol et. Düzgün oturmamışsa yerine iyice oturt. Şarjör gevşekse şarjör çıkarma mandalını kontrol et; uygun değilse silahı tamire gönder.",
+      "sayfa": 38,
+      "pdf_page_index": 38,
+      "kaynak_alinti": "Mekanizma şarjörden mermi almadan ileri gidiyor. Şarjör düzgün şekilde takılmamış. Yerine iyice oturtulur. Şarjör gevşek. Şarjör çıkarma mandalı kontrol edilir, uygun değil ise tamire yollanır.",
+      "dogrulanan_bilgi": [
+        "Şarjör düzgün şekilde takılmamış",
+        "Yerine iyice oturtulur",
+        "Şarjör çıkarma mandalı kontrol edilir, uygun değil ise tamire yollanır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "HK33 E'nin tesirli menzili ve mermi çıkış hızı ne kadar?",
+      "answer": "HK 33 E için tesirli menzil 800 metre, mermi çıkış hızı ise 885 m/sn.",
+      "sayfa": 39,
+      "pdf_page_index": 39,
+      "kaynak_alinti": "Tesirli menzili 800 m\nMermi çıkış hızı 885 m/sn",
+      "dogrulanan_bilgi": [
+        "800 m",
+        "885 m/sn"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "HK33'ü sökmeye başlarken güvenli şekilde ilk adımlar ne?",
+      "answer": "Söküme başlarken önce silahı emniyete al. Sonra şarjörü çıkar. Ardından kurma kolunu geriye çekip namluda sürülü mermi olup olmadığını kontrol et ve kurma kolunu ileri doğru serbest bırak.",
+      "sayfa": 40,
+      "pdf_page_index": 40,
+      "kaynak_alinti": "Silah emniyete alınır.\nŞarjör çıkartılır.\nKurma kolu geriye çekilerek namluda sürülü mermi olup olmadığı kontrol edilir ve kurma kolu ileri doğru serbest bırakılır.",
+      "dogrulanan_bilgi": [
+        "Silah emniyete alınır",
+        "Şarjör çıkartılır",
+        "namluda sürülü mermi olup olmadığı kontrol edilir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

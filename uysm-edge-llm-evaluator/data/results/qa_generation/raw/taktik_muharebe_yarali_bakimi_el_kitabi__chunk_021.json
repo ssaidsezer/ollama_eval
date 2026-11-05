@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "M9 tıbbi yardım çantasında turnike kaç tane var?",
+      "answer": "M9 tıbbi yardım çantasında 6 adet antipnömotik turnike bulunur.",
+      "sayfa": 62,
+      "pdf_page_index": 68,
+      "kaynak_alinti": "6515-01-5217976 Antipnömotik Turnike 6",
+      "dogrulanan_bilgi": [
+        "Antipnömotik Turnike",
+        "6"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Göğüs yaralanması için M9 çantada göğüs kapaması arıyorsam kaç tane çıkar?",
+      "answer": "Bu çantada 4 adet göğüs kapaması vardır.",
+      "sayfa": 62,
+      "pdf_page_index": 68,
+      "kaynak_alinti": "6510-01-573-0300 Göğüs Kapaması 4",
+      "dogrulanan_bilgi": [
+        "Göğüs Kapaması",
+        "4"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Ateş altındayken yaralı bilinçliyse ilk ne yapmasını söylemeliyim?",
+      "answer": "Yaralı bilinçliyse ona ateşi bastırıp kendini koruyacak şekilde müdahale etmesini söylemelisin.",
+      "sayfa": 1,
+      "pdf_page_index": 69,
+      "kaynak_alinti": "Yaralıyı konu, ateşi bastır ve kendi kendisine müdahale etmesi için yönlendir",
+      "dogrulanan_bilgi": [
+        "ateşi bastır",
+        "kendi kendisine müdahale etmesi için yönlendir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": "Etikette SAYFA 1 yazıyor, ancak sayfa üzerinde basılı numara 63 görünüyor; etiket esas alındı."
+    }
+  ]
+}

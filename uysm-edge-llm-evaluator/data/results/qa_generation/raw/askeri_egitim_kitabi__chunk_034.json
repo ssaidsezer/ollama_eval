@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "Namluyu taktıktan sonra mekanizma geri gelmiyorsa ne yapmalıyım?",
+      "answer": "Namlu en sona kadar çevrildiyse mekanizma geri gelmeyebilir. Bu durumda namluyu iki ya da üç çıt gevşetip mekanizmanın hareket edip etmediğini kontrol etmelisin.",
+      "sayfa": 105,
+      "pdf_page_index": 105,
+      "kaynak_alinti": "Namlu en sonuna kadar çevrilir. Bu durumda mekanizma geriye gelmez. Namlu iki yada üç çıt gevşetilir ve mekanizmanın hareket edip etmediği kontrol edilir.",
+      "dogrulanan_bilgi": [
+        "iki yada üç çıt gevşetilir",
+        "mekanizmanın hareket edip etmediği kontrol edilir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Telsizle konuşurken mikrofonu ağzıma ne kadar yakın tutayım?",
+      "answer": "En iyi ses için telsizi ağzından 5–10 cm uzakta tutmalısın.",
+      "sayfa": 106,
+      "pdf_page_index": 106,
+      "kaynak_alinti": "En kaliteli sesi ağızdan 5–10 cm uzakta tutulduğunda verir.",
+      "dogrulanan_bilgi": [
+        "5–10 cm",
+        "En kaliteli sesi"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Uzun süre kullanmayacaksam telsizin bataryasını üstünde bırakayım mı?",
+      "answer": "Hayır. Telsiz kapalı olsa bile içinde zayıf bir elektrik akımı dolaşır; bu yüzden uzun süre kullanılmayacaksa batarya kutusunu telsizden ayırmalısın, yoksa pil biter.",
+      "sayfa": 106,
+      "pdf_page_index": 106,
+      "kaynak_alinti": "Telsiz kapalıyken telsizde zayıf bir elektrik akımı dolaşacaktır. Bu sebeple uzun süre kullanılmayacağı zaman batarya kutusunu telsizden ayırın. Aksi takdirde pili bitecektir.",
+      "dogrulanan_bilgi": [
+        "zayıf bir elektrik akımı dolaşacaktır",
+        "batarya kutusunu telsizden ayırın",
+        "pili bitecektir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

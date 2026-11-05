@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "100 metrede atışlar sağa düşüyorsa arpacığı hangi yöne kaydırayım?",
+      "answer": "Atış hatası sağdaysa arpacığı sağa kaydırmalısın. Bu düzeltme arpacıktan oynama yapıldığında hata yönüne doğru yapılır.",
+      "sayfa": 59,
+      "pdf_page_index": 59,
+      "kaynak_alinti": "Hata sağdaysa arpacık sağa, hata soldaysa arpacık sola kaydırılır. Hata yukarıdaysa arpacık yukarıya, hata aşağıdaysa arpacık aşağıya döndürülerek çekilir. Düzeltmeler hata yönünde olur. Bu bilgi arpacıktan oynama yapılırsa geçerlidir.",
+      "dogrulanan_bilgi": [
+        "Hata sağdaysa arpacık sağa",
+        "Düzeltmeler hata yönünde olur"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "RPD ile 600 metreye etkili ateş bekler miyim, yoksa sınırı ne?",
+      "answer": "Etkili menzil 500 metredir. 600 metre bunun üstünde kalır; ayrıca tesirli menzil 1000 metre olarak verilmiştir.",
+      "sayfa": 60,
+      "pdf_page_index": 60,
+      "kaynak_alinti": "Etkili Menzil: 500 m\n• Tesirli Menzili: 1000 m",
+      "dogrulanan_bilgi": [
+        "500 m",
+        "1000 m"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "karsilastirma",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "RPD’yi sökerken dipçiği ayırma pimini hangi yönde çıkarıyorum?",
+      "answer": "Dipçikle bedeni ayırma pimini şiş yardımıyla soldan sağa doğru çıkarmalısın.",
+      "sayfa": 61,
+      "pdf_page_index": 61,
+      "kaynak_alinti": "Dipçikle bedeni ayırma pimi, şiş yardımıyla soldan sağa doğru çıkarılır.",
+      "dogrulanan_bilgi": [
+        "şiş yardımıyla",
+        "soldan sağa doğru"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

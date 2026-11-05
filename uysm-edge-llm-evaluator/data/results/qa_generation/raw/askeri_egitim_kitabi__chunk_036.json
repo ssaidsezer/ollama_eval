@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Telsiz dondu gibi, reset atmam gerekirse nasıl yaparım ve sonra ne olur?",
+      "answer": "Telsizi kapalı durumda tutup PK ile D.CLR tuşlarına basılıyken açman gerekir. Bu işlemden sonra telsiz fabrika ayarlarına döner ve hafıza sıfırlanır.",
+      "sayfa": 110,
+      "pdf_page_index": 110,
+      "kaynak_alinti": "Resetleme İşlemi\nTelsiz kapatılır ve kapalı iken;\nPK + D.CLR tuşlarına basılı tutulurken telsiz açılır.\n\nNot: Resetlemeden sonra telsiz fabrika ayarlarına dönecektir. (Hafıza sıfırlanır)",
+      "dogrulanan_bilgi": [
+        "PK + D.CLR",
+        "fabrika ayarlarına dönecektir",
+        "Hafıza sıfırlanır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Bir fünyeyi 200 ohm dirençli kabloyla patlatacağım; gereken gerilim ne? 12 volt yeter mi?",
+      "answer": "Bu durumda gereken gerilim 100 volttur, çünkü 0,5 amperlik fünyede 0,5 x 200 = 100 V gerekir. O yüzden 12 voltluk batarya yeterli olmaz; 10 A olsa bile bu fünyeyi patlatmaz.",
+      "sayfa": 112,
+      "pdf_page_index": 112,
+      "kaynak_alinti": "Akım şiddetinin fünyeye ulaşmasını sağlayan gerilimdir. Mesela aynı fünyeye direnci 200Ω olan bir kablo çekilmiş. Gerekli olan gerilim; 0,5 x 200=100V'tur. 12 voltluk batarya isterse 10A olsun, bu fünyeyi patlatmaz.",
+      "dogrulanan_bilgi": [
+        "200Ω",
+        "0,5 x 200=100V",
+        "12 voltluk batarya"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Üç fünyeyi paralel bağlayacaksam toplam ne kadar akım gerekir?",
+      "answer": "Üç fünyeyi paralel bağlarsan gerekli akım 1,5 A olur. Kaynağa göre bir fünye 0,5 A, iki fünye 1 A, üç fünye ise 1,5 A ister.",
+      "sayfa": 112,
+      "pdf_page_index": 112,
+      "kaynak_alinti": "Fünyeler paralel bağlanırsa akım dağılacağı için gerekli olan amper artar. Bir fünye 0,5A, iki fünye 1A, üç fünye 1,5A gerektirir.",
+      "dogrulanan_bilgi": [
+        "Bir fünye 0,5A",
+        "iki fünye 1A",
+        "üç fünye 1,5A"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

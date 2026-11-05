@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "Güneşe bakarak kuzeyi bulmam gerek, çubukla bunu nasıl yaparım?",
+      "answer": "Bu yöntem 8.30 ile 11.30 arasında uygulanır. Önce 1 metre boyunda bir çubuk dikilir ve gölgenin ucu işaretlenir. Yarım saat sonra gölge ucunun yeni yeri ikinci kez işaretlenir. Sonra sağ ayağını ikinci işarete, sol ayağını birinci işarete koyarsın; baktığın yön kuzeyi gösterir.",
+      "sayfa": 131,
+      "pdf_page_index": 131,
+      "kaynak_alinti": "Güneş ile kuzeyin bulunması: Bu işlem saat 8.30 – 11.30 arası yapılabilir.\n1.Bir metre boyunda bir çubuk dikilir. Gölgenin ucu işaretlenir.\n2.Yarım saat sonra gölge ucu kayar. İkinci bir işaret konulur.\n3.Sağ ayak ikinci işarete sol ayak birinci işarete konulur. Baktığımız yön kuzeyi gösterir.",
+      "dogrulanan_bilgi": [
+        "8.30 – 11.30 arası",
+        "Bir metre boyunda bir çubuk",
+        "Yarım saat sonra"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Arazide pusula iğnesi tam olarak neyi gösteriyor?",
+      "answer": "Pusula iğnesinin sivri ucu manyetik kuzeyi gösterir.",
+      "sayfa": 132,
+      "pdf_page_index": 132,
+      "kaynak_alinti": "Manyetik Kuzey: Pusula ibresinin sivri ucunun gösterdiği yöndür.",
+      "dogrulanan_bilgi": [
+        "Manyetik Kuzey",
+        "Pusula ibresinin sivri ucu"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Pusulayı kullanırken metal eşyaların yanında tutsam sorun olur mu?",
+      "answer": "Evet, olur. Pusulanın doğru çalışması için metallerden uzak tutulması gerekir; yoksa manyetik çalışan pusula bu metallerin etkisinde kalır.",
+      "sayfa": 133,
+      "pdf_page_index": 133,
+      "kaynak_alinti": "Pusulanın sağlıklı çalışması için metallerden uzak tutulması gerekir. Aksi halde manyetik çalışan pusula bu metallerin etkisinde kalacaktır.",
+      "dogrulanan_bilgi": [
+        "metallerden uzak tutulması gerekir",
+        "metallerin etkisinde kalacaktır"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

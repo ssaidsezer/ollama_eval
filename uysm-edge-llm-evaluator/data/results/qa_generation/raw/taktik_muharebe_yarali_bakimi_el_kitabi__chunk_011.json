@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Sternal EZ-IO’yu hangi durumda kullanayım, normal damar yolu açamıyorsam iş görür mü?",
+      "answer": "Evet. Hızlı sıvı resüsitasyonu ya da acil ilaç tedavisi gerekiyorsa ve standart IV erişim kolayca sağlanamıyorsa, erişkinlerde sternal EZ-IO kullanılabilir.",
+      "sayfa": 32,
+      "pdf_page_index": 38,
+      "kaynak_alinti": "Sternal EZ-IO, hızlı sıvı resüsitasyonu veya farmakolojik tedavinin acil olarak gerekli olduğu, standart IV erişiminin kolayca erişilebilir olmadığı durumlarda erişkinlerde IO erişim elde etmek için kullanılır.",
+      "dogrulanan_bilgi": [
+        "hızlı sıvı resüsitasyonu veya farmakolojik tedavinin acil olarak gerekli olduğu",
+        "standart IV erişiminin kolayca erişilebilir olmadığı durumlarda",
+        "erişkinlerde IO erişim elde etmek için kullanılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Hastada manubrium kırığı varsa sternal IO deneyeyim mi?",
+      "answer": "Hayır, denememelisin. Manubrium kırığında sternal IO kontrendikedir; kırık kemiğe yerleştirilen sıvı kırık hattı boyunca çevre dokuya yayılabilir.",
+      "sayfa": 32,
+      "pdf_page_index": 38,
+      "kaynak_alinti": "Manubrium kırık ise, IO erişim denenmemelidir. Sıvılar en az direnç gösteren yolu izler. Bir IO cihazı kırılmış bir kemiğe yerleştirilirse sıvı, kırık hat boyunca çevre dokuya kolayca yayılır.\n\nKontrendike olan durumlar:\n\n•Manubrium kırıkları",
+      "dogrulanan_bilgi": [
+        "IO erişim denenmemelidir",
+        "Manubrium kırıkları",
+        "sıvı, kırık hat boyunca çevre dokuya kolayca yayılır"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Sternal giriş yerini tam nereden bulayım, temizliği nasıl yapayım?",
+      "answer": "Göğsü açıp alanı palpasyonla belirlemelisin. Sternal giriş yeri orta hatta, sternal çentiğin yaklaşık 1 ile 2 cm altında bulunur. Yeri belirledikten sonra alanı alkol veya batikon ile temizlemelisin.",
+      "sayfa": 33,
+      "pdf_page_index": 39,
+      "kaynak_alinti": "Göğsü açın ve yerleştirme alanını palpasyonla belirleyin. Sternal giriş yeri, sternal çentiğin yaklaşık 1 ile 2 cm altında orta hatta bulunur. Giriş bölgesi belirlendikten sonra alanı alkol veya batikon ile temizleyin.",
+      "dogrulanan_bilgi": [
+        "yaklaşık 1 ile 2 cm altında",
+        "orta hatta bulunur",
+        "alkol veya batikon ile temizleyin"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Röportaj çekerken güneş kamerayı ya da hedefi bozuyorsa neyi nasıl ayarlamalıyım?",
+      "answer": "Güneş görüntüyü etkiliyorsa kamerada EXPOSURE menüsüne girip MANUEL seçeneğini açmalı, sonra hedef üzerindeki ışık durumunu buna göre ayarlamalısın.",
+      "sayfa": 201,
+      "pdf_page_index": 201,
+      "kaynak_alinti": "Eğer güneş ışığı kameraya veya hedefe tesir ediyorsa, şunlar yapılmalıdır.\na) Menü (EXPOSURE)’ı seç\nb) Çıkan iki seçenekten MANUEL'i seç\nc)Bununla hedef üzerindeki ışık durumunu ayarla.",
+      "dogrulanan_bilgi": [
+        "EXPOSURE",
+        "MANUEL",
+        "hedef üzerindeki ışık durumu"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Yaralının nabzı var ama nefes almıyorsa ne sıklıkla nefes vermem gerekiyor?",
+      "answer": "Nabız varsa ama solunum yoksa her 5 saniyede bir nefes verilmelidir.",
+      "sayfa": 202,
+      "pdf_page_index": 202,
+      "kaynak_alinti": "Eğer nabız var solunum yoksa her 5 sn de bir nefes verilir.",
+      "dogrulanan_bilgi": [
+        "nabız var",
+        "solunum yok",
+        "her 5 sn de bir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Kalp masajı yaparken göğse ne kadar çöktürecek kadar bası uygulamalıyım?",
+      "answer": "Kalp masajında basıyı göğüs kafesi 3-5 cm çökecek şekilde uygulamalısın; ayrıca 5 cm'den fazla esnetmemelisin.",
+      "sayfa": 202,
+      "pdf_page_index": 202,
+      "kaynak_alinti": "Göğüs kafesi 3-5 cm çökecek şekilde basınç uygulanılır.\nUyarı: Basınç kesinlikle dik uygulanmalıdır. Sarf edilen güç kesinlikle göğüs kafesini 5cm den fazla esnetmemelidir.",
+      "dogrulanan_bilgi": [
+        "3-5 cm",
+        "5cm den fazla esnetmemelidir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

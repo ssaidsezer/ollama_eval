@@ -1,0 +1,82 @@
+{
+  "config": {
+    "run_label": "gemma4-26b-a4b_q4km_kv-q4_0_ctx32768_fa-on_prompt-cache-off_qa150",
+    "model": "gemma4:26b-a4b",
+    "base_url": "http://127.0.0.1:8084/v1",
+    "csv": "data/qa/final_qa_150.csv",
+    "eval_model": "gpt-5.4-mini",
+    "max_tokens": 512,
+    "temperature": 0.0,
+    "prompt_cache": "server-enabled; measured via cached_tokens",
+    "model_load_included": false,
+    "warmup_included": false
+  },
+  "counts": {
+    "total": 150,
+    "successful": 150,
+    "failed": 0
+  },
+  "inference": {
+    "wall_time_seconds": {
+      "mean": 3.89781902,
+      "median": 3.8641705,
+      "p50": 3.845823,
+      "p95": 6.090015,
+      "p99": 6.850732
+    },
+    "prompt_ms": {
+      "mean": 382.80162,
+      "median": 382.855,
+      "p50": 382.675,
+      "p95": 396.595,
+      "p99": 400.535
+    },
+    "generation_ms": {
+      "mean": 3334.8694266666666,
+      "median": 3259.038,
+      "p50": 3234.302,
+      "p95": 5560.907,
+      "p99": 6311.926
+    },
+    "prompt_tokens_per_second": {
+      "mean": 356.1092251768858,
+      "median": 361.63801347749563,
+      "p50": 361.4968126232529,
+      "p95": 377.97458120941366,
+      "p99": 391.28700393573746
+    },
+    "generation_tokens_per_second": {
+      "mean": 33.352079393934595,
+      "median": 33.4089413661617,
+      "p50": 33.408193538437764,
+      "p95": 33.738600246032256,
+      "p99": 34.38970412716908
+    },
+    "measured_wall_time_seconds_total": 584.672853
+  },
+  "cache": {
+    "cached_tokens_total": 0,
+    "prompt_tokens_total": 20437,
+    "cached_token_ratio": 0.0
+  },
+  "tokens": {
+    "completion_total": 16641
+  },
+  "evaluation": {
+    "successful": 150,
+    "failed": 0,
+    "skipped": 0,
+    "correctness_score_mean": 3.026666666666667,
+    "completeness_score_mean": 3.1333333333333333,
+    "answerable": {
+      "successful": 140,
+      "correctness_score_mean": 3.2285714285714286,
+      "completeness_score_mean": 3.35
+    },
+    "unanswerable": {
+      "successful": 10,
+      "grounded_refusal_accuracy": 0.0,
+      "hallucination_rate": 1.0
+    }
+  }
+}

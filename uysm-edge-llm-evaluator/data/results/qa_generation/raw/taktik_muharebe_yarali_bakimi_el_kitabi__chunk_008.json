@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "Göğüs tüpü takarken giriş yerini tam nereye seçmeliyim?",
+      "answer": "Giriş yerini, ön aksiller çizgide 4. ya da 5. interkostal boşluk üzerinden seçmelisin.",
+      "sayfa": 22,
+      "pdf_page_index": 28,
+      "kaynak_alinti": "Dördüncü veya beşinci interkostal boşluk üzerinde ön aksiller çizgide giriş yerini seçin.",
+      "dogrulanan_bilgi": [
+        "dördüncü veya beşinci interkostal boşluk",
+        "ön aksiller çizgi"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Göğüs tüpünü yerleştirirken ne kadar içeri ilerletmem gerekiyor?",
+      "answer": "Tüpü göğüs duvarının içinde 2.5 ile 5 cm kadar ilerletmelisin.",
+      "sayfa": 23,
+      "pdf_page_index": 29,
+      "kaynak_alinti": "Tüpü, göğüs duvarının içinde 2.5 ile 5 cm kadar ilerletin.",
+      "dogrulanan_bilgi": [
+        "2.5 ile 5 cm",
+        "göğüs duvarının içinde"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Şokta bir yaralıya FAST1 intraosseöz giriş açacağım; hedefleyici yamayı sternumda neye göre hizalamalıyım?",
+      "answer": "Önce sternal çentiği bulmalısın. Sonra hedefleyici yamadaki yerleştirme çentiğini sternal çentikle hizalayıp, dairesel hedef bölgesinin yaralının sternal çizgisi üzerinde olduğunu doğrulamalısın.",
+      "sayfa": 24,
+      "pdf_page_index": 30,
+      "kaynak_alinti": "Sternal çentiği belirleyin (ksifoid çıkıntı değil).\nHedefleyici yamadaki yerleştirme çentiğini sternal çentikle hizalayın.\nYamanın hedef bölgesinin (dairesel delik) yaralının sternal çizgisinin üzerinde olduğunu doğrulayın",
+      "dogrulanan_bilgi": [
+        "sternal çentik",
+        "yerleştirme çentiğini sternal çentikle hizalayın",
+        "hedef bölgesinin sternal çizgisinin üzerinde olduğunu doğrulayın"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

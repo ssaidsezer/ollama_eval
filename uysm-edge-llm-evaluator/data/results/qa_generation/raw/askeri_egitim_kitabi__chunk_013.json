@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "M16A4’e sahada ek parça takmam gerekirse neleri bağlayabiliyorum?",
+      "answer": "M16A4’e gerektiğinde lazer, gece görüş dürbünü, bombaatar ve aydınlatma aleti takılabiliyor. Bunun için silah üzerinde dört adet montaj yeri bulunuyor.",
+      "sayfa": 41,
+      "pdf_page_index": 41,
+      "kaynak_alinti": "Gerektiğinde lazer, gece görüş dürbünü, bombaatar ve aydınlatma aleti takılabilmesi için dört adet montaj yeri yapıldı.",
+      "dogrulanan_bilgi": [
+        "lazer, gece görüş dürbünü, bombaatar ve aydınlatma aleti",
+        "dört adet montaj yeri"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "M16’yı sökerken önce ne yapayım, üst gövdeyi nasıl ayırayım?",
+      "answer": "Önce şarjörü çıkarıp emniyet önlemini alman gerekir. Sonra el kundağı ile beden arasındaki halkayı aşağı bastırıp el kundağının sağ ve sol parçalarını çıkarırsın. Ardından sabitleme pimini silahtan çıkmayacak şekilde sağa doğru itip silahın üst kısmını yukarı kaldırarak ayırırsın.",
+      "sayfa": 42,
+      "pdf_page_index": 42,
+      "kaynak_alinti": "Şarjör çıkarılır. Emniyet önlemi alınır.\nEl kundağı ve beden arasındaki halka aşağı doğru bastırılır.\nEl kundağının sağ ve sol parçası çıkarılır.\nSabitleme pimi, silahtan çıkmayacak şekilde, sağa doğru şihle yada mermi ucuyla itilir.\nSilahın üst kısmı, yukarı doğru kaldırılır.",
+      "dogrulanan_bilgi": [
+        "Şarjör çıkarılır. Emniyet önlemi alınır.",
+        "Sabitleme pimi",
+        "Silahın üst kısmı, yukarı doğru kaldırılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "M4’ün 3’lü atış modu hâlâ var mı, yoksa kaldırıldı mı?",
+      "answer": "Başta M4’te 3’lü yarı otomatik atış sistemi vardı; ancak bunun kullanışsız olduğuna karar verildi ve bu sistem yeni versiyon olan M4A2 ile kaldırıldı.",
+      "sayfa": 43,
+      "pdf_page_index": 43,
+      "kaynak_alinti": "M4'ün sahip olduğu atış sistemleri ful otomatik, yarı otomatik ve 3'lü yarı otomatikti ve bir de emniyet moduna sahipti. Fakat 3'lü yarı otomatik sistemin kullanışsız olduğuna karar verildi ve 3'lü yarı otomatik sistemi, yeni bir versiyon olan M4A2 ile kaldırıldı.",
+      "dogrulanan_bilgi": [
+        "3'lü yarı otomatik",
+        "kullanışsız olduğuna karar verildi",
+        "M4A2 ile kaldırıldı"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

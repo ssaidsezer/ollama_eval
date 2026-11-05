@@ -1,0 +1,32 @@
+[2026-07-21T11:39:40] CSV: data/csv/rag_blind_test_120_gold.csv
+[2026-07-21T11:39:40] Fallback collection: rag_ablation
+[2026-07-21T11:39:40] Classic collection: documents_embeddinggemma_300m_1000c_200ov
+[2026-07-21T11:39:40] Smart collection: rag_ablation
+[2026-07-21T11:39:40] Models: gemma4:26b
+[2026-07-21T11:39:40] QA backend: llamacpp base_url=http://127.0.0.1:8084/v1
+[2026-07-21T11:39:40] Variants: classic_vector
+[2026-07-21T11:39:40] Ollama limits: timeout=300s num_predict=512
+[2026-07-21T11:39:40] Sampling: temperature=0.0 seed=42 embedding_timeout=300s resume=False
+[2026-07-21T11:39:40] Eval: disabled
+[2026-07-21T11:39:40] Output dir: data/results/kv_rag_classic_vector_20260721/gemma_q8_0
+[2026-07-21T11:39:40] START model=gemma4:26b variant=classic_vector collection=documents_embeddinggemma_300m_1000c_200ov
+[2026-07-21T11:39:40] ABORT model=gemma4:26b variant=classic_vector: Ollama health check failed after HTTPError: 503 Server Error: Service Unavailable for url: http://127.0.0.1:8084/v1/chat/completions
+[2026-07-21T11:39:40] DONE ok=0 errors=0 merged_rows=1
+[2026-07-21T11:39:40] Merged CSV: data/results/kv_rag_classic_vector_20260721/gemma_q8_0/merged_results.csv
+[2026-07-21T11:39:40] Manifest: data/results/kv_rag_classic_vector_20260721/gemma_q8_0/manifest.csv
+[2026-07-21T11:56:19] CSV: data/csv/rag_blind_test_120_gold.csv
+[2026-07-21T11:56:19] Fallback collection: rag_ablation
+[2026-07-21T11:56:19] Classic collection: documents_embeddinggemma_300m_1000c_200ov
+[2026-07-21T11:56:19] Smart collection: rag_ablation
+[2026-07-21T11:56:19] Models: gemma4:26b
+[2026-07-21T11:56:19] QA backend: llamacpp base_url=http://127.0.0.1:8084/v1
+[2026-07-21T11:56:19] Variants: classic_vector
+[2026-07-21T11:56:19] Ollama limits: timeout=300s num_predict=512
+[2026-07-21T11:56:19] Sampling: temperature=0.0 seed=42 embedding_timeout=300s resume=True
+[2026-07-21T11:56:19] Eval: disabled
+[2026-07-21T11:56:19] Output dir: data/results/kv_rag_classic_vector_20260721/gemma_q8_0
+[2026-07-21T11:56:19] START model=gemma4:26b variant=classic_vector collection=documents_embeddinggemma_300m_1000c_200ov
+[2026-07-21T12:04:30] OK model=gemma4:26b variant=classic_vector rows=120 duration=490.97s
+[2026-07-21T12:04:30] DONE ok=1 errors=0 merged_rows=120
+[2026-07-21T12:04:30] Merged CSV: data/results/kv_rag_classic_vector_20260721/gemma_q8_0/merged_results.csv
+[2026-07-21T12:04:30] Manifest: data/results/kv_rag_classic_vector_20260721/gemma_q8_0/manifest.csv

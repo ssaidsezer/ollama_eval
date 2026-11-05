@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Gece havan mevzisi seçerken nelere dikkat etmeliyim, neden yerim belli olabilir?",
+      "answer": "Gece atışlarında namludan çıkan ateş havanın yerini belli edebilir. Bu yüzden mevzi seçimini buna göre yapmak gerekir.",
+      "sayfa": 157,
+      "pdf_page_index": 157,
+      "kaynak_alinti": "Gece atışlarında namludan çıkan ateş havanın yerini belli eder. Bunun için uygun yer seçilmelidir.",
+      "dogrulanan_bilgi": [
+        "Gece atışlarında namludan çıkan ateş",
+        "havanın yerini belli eder",
+        "uygun yer seçilmelidir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "82'lik havanla attığım mühimmat patlayınca ne kadar alanda etki yapar?",
+      "answer": "82 mm havan mermisi patladıktan sonra yaklaşık 25 metre çevresine şaziye etkisi yapar.",
+      "sayfa": 157,
+      "pdf_page_index": 157,
+      "kaynak_alinti": "Merminin patlamasından sonra 25 m çevresine şaziye etkisi yapar.",
+      "dogrulanan_bilgi": [
+        "25 m",
+        "şaziye etkisi"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "60'lıkla 120'lik havanın doldurması aynı mı, mermi nasıl çalıştırılıyor?",
+      "answer": "Aynı değil. 60'lık ve 81-82'lik havanlarda mermi havana elle konur. 120, 160 ve 240 mm'lik havanlarda ise mermi ip veya alttan tetik sistemiyle çalışır.",
+      "sayfa": 156,
+      "pdf_page_index": 156,
+      "kaynak_alinti": "60’lık ve 81-82’lik havanlarda mermi havana el ile konulur ama 120, 160 ve 240 mm’lik havanlarda ise mermi ip veya alttan tetik vasıtasıyla çalışır.",
+      "dogrulanan_bilgi": [
+        "60’lık ve 81-82’lik havanlarda mermi havana el ile konulur",
+        "120, 160 ve 240 mm’lik havanlarda",
+        "ip veya alttan tetik"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "karsilastirma",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Hedefin yönü, kuş uçuşu mesafesi ve denizden yüksekliği bende var; GPS’te noktayı harita üstünden taşırken zoom’la oynayayım mı?",
+      "answer": "Hayır. Bu yöntemde haritaya girince yakınlaştırmayı değiştirmeden, cihazın verdiği orijinal zoom seviyesinde işlem yapmalısın.",
+      "sayfa": 137,
+      "pdf_page_index": 137,
+      "kaynak_alinti": "ZOOM’la oynanmaz. Orijinal verdiği yaklaştırma durumunda işlem yapılır.",
+      "dogrulanan_bilgi": [
+        "ZOOM’la oynanmaz",
+        "Orijinal verdiği yaklaştırma durumunda"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Kâğıt üstünde ölçeklendirme yapıyorum; kısa ve uzun mesafede hangi hassasiyet daha iyi olur?",
+      "answer": "Ölçek büyüdükçe hassasiyet artar. Ölçeklendirmede kısa mesafelerde 25 metre, uzun mesafelerde ise 100 metre kullanmak daha uygundur.",
+      "sayfa": 138,
+      "pdf_page_index": 138,
+      "kaynak_alinti": "Not: Ölçek büyüdükçe hassaslık artar. Ölçeklendirmede kısa mesafelerde 25 m, uzun mesafelerde 100 metre iyidir.",
+      "dogrulanan_bilgi": [
+        "kısa mesafelerde 25 m",
+        "uzun mesafelerde 100 metre",
+        "Ölçek büyüdükçe hassaslık artar"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "İkinci noktayı baz alıp hedefin deniz seviyesinden yüksekliğini çıkaracağım; yükseklik farkını hangi formülle hesaplarım?",
+      "answer": "Yükseklik farkını, bakış açısını mesafeyle çarpıp 57,35’e bölerek bulursun. Hedef alçaktaysa bu farkı ikinci noktanın yüksekliğinden çıkarırsın; yüksekteyse ikinci noktanın yüksekliğine eklersin.",
+      "sayfa": 139,
+      "pdf_page_index": 139,
+      "kaynak_alinti": "Formül: Yükseklik Farkı = Bakış açısı x Mesafe / 57,35\nÇıkan yükseklik farkı;\n► Hedef alçaktaysa; ikinci noktanın yüksekliğinden düşürülür.\n► Hedef yüksekteyse; ikinci noktanın yüksekliğine eklenir.",
+      "dogrulanan_bilgi": [
+        "Bakış açısı x Mesafe / 57,35",
+        "Hedef alçaktaysa; ikinci noktanın yüksekliğinden düşürülür",
+        "Hedef yüksekteyse; ikinci noktanın yüksekliğine eklenir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

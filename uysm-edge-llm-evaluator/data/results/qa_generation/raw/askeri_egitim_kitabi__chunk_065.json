@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Hedefe kilitlenmiş gibi sinyal geldi ama füzenin gözü başka yere bakıyor, o anda ne yapayım?",
+      "answer": "Yardımcı atıcıyı uyarmalı. Atıcı tetiği bırakır, mesafe yeniden kontrol edilir ve sonra tetiğe tekrar basılır. Bu tekrar denemesi 3 defaya kadar yapılabilir. Yeniden basmadan önce 5 saniye beklemek gerekir; ayrıca bataryanın toplam çalışma süresinin 1 dakika olduğunu unutmamalısın.",
+      "sayfa": 198,
+      "pdf_page_index": 198,
+      "kaynak_alinti": "SORU: Batarya çalışmış, silah sinyal vermiş ancak göz başka yeri gösteriyorsa ne yapılır.\nCEVAP: Yardımcı atıcıyı uyarır. Atıcı tetiği bırakır. Tekrar mesafe kontrol edilir. Tetiğe tekrar basılır. Sonra tekrar elektrik gelir. Bu işlem 3 defa tekrarlanabilir.\nTetiğe tekrar basmak için 5 sn bekleyin ve bataryanın 1 dk boyunca çalışabileceğini unutmayın.",
+      "dogrulanan_bilgi": [
+        "3 defa tekrarlanabilir",
+        "5 sn bekleyin",
+        "bataryanın 1 dk boyunca çalışabileceği"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Atıştan sonra hedefi ne kadar daha takip etmem gerekiyor?",
+      "answer": "Füze çıktıktan sonra atıcı tetiğe basılı tutarak hedefi 5 saniye daha takip etmeli. Ondan sonra tetik bırakılır.",
+      "sayfa": 197,
+      "pdf_page_index": 197,
+      "kaynak_alinti": "Füze çıktıktan sonra atıcı tetiğe basılı bir şekilde hedefi 5 sn takip eder. Sonra tetik çıkarılır.",
+      "dogrulanan_bilgi": [
+        "5 sn",
+        "tetiğe basılı",
+        "Sonra tetik çıkarılır"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Hava kapalı ve yağışlı; bu füzeyi hangi havalarda hiç kullanmamalıyım?",
+      "answer": "Şiddetli yağış ve doluda atış yapılmaz. Yerde kar varsa da yapılmaz. Ayrıca şiddetli soğukta ve çölde kum fırtınası varken de atış yapılmamalı.",
+      "sayfa": 197,
+      "pdf_page_index": 197,
+      "kaynak_alinti": "Şiddetli yağış ve dolu olan havalarda atış yapılmaz.\nYerde kar varsa atış yapılmaz.\nŞiddetli soğukta atış yapılmaz.\nÇölde kum fırtınası varsa atış yapılmaz.",
+      "dogrulanan_bilgi": [
+        "Şiddetli yağış ve dolu",
+        "Yerde kar varsa",
+        "Çölde kum fırtınası varsa"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

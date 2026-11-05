@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Telsizde tuşları kilitlemek istiyorum, nasıl devreye alırım ve hangi tuşlar yine çalışır?",
+      "answer": "Tuş kilidini açıp kapatmak için A.FUNC ile #.ENT tuşlarına 1 saniye basılı tutman gerekir. Kilit açık olsa da GÜÇ, PK, SES ve PTT tuşları çalışmaya devam eder.",
+      "sayfa": 1,
+      "pdf_page_index": 107,
+      "kaynak_alinti": "A.FUNC + #.ENT tuşlarına 1 sn basılı tutularak tuş kilidi devreye alınır veya çıkarılır.\nNot: (GÜÇ), (PK), (SES), (PTT) tuşları, tuş kilidi devrede iken de aktiftirler.",
+      "dogrulanan_bilgi": [
+        "1 sn",
+        "A.FUNC + #.ENT",
+        "GÜÇ, PK, SES, PTT"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": "Etikette SAYFA 1 yazıyor, ancak sayfa altındaki basılı numara 107 görünüyor; etiket esas alındı."
+    },
+    {
+      "question": "Bir frekansı hafızaya kaydedeceğim, son onay için ne yapmam lazım?",
+      "answer": "Önce VFO moduna geçip kaydedeceğin frekansı girersin, sonra A.FUNC+C.MR ile kayıt ekranını açıp kanal numarasını seçersin. Son onay için A.FUNC + C.MR tuşuna 3 bip sesi çıkana kadar 1 saniye basılı tutman gerekir.",
+      "sayfa": 108,
+      "pdf_page_index": 108,
+      "kaynak_alinti": "D.CRL tuşuna basılarak VFO moduna geçilir.\nKaydedilecek frekans girilir.\nA.FUNC+C.MR tuşlarına basılır.\nMR amblemi ve kanal numarası yanıp sönmeye başlar.\n(▲/▼) tuşları kullanılarak kaydedilecek kanal numarası seçilir.\nA.FUNC + C.MR tuşuna (3 bip sesi çıkana kadar)1 sn basılı tutulur",
+      "dogrulanan_bilgi": [
+        "VFO moduna geçilir",
+        "kanal numarası seçilir",
+        "3 bip sesi çıkana kadar 1 sn"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "DTMF kodu yollamam gerekiyor, gönderimi hangi tuşlarla yapıyorum?",
+      "answer": "DTMF kodunu göndermek için PTT tuşuna basılı tutarken aynı anda PK tuşuna basman gerekir.",
+      "sayfa": 109,
+      "pdf_page_index": 109,
+      "kaynak_alinti": "PTT tuşuna basılıyken PK tuşuna basılarak gönderilir.",
+      "dogrulanan_bilgi": [
+        "PTT tuşuna basılıyken",
+        "PK tuşuna basılarak"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

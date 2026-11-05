@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Uziyle yaklaşık 200 metrede etkili atış yapmam gerekse hangi modeli seçmeliyim?",
+      "answer": "Bu mesafe için standart Uzi uygun görünüyor; etkili menzili 200 m olarak verilmiş. Mini Uzi 100 m, Mikro Uzi ise 30 m etkili menzile sahip.",
+      "sayfa": 21,
+      "pdf_page_index": 21,
+      "kaynak_alinti": "Etkili Menzili 200 m 100 m 30 m",
+      "dogrulanan_bilgi": [
+        "200 m",
+        "100 m",
+        "30 m"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "karsilastirma",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Uziyi sökerken önce hangi güvenli adımlarla başlamalıyım?",
+      "answer": "Söküme önce şarjörü çıkarıp emniyet tedbirini alarak başlamalısın. Ardından gezin üstündeki pime basıp beden kapağını açarak 45 derece kaldırıp alırsın. Sonra mekanizmayı 30 derece kaldırıp yayla birlikte çıkarırsın; yay da mekanizmadan ayrılır.",
+      "sayfa": 21,
+      "pdf_page_index": 21,
+      "kaynak_alinti": "• Şarjör çıkarılır. Emniyet önlemi alınır.\n• Gezin üstündeki pime bastırılarak, beden kapağı açılır, 45 derece kaldırılır ve alınır.\n• Mekanizma 30 derece kaldırılır ve yayla birlikte alınır. Yayla mekanizma ayrılır.",
+      "dogrulanan_bilgi": [
+        "Şarjör çıkarılır",
+        "45 derece",
+        "30 derece"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Kurma kolunu geri çekip elimle öne ittirdim, silah neden tutukluk yapmış olabilir?",
+      "answer": "Çünkü kurma kolu geri çekildikten sonra dayama noktasına gelince serbest bırakılmalı. Elle ileri itilirse silahın tutukluk yapabileceği belirtiliyor.",
+      "sayfa": 20,
+      "pdf_page_index": 20,
+      "kaynak_alinti": "Bunun için kurma kolu süratle geriye doğru çekilir, dayanma noktasına geldiğinde bırakılır. Serbest bırakılmadığı, el ile ileriye itildiği taktirde silah tutukluk yapabilir.",
+      "dogrulanan_bilgi": [
+        "dayanma noktasına geldiğinde bırakılır",
+        "el ile ileriye itildiği taktirde",
+        "silah tutukluk yapabilir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

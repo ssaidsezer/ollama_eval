@@ -1,0 +1,63 @@
+GİZLİLİK DERECESİ: HİZMETE ÖZEL
+DOKÜMAN KODU: SOT-2026-REV3 (GENİŞLETİLMİŞ VERSİYON)
+KONU: ATBK-NG Taktik Saha, Cihaz Kullanım ve Angajman Talimatları
+YAYIN TARİHİ: 09.02.2026
+
+1. GENEL İLETİŞİM VE TELSİZ DİSİPLİNİ
+   1.1. Telsiz Sessizliği: "Telsiz Sus" emri verildiğinde, hayati tehlike (Temas) haricinde kesinlikle iletişim kurulmaz. Sadece dinleme modunda kalınır.
+   1.2. Kanal Yapısı ve Yetkiler:
+        - Kanal 1 (Genel): Tüm tim içi taktik haberleşme.
+        - Kanal 2 (Komuta): Sadece Tim Komutanı ve Merkez (ECG) arası stratejik iletişim.
+        - Kanal 3 (Lojistik/Sıhhiye): Mühimmat ikmali, yaralı tahliyesi (MEDEVAC).
+        - Kanal 4 (Yedek/Kripto): Ana kanallar karıştırılırsa (Jamming) otomatik geçilecek frekans atlamalı kanal.
+   1.3. Raporlama Formatı (SALUTE): Düşman unsuru görüldüğünde rapor şu sırayla verilir:
+        - S (Size): Büyüklük (Kaç kişi/araç?)
+        - A (Activity): Faaliyet (Ne yapıyorlar?)
+        - L (Location): Konum (Koordinat veya referans noktası)
+        - U (Unit): Birlik (Hangi üniforma/işaret?)
+        - T (Time): Zaman (Ne zaman görüldü?)
+        - E (Equipment): Teçhizat (Silahları ne?)
+   1.4. Parola ve İşaret: Her gün 00:00'da değişen parola/işaret kombinasyonu kullanılır. Şüpheli dost unsurlara önce parola sorulur. Yanlış cevapta tehdit sayılır.
+
+2. AKILLI KASK (ATBK) DONANIM PROSEDÜRLERİ
+   2.1. Başlatma ve Kalibrasyon: Kask açıldığında baş 5 saniye sabit tutulur (IMU Kalibrasyonu). AR (Artırılmış Gerçeklik) vizöründe pusula belirdiğinde sistem hazırdır.
+   2.2. Hata Kodları ve Çözümleri:
+        - Kırmızı Yanıp Sönen LED: Sensör hatası. Kaskı kapatıp açın.
+        - Sürekli Sarı LED: Bağlantı kopukluğu (ECG menzili dışı). Telsiz manuele geçer.
+        - Mavi Titreşim: Yakın dost unsuru (Blue Force) algılandı. Ateş etme.
+   2.3. Gece Görüş ve Termal Mod: "Termal Mod" sesli komutu veya vizöre çift tıklama ile aktif edilir. Gün ışığında termal sensör kapağı kapalı tutulmalıdır.
+   2.4. Hard Reset: Sistem kilitlenirse, PTT (Bas-Konuş) ve Mod tuşuna aynı anda 10 saniye basılı tutarak zorla yeniden başlatın.
+
+3. ACİL DURUM, TEMAS VE HAREKET TARZLARI
+   3.1. Pusuya Düşme: Derhal en yakın sütre (korunak) arkasına geçilir. "Saat Yönü" vererek (Örn: "Temas Saat 3!") baskı ateşi açılır.
+   3.2. Hava Saldırısı / Drone Tehditi:
+        - "Hava" ikazı ile derhal yere yatılır ve hareketsiz kalınır (Termal gizlenme).
+        - Kaskın "Anti-Drone" modu açılır (RF sinyallerini minimuma indirir).
+        - Düşman drone'una sadece komutan emriyle ateş edilir.
+   3.3. GPS Karıştırma (Jamming/Spoofing): Kask "Konum Güvenilmez" uyarısı verirse, manuel harita ve pusula kullanımına geçilir. Kaskın RSSI tabanlı mesafe ölçeri referans alınır.
+   3.4. Dost Ateşi (Blue on Blue): Kask vizöründe "MAVİ İŞARET" görülen hedeflere kesinlikle ateş edilmez. Sistem tetik kilitlemez, sorumluluk atıcıdadır.
+
+4. KBRN (KİMYASAL, BİYOLOJİK, RADYOLOJİK, NÜKLEER) TEHDİTLERİ
+   4.1. KBRN Alarmı: Kask sensörleri kimyasal ajan (Sinir gazı vb.) tespit ederse "GAZ GAZ GAZ" sesli uyarısı verir ve vizör kırmızı olur.
+   4.2. Maske Takma: Alarm alındığında 9 saniye içinde koruyucu maske takılmalıdır.
+   4.3. Raporlama: KBRN tehdidi algılandığında rüzgar yönü ve gazın türü (kask ekranında yazar) merkeze rapor edilir.
+
+5. İLK YARDIM VE SIHHİYE (TCCC) TALİMATLARI
+   5.1. Ateş Altında Bakım: Yaralıya sadece hayati kanamayı durdurmak için turnike uygulanır. Diğer müdahaleler ateş kesilince yapılır.
+   5.2. 9-Line MEDEVAC İsteği: Helikopter ile tahliye gerekirse şu bilgiler sırayla verilir:
+        1. Konum, 2. Telsiz Frekansı, 3. Hasta Sayısı (Öncelik sırasına göre), 4. Özel Ekipman İhtiyacı, 5. Hasta Türü (Yatan/Oturan).
+   5.3. Morfin Kullanımı: Kafa travması veya solunum güçlüğü olan yaralıya ASLA morfin yapılmaz. Şırınga yaralının yakasına iliştirilir.
+
+6. ESİR VE GÖZALTI İŞLEMLERİ (EPW)
+   6.1. 5S Kuralı Uygulanır:
+        - Search (Ara): Üst araması yap.
+        - Silence (Sustur): Konuşmasını engelle.
+        - Segregate (Ayır): Rütbelileri erlerden ayır.
+        - Speed (Hızlandır): Bölgeden hızlıca tahliye et.
+        - Safeguard (Koru): Yaralıysa müdahale et, kötü muamele yapma.
+   6.2. Dijital Materyal: Esirin üzerindeki telefon, telsiz veya dijital cihazlar (ATBK-NG Kaskı vb.) kapatılmaz, sinyal izoleli torbaya (Faraday Bag) konur.
+
+7. CİHAZ İMHASI VE KRİTİK VERİ GÜVENLİĞİ
+   7.1. Cihaz Terki: Eğer geri çekilme zorunluysa ve teçhizat taşınamıyorsa, kask ve ECG düşman eline geçmemelidir.
+   7.2. Acil Silme (Kill Switch): Yakalanma riski varsa, sesli olarak "KOD KIRMIZI - SİSTEMİ SİL" komutu verilir. (Doğrulama kodu: GÜNEŞ-99).
+   7.3. Fiziksel İmha: Yazılımsal silme yapılamıyorsa, cihazın bataryası çıkarılır ve işlemci ünitesine (Ana kart) ateş edilerek veya kırılarak imha edilir.

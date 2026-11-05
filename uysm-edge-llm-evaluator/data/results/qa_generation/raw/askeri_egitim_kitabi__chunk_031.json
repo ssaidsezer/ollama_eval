@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Silaha mermi verdikten sonra atışa hazır hale getirmek için en son ne yapmam gerekiyor?",
+      "answer": "Mekanizma tırnağı şeritteki mermiyi tuttuktan sonra kurma kolunu kuvvetlice bir kez daha çekmen gerekir; bu işlemden sonra silah atışa hazır olur.",
+      "sayfa": 95,
+      "pdf_page_index": 95,
+      "kaynak_alinti": "Mekanizma tırnağı şeritteki mermiyi tutar. Kurma kolu kuvvetlice bir kere daha çekildiğinde, silah atışa hazır hale gelir.",
+      "dogrulanan_bilgi": [
+        "Mekanizma tırnağı şeritteki mermiyi tutar",
+        "Kurma kolu kuvvetlice bir kere daha çekildiğinde",
+        "silah atışa hazır hale gelir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Söküme başlarken ilk hangi parçaları almam lazım?",
+      "answer": "Söküme önce kelepçe ile dürbünü çıkararak başlanır. Ardından dürbünün desteği sökülür, sonra tambura ve şerit çıkarılır.",
+      "sayfa": 95,
+      "pdf_page_index": 95,
+      "kaynak_alinti": "Önce kelepçe ve dürbün çıkartılır.\n• Dürbünün desteği sökülür.\n• Tambura ve şerit çıkartılır.",
+      "dogrulanan_bilgi": [
+        "Önce kelepçe ve dürbün çıkartılır",
+        "Dürbünün desteği sökülür",
+        "Tambura ve şerit çıkartılır"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Namluyu sökerken nasıl kurtarıp çıkaracağım?",
+      "answer": "Önce kelepçeleri açmalısın. Sonra kurma kolunu hafifçe çekip namluyu tırnaktan kurtararak çıkarırsın.",
+      "sayfa": 96,
+      "pdf_page_index": 96,
+      "kaynak_alinti": "Daha sonra namluyu çıkarmak için kelepçeler açılır. Kurma kolu hafif çekilip namlu o tırnaktan kurtarılıp çıkarılır.",
+      "dogrulanan_bilgi": [
+        "kelepçeler açılır",
+        "Kurma kolu hafif çekilip",
+        "namlu o tırnaktan kurtarılıp çıkarılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

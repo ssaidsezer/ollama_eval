@@ -1,0 +1,38 @@
+{
+  "status": "complete",
+  "benchmark": "fixed-150 engineering benchmark",
+  "model": "gemma4:26b-a4b",
+  "weights": "Q4_K_M",
+  "kv_conditions": ["f16", "q8_0", "q4_0"],
+  "rag": {
+    "enabled": true,
+    "prompt_enabled": true,
+    "variant": "classic_vector",
+    "collection": "documents_embeddinggemma_300m_1000c_200ov",
+    "embedding_model": "embeddinggemma:300m",
+    "configured_k": 10,
+    "score_threshold": 0.55,
+    "frozen_contexts": "frozen_contexts.jsonl",
+    "frozen_contexts_sha256": "ed5d2aab1de02f830b648b7c10919c5447b9dbf1adba1581b47ce285f5170d27",
+    "contexts_identical_across_conditions": true,
+    "questions_with_chunks": 116,
+    "questions_without_chunks": 34,
+    "chunks_per_condition": 713
+  },
+  "counts": {
+    "questions_per_condition": 150,
+    "conditions": 3,
+    "successful_rows": 450,
+    "failed_rows": 0
+  },
+  "inference": {
+    "gemma_f16": {"mean_seconds": 4.183, "p95_seconds": 6.885, "mean_tokens_per_second": 32.98},
+    "gemma_q8_0": {"mean_seconds": 4.219, "p95_seconds": 7.085, "mean_tokens_per_second": 32.23},
+    "gemma_q4_0": {"mean_seconds": 4.197, "p95_seconds": 7.386, "mean_tokens_per_second": 31.78}
+  },
+  "evaluation": {
+    "performed": false,
+    "note": "Answer-quality evaluation remains pending."
+  },
+  "generation_server_stopped": true
+}

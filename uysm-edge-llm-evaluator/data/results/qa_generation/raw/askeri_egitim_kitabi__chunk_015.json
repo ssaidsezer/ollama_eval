@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Nefesimi kestim, nişanda ne kadar beklemeliyim?",
+      "answer": "Nefesi kestikten sonra 10 saniyeden fazla nişanda beklememelisin.",
+      "sayfa": 47,
+      "pdf_page_index": 47,
+      "kaynak_alinti": "Nefes kesildiğinde, 10 sn’den fazla beklenmemesi,",
+      "dogrulanan_bilgi": [
+        "10 sn’den fazla",
+        "beklenmemesi"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Başımı atış boyunca oynatırsam nişanım neden bozulur?",
+      "answer": "Çünkü nişan aldıktan sonra başını hareket ettirince göz adaleleri gözü eski yerinde tutmak için ekstra çalışır, bu da yorulmaya yol açar. Oluşan göz yorgunluğu bir süre sonra nişanın doğruluğunu etkiler.",
+      "sayfa": 48,
+      "pdf_page_index": 48,
+      "kaynak_alinti": "Nişan aldıktan sonra başı herhangi bir istikamete hareket ettirdiğimizde bu adale grubu gözü eski yerinde tutmak için, derhal harekete geçerler. Bu baş hareketi, alışılanın dışında ise göz adaleleri de alışmadıkları bir hareket yapıyorlar demektir. Bu davranış göz adalelerinin yorulmasına neden olur. Bu sebeple atıcı başını bütün atış müddetince tabii halinde tutmalıdır. Böylece kaşlarının altından veya göz ucu ile nişan alma ihtiyacı doğmamış olur. Aksi halde teşekkül eden göz yorgunluğu bir müddet sonra nişanın doğruluğuna tesir eder.",
+      "dogrulanan_bilgi": [
+        "göz adalelerinin yorulmasına neden olur",
+        "başını bütün atış müddetince tabii halinde tutmalıdır",
+        "nişanın doğruluğuna tesir eder"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Tetiği çekerken işaret parmağımı nasıl kullanmalıyım?",
+      "answer": "İşaret parmağın sadece tetiğe temas etmeli ve tetiği birinci boğumuyla çekmelisin. Parmağın kabzaya bastırmaması gerekir; yoksa tetik çekerken oynama yapıp nişan noktasını değiştirebilir.",
+      "sayfa": 49,
+      "pdf_page_index": 49,
+      "kaynak_alinti": "Burada önemli olan konu işaret parmağının sadece tetiğe temas etmesidir. Kabzayı kavrayan parmakların tetik çekme anında oynaması nişan noktasının değişmesine neden olur. Bu nedenle, parmak uçlarının kabzaya bastırılmaması gerekmektedir. Tetik, işaret parmağının birinci boğumu ile çekilmelidir.",
+      "dogrulanan_bilgi": [
+        "sadece tetiğe temas etmesi",
+        "parmak uçlarının kabzaya bastırılmaması",
+        "birinci boğumu ile"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

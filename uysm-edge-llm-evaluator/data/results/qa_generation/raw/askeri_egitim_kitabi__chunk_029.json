@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Silah kirliyse ya da çok soğukta atış yapacaksam gaz ayarını kaça almalıyım?",
+      "answer": "Silah kirliyse, atış yoğunluğunu artırmak istiyorsan ya da hava iç aksamlardaki yağı donduracak kadar soğuksa gaz ayarını 3’e almalısın. Normal atışta 3,5 kullanılır; silah temizse ve atış yoğunluğunu azaltmak istiyorsan 4’e alınır.",
+      "sayfa": 90,
+      "pdf_page_index": 90,
+      "kaynak_alinti": "Gaz Ayarı: Silah kirliyse, atış yoğunluğu artırılmak istenirse veya hava; iç aksamlardaki yağ donacak kadar soğuksa 3’e alınır. Normal atış için 3,5’a alınır. Silah temiz ve atış yoğunluğu azaltılmak istenirse 4’e alınır.",
+      "dogrulanan_bilgi": [
+        "3’e alınır",
+        "Normal atış için 3,5",
+        "4’e alınır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Uçak bana tam yandan görünüyorsa hızını önleme hesabına nasıl katacağım?",
+      "answer": "Uçak 4/4 görünüyorsa hızı tam olarak hesaba katılır. 0 görünümde hız atış yönünü etkilemez; diğer açılarda ise hız kesirli sayıyla çarpılarak yan olarak ne kadar gittiği bulunur.",
+      "sayfa": 91,
+      "pdf_page_index": 91,
+      "kaynak_alinti": "“0” halinde uçağın hızı atışın yönünü etkilemez.\n“4/4” halinde uçağın hızı tam olarak alınır.\nDiğer hallerde ise kesirli sayıyla, hız çarpılır. Yan olarak kaç metre gittiği bulunur.",
+      "dogrulanan_bilgi": [
+        "“4/4” halinde uçağın hızı tam olarak alınır",
+        "“0” halinde uçağın hızı atışın yönünü etkilemez",
+        "kesirli sayıyla, hız çarpılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Mesafe tespit aletiyle uçağın mesafesini pratikte nasıl bulacağım?",
+      "answer": "Önce uçağın gerçek uzunluğunu bilmen gerekir. Uçak şekli, uçağın yönüne getirilir; alttaki rakamlardan karşıdan bakınca 4 görünmelidir. Hareketli ibre uçağın gerçek uzunluğuna ayarlanır, çengel gömleğe takılıp ip gerginleştirilir. Uçağın görünen kısmı kaçsa ibre o değere getirilir; sonra uçak boşluğa oturtulur. Ön ve arkanın değdiği yerdeki sayı 100 ile çarpılarak mesafe bulunur.",
+      "sayfa": 91,
+      "pdf_page_index": 91,
+      "kaynak_alinti": "• Uçağın uzunluğu bilinmelidir.\n• Uçak şekli, uçak yönünde olur.\n• Uçak şeklinin altındaki rakamlardan, karşıdan bakılınca 4 görülmesi gerekir.\n• Hareketli ibre, uçağın gerçek uzunluğuna getirilir.\n• Çengel gömleğe takılır ve ip gerginleştirilir.\n• Uçağın görünen kısmı kaçsa; ipteki ibre, alet sağa sola meyillendirilerek oraya getirilir. (1/4 ise 1’e, 2/4 ise 2’ye, 3/4 ise 3’e, 4/4 ise 4 getirilir. 0 ise mesafenin önemi yoktur.)\n• Uçak boşluğa oturtulur. Önü ve arkasının değdiği yerdeki değer 100 ile çarpılır ve mesafe tespit edilmiş olur.",
+      "dogrulanan_bilgi": [
+        "karşıdan bakılınca 4 görülmesi gerekir",
+        "Çengel gömleğe takılır ve ip gerginleştirilir",
+        "değer 100 ile çarpılır"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

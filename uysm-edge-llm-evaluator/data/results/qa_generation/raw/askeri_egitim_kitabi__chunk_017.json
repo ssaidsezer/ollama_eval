@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "25 metrede 3'lü grupmanım destekli atışta ne kadar açılırsa hata sayılır?",
+      "answer": "25 metre atışlarında, yatarken destekli atışta 3'lü grupman 3 cm çapındaki dairenin dışına çıkıyorsa bu problem kabul edilir ve kuru tetik, hakiki ve eğitim mermisiyle karışık atış çalışması önerilir.",
+      "sayfa": 53,
+      "pdf_page_index": 53,
+      "kaynak_alinti": "25 m mesafe atışlarında, 3’lü atış grubunun büyüklüğü, yatarak destekli atışlarda 3 cm, desteksiz atışlarda 5 cm çapındaki dairenin dışına çıktığında yaptırılacak olan kuru tetik, hakiki ve eğitim mermisi ile karışık atış çalışması problemi çözebilecek en uygun çalışma olacaktır.",
+      "dogrulanan_bilgi": [
+        "25 m",
+        "3 cm",
+        "kuru tetik, hakiki ve eğitim mermisi ile karışık atış çalışması"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Yakın mesafede toplu hedefe girerken üçlü darbe hangi aralıkta kullanılır?",
+      "answer": "Üçlü darbe atışı, yakın ve orta mesafelerde yani 50–200 metre arasında, her türlü nişan vaziyetinde silah mevzilerine ve toplu hedeflere karşı kullanılır.",
+      "sayfa": 54,
+      "pdf_page_index": 54,
+      "kaynak_alinti": "Yakın ve orta mesafelerde (50–200 m) her türlü nişan vaziyetinde silah mevzilerine ve toplu hedeflere,",
+      "dogrulanan_bilgi": [
+        "50–200 m",
+        "her türlü nişan vaziyetinde",
+        "silah mevzilerine ve toplu hedeflere"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Atış anında nefes alırsam, verirsem ya da tetiği hızlı düşürürsem vuruş nereye kayar?",
+      "answer": "Atış anında nefes alırsan vuruş hedefin üstüne, nefes verirsen altına kayar. Tetiği hızlı düşürürsen de vuruş hedefin sağına gider.",
+      "sayfa": 55,
+      "pdf_page_index": 55,
+      "kaynak_alinti": "Nefes alırsak hedefin üstünü\nNefes verirsek hedefin altını\nTetik hızlı düşürülürse hedefin sağını",
+      "dogrulanan_bilgi": [
+        "hedefin üstünü",
+        "hedefin altını",
+        "hedefin sağını"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

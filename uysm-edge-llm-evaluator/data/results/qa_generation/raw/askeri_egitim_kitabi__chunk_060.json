@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "AGS-17 dürbünündeki 1'den 7'ye kadar işaretler neyi gösteriyor?",
+      "answer": "Dürbündeki 1'den 7'ye kadar olan üçgenler ve aralarındaki çizgiler, 50 metrelik aralıkları temsil eder.",
+      "sayfa": 183,
+      "pdf_page_index": 183,
+      "kaynak_alinti": "Dürbünü: 1’den 7’ye kadar üçgenler ve arasında 50 metreye tekabül eden çizgilerden oluşur.",
+      "dogrulanan_bilgi": [
+        "1’den 7’ye kadar",
+        "50 metreye tekabül eden çizgiler"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "AGS-17’yi regüle ederken dürbün artımı namlu merkezine göre nereye alınır?",
+      "answer": "Dürbün için olan artımın merkezi, namlu için olan artımın merkezinden 13 cm solda ve 8 cm üstte olmalıdır.",
+      "sayfa": 183,
+      "pdf_page_index": 183,
+      "kaynak_alinti": "Regulajı: RPG-7 regulajı gibi yapılır. Dürbün için olan artımın merkezi namlu için olan artımın merkezinden 13 cm solda 8 cm üstedir.",
+      "dogrulanan_bilgi": [
+        "13 cm solda",
+        "8 cm üstedir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Telsizle keşif bilgisi geçeceğim, nelere dikkat etmeliyim?",
+      "answer": "Telsiz güvensiz bir haberleşme aracı sayıldığı için kısa ve kodlu konuşmalısın; gereksiz konuşup frekansı ele vermemelisin.",
+      "sayfa": 184,
+      "pdf_page_index": 184,
+      "kaynak_alinti": "Telsiz en güvensiz haberleşme araçlarından biridir. Bunun için kodlu ve kısa konuşulmalı, gereksiz konuşulmayarak frekansın ifşa edilmemesi gerekir.",
+      "dogrulanan_bilgi": [
+        "kodlu ve kısa konuşulmalı",
+        "frekansın ifşa edilmemesi gerekir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

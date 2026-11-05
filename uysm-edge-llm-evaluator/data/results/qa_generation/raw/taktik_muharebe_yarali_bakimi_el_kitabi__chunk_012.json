@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "Sternal iğneyi yerleştirirken ne kadar boşluk bırakabilirim, daha fazlası sorun olur mu?",
+      "answer": "Giriş iğnesinin ucu, parmak lansetinin ucu ve konumlandırıcı arasındaki mesafe 3 mm’yi geçmemeli. Ayrıca konumlandırıcının iğnesi sternuma kadar uzanmalı; aksi halde yerleşim hatalı ya da başarısız olabilir.",
+      "sayfa": 34,
+      "pdf_page_index": 40,
+      "kaynak_alinti": "Giriş iğnesinin ucu, parmak lansetinin ucu ve konumlandırıcının arasındaki alan 3 mm yi geçmemelidir.\n\nNOT: Konumlandırıcının iğnesinin sternuma kadar uzanması zorunludur. Bu gerçekleştirilmezse, hatalı veya başarısız bir yerleşime neden olabilir.",
+      "dogrulanan_bilgi": [
+        "3 mm’yi geçmemeli",
+        "sternuma kadar uzanması zorunludur"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Sternal iğneyi kemiğe girerken nasıl çevirmeliyim, hangi açıyı korumalıyım?",
+      "answer": "İğneyi kemiğe temas edene kadar ilerletip nazik ve sabit aşağı basınçla saat yönünde ve saat yönünün tersine döndürerek kemik zarını delin. İşlem boyunca 90 derecelik açıyı korumalısın; seti sallamamalı ya da bükmemelisin.",
+      "sayfa": 35,
+      "pdf_page_index": 41,
+      "kaynak_alinti": "Nazik, sabit, aşağı doğru basınç uygularken, saat yönünde ve saat yönünün tersine döndürerek kemik zarını delin. Medüller alana girişte ani bir direnç eksikliği hissedildiğinde sokmayı kesin. İğne seti takılıyken sallamayın veya bükmeyin. 90 derecelik açıyı koruyun.",
+      "dogrulanan_bilgi": [
+        "saat yönünde ve saat yönünün tersine döndürerek",
+        "90 derecelik açıyı koruyun"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Kateteri yerleştirdim ama kan aspire edemiyorum; bu direkt başarısız yerleşim mi demek?",
+      "answer": "Hayır, tek başına bu durum başarısız yerleşim anlamına gelmez. Kılavuzda kanın olmamasının veya kateter merkezinin aspire edilememesinin yerleştirmenin başarısız olduğunu göstermediği belirtiliyor.",
+      "sayfa": 36,
+      "pdf_page_index": 42,
+      "kaynak_alinti": "Kanın olmaması veya kateter merkezinin aspire edilememesi, yerleştirmenin başarısız olduğu anlamına gelmez.",
+      "dogrulanan_bilgi": [
+        "kanın olmaması",
+        "yerleştirmenin başarısız olduğu anlamına gelmez"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

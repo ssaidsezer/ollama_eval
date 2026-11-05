@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Bana doğru düz gelen bir hava hedefine nasıl nişan almalıyım?",
+      "answer": "Hedef silaha doğru açısız, yani 0° geliyorsa merkezden nişan alınır. Bu durumda mesafe ve hızın önemi yoktur.",
+      "sayfa": 101,
+      "pdf_page_index": 101,
+      "kaynak_alinti": "Silaha doğru, açısız(0°) gelen ve giden hedeflere merkezden nişan alınır. Mesafenin ve hızın önemi yoktur.",
+      "dogrulanan_bilgi": [
+        "açısız(0°)",
+        "merkezden nişan alınır",
+        "Mesafenin ve hızın önemi yoktur"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "1500 metrede 300 m/sn giden ve 2/4 görünen uçağa hangi önleme değeriyle nişan alırım?",
+      "answer": "Bu durumda merminin 1500 metreye ulaşma zamanı 1,5 saniyedir. Hesap 1,5 x 300 x 2/4 olduğundan önleme değeri 225 çıkar.",
+      "sayfa": 101,
+      "pdf_page_index": 101,
+      "kaynak_alinti": "Örn: 1500 metrede uçak 300 m/sn hızla gidiyor. Uçağın 2/4’ü gözüküyor. Hangi halkadan nişan alınır.\n1500 metreye merminin ulaşma zamanı: 1,5;\n1,5 x 300 x 2/4 = 225",
+      "dogrulanan_bilgi": [
+        "1500 metreye merminin ulaşma zamanı: 1,5",
+        "300 m/sn",
+        "1,5 x 300 x 2/4 = 225"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Regulaj tahtası yoksa hava dürbününü hızlıca nasıl sıfırlarım?",
+      "answer": "Pratik yöntemde regulaj dürbününden en az 500 metre uzaktaki bir noktaya bakılır ve hava dürbünü o noktaya ayarlanır. Bu yöntem 1000 metrede 30 cm hassasiyet verir.",
+      "sayfa": 102,
+      "pdf_page_index": 102,
+      "kaynak_alinti": "Pratik yöntem: Regulaj dürbününden en az 500 metre uzaktaki bir noktaya bakılır. Hava dürbününde buraya ayarlanır. Regulaj tamamdır. Bu yöntem 1000 metrede 30 cm hassaslığındadır.",
+      "dogrulanan_bilgi": [
+        "en az 500 metre",
+        "Hava dürbününde buraya ayarlanır",
+        "1000 metrede 30 cm hassaslığındadır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

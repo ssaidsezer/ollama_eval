@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "Hareketli araca dürbünle atışta hız hesabını hangi birimle yapacağım, bir de bu hesapta üst sınır ne?",
+      "answer": "Bu atışta hız hesabını m/sn ile değil km/saat olarak yapmalısın. Hesaba katılan hız da en fazla 40 km/saat olmalı.",
+      "sayfa": 146,
+      "pdf_page_index": 146,
+      "kaynak_alinti": "Hız hesabı m/sn değil km/saat olarak yapılır.\nBu hesaptan çıkan hız en fazla 40 km/saat olmalıdır.",
+      "dogrulanan_bilgi": [
+        "km/saat",
+        "en fazla 40 km/saat"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Araç bana tam yandan, yani bakış açıma 90 dereceyle geçiyorsa hızın ne kadarını hesaba katacağım?",
+      "answer": "Araç hareket açısı bakış açına 90 derece yapıyorsa hızın tamamını hesaba katmalısın.",
+      "sayfa": 146,
+      "pdf_page_index": 146,
+      "kaynak_alinti": "Aracın hareket açısı, bakış açısıyla 90° açı yaparsa hızın hepsi, 67,5° açı yaparsa 3/4, 45° açı yaparsa yarısı, 22,5° açı yaparsa 1/4 hesaba katılır.",
+      "dogrulanan_bilgi": [
+        "90°",
+        "hızın hepsi"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Bu 75 mm geri tepmesiz topla gezer-arpacık kullanacaksam en fazla kaç metreye kadar atış yapabilirim?",
+      "answer": "Gez-arpacıkla bu silahla 600 metreye kadar atış yapabilirsin.",
+      "sayfa": 147,
+      "pdf_page_index": 147,
+      "kaynak_alinti": "Gez-arpacık ile 600 m'ye kadar atış yapılabilir.",
+      "dogrulanan_bilgi": [
+        "600 m",
+        "Gez-arpacık"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

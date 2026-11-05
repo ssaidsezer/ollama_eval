@@ -1,0 +1,32 @@
+[2026-07-22T09:33:40] CSV: data/qa/final_qa_150.csv
+[2026-07-22T09:33:40] Fallback collection: rag_ablation
+[2026-07-22T09:33:40] Classic collection: documents_embeddinggemma_300m_1000c_200ov
+[2026-07-22T09:33:40] Smart collection: rag_ablation
+[2026-07-22T09:33:40] Models: gemma4:26b-a4b
+[2026-07-22T09:33:40] QA backend: llamacpp base_url=http://127.0.0.1:8084/v1
+[2026-07-22T09:33:40] Variants: classic_vector
+[2026-07-22T09:33:40] Ollama limits: timeout=300s num_predict=512
+[2026-07-22T09:33:40] Sampling: temperature=0.0 seed=42 embedding_timeout=300s resume=False
+[2026-07-22T09:33:40] Eval: disabled
+[2026-07-22T09:33:40] Output dir: data/results/kv_rag_classic_vector_20260722_150/gemma_q8_0
+[2026-07-22T09:33:40] START model=gemma4:26b-a4b variant=classic_vector collection=documents_embeddinggemma_300m_1000c_200ov
+[2026-07-22T09:46:03] OK model=gemma4:26b-a4b variant=classic_vector rows=150 duration=743.08s
+[2026-07-22T09:46:03] DONE ok=1 errors=0 merged_rows=150
+[2026-07-22T09:46:03] Merged CSV: data/results/kv_rag_classic_vector_20260722_150/gemma_q8_0/merged_results.csv
+[2026-07-22T09:46:03] Manifest: data/results/kv_rag_classic_vector_20260722_150/gemma_q8_0/manifest.csv
+[2026-07-22T09:46:31] CSV: data/qa/final_qa_150.csv
+[2026-07-22T09:46:31] Fallback collection: rag_ablation
+[2026-07-22T09:46:31] Classic collection: documents_embeddinggemma_300m_1000c_200ov
+[2026-07-22T09:46:31] Smart collection: rag_ablation
+[2026-07-22T09:46:31] Models: gemma4:26b-a4b
+[2026-07-22T09:46:31] QA backend: llamacpp base_url=http://127.0.0.1:8084/v1
+[2026-07-22T09:46:31] Variants: classic_vector
+[2026-07-22T09:46:31] Ollama limits: timeout=300s num_predict=512
+[2026-07-22T09:46:31] Sampling: temperature=0.0 seed=42 embedding_timeout=300s resume=True
+[2026-07-22T09:46:31] Eval: disabled
+[2026-07-22T09:46:31] Output dir: data/results/kv_rag_classic_vector_20260722_150/gemma_q8_0
+[2026-07-22T09:46:31] START model=gemma4:26b-a4b variant=classic_vector collection=documents_embeddinggemma_300m_1000c_200ov
+[2026-07-22T09:46:36] OK model=gemma4:26b-a4b variant=classic_vector rows=150 duration=4.66s
+[2026-07-22T09:46:36] DONE ok=1 errors=0 merged_rows=150
+[2026-07-22T09:46:36] Merged CSV: data/results/kv_rag_classic_vector_20260722_150/gemma_q8_0/merged_results.csv
+[2026-07-22T09:46:36] Manifest: data/results/kv_rag_classic_vector_20260722_150/gemma_q8_0/manifest.csv

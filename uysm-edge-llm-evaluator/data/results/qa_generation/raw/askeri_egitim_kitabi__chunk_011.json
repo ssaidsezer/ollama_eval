@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "AKM bombaatarla yakın hedefe atış yapacağım; etkili mesafe ve son menzil ne kadar?",
+      "answer": "AKM bombaatarıyla şasiye etkili atış mesafesi 20–25 metredir. Bombanın ulaşabildiği son menzil ise 400 metredir.",
+      "sayfa": 35,
+      "pdf_page_index": 35,
+      "kaynak_alinti": "20–25 metre şasiye etkili bomba atar.\nSon menzili 400 metredir.",
+      "dogrulanan_bilgi": [
+        "20–25 metre",
+        "400 metre"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "G3'te emniyet mandalını hangi konuma alırsam yarı otomatik, hangi konuma alırsam tam otomatik olur?",
+      "answer": "Yarı otomatik için mandalı \"E\" ya da \"1\" konumuna alırsın. Tam otomatik için ise \"F\" ya da \"20\" konumuna getirmen gerekir.",
+      "sayfa": 37,
+      "pdf_page_index": 37,
+      "kaynak_alinti": "Düğme \"E\" veya \"1\" seçeneğine getirildiğinde; tüfek tetiğe her basıldığında ateş alır(Yarı otomatik). Eğer düğme \"F\" veya \"20\" seçeneğine getirilirse tüfek tam otomatik atış yapacaktır.",
+      "dogrulanan_bilgi": [
+        "\"E\" veya \"1\"",
+        "\"F\" veya \"20\""
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "G3'ü sökerken ilk iş olarak hangi pimleri çıkarıyorum?",
+      "answer": "İlk adımda kabza ile tetiğin birleştiği yerdeki iki pimi çıkarırsın. Kaybolmamaları için de dipçikteki oyuklara yerleştirmen gerekir.",
+      "sayfa": 37,
+      "pdf_page_index": 37,
+      "kaynak_alinti": "Kabza ile tetiğin birleştiği yerdeki iki adet pim çıkarılır. Kaybolmaması için dipçikteki oyuklara yerleştirilir.",
+      "dogrulanan_bilgi": [
+        "iki adet pim",
+        "dipçikteki oyuklara yerleştirilir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

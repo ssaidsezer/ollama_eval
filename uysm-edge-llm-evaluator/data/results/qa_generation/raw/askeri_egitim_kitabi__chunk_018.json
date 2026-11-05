@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Yatarak atışta hedefe tam paralel mi yatayım, yoksa biraz açı vermem mi gerekiyor?",
+      "answer": "Yatarak desteksiz nişanda vücudunu hedef istikametine tam paralel değil, yaklaşık 25-30 derecelik bir açı yapacak şekilde yerleştirmelisin. Bu pozisyon en istikrarlı atış vaziyeti olarak tarif ediliyor.",
+      "sayfa": 57,
+      "pdf_page_index": 57,
+      "kaynak_alinti": "En istikrarlı atış vaziyetidir. En çok dayanma yüzeyi sağlar, ağırlık merkezi yerden çok az yukarıdadır.\nTemel prensipler;\n• Vücut hedef istikameti ile 25-30 derecelik bir açı teşkil etmelidir.",
+      "dogrulanan_bilgi": [
+        "25-30 derecelik açı",
+        "En istikrarlı atış vaziyeti"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Duvar ya da kaya gerisinden ateş ederken kendimi nasıl daha az belli ederim?",
+      "answer": "Siperin yanından ateş ederken ateş edeceğin noktanın düşman tarafından önceden bilinmemesine dikkat etmelisin, düşmana küçük hedef göstermelisin ve mümkünse destekli ateşten yararlanmalısın. Ayrıca atışı kısa sürede yapmaya çalışılır.",
+      "sayfa": 57,
+      "pdf_page_index": 57,
+      "kaynak_alinti": "Sütre yanından nişan alıp ateş ederken, mümkün olduğu kadar;\n• Ateş edilecek noktanın düşman tarafından önceden bilinmemesine.\n• Düşmana küçük hedef göstermeye.\n• Destekli ateş imkanlarından faydalanmaya.\n• Çok kısa sürede ateş etmeye çalışılır.",
+      "dogrulanan_bilgi": [
+        "düşmana küçük hedef göstermek",
+        "destekli ateş imkanlarından faydalanmak",
+        "çok kısa sürede ateş etmek"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Hava hedefine çökmüş halde takip yapacaksam normal çökmekten farkı ne?",
+      "answer": "Hava hedeflerine çökmüş nişanda normal çökmekten farklı olarak sağ ayağın üstüne oturmazsın. Sağ ayak burnunu yere koyarsın ve gerektiğinde sağ diz üzerinde vücudu döndürerek hedef takibi yaparsın.",
+      "sayfa": 58,
+      "pdf_page_index": 58,
+      "kaynak_alinti": "• Hava hedeflerine çökerek nişan vaziyetinin normal çökerek nişan vaziyetinden farkı; sağ ayağın üzerine oturmaması, sağ ayak burnunun yere dik olarak konulması ve gerektiğinde sağ diz üzerinde vücudun döndürülerek hedef takibi yapılmasıdır.",
+      "dogrulanan_bilgi": [
+        "sağ ayağın üzerine oturmaması",
+        "sağ ayak burnunun yere dik olarak konulması",
+        "sağ diz üzerinde vücudun döndürülerek hedef takibi"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "karsilastirma",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

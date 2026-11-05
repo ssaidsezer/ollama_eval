@@ -1,0 +1,16 @@
+[2026-07-21T11:29:16] CSV: data/csv/rag_blind_test_120_gold.csv
+[2026-07-21T11:29:16] Fallback collection: rag_ablation
+[2026-07-21T11:29:16] Classic collection: documents_embeddinggemma_300m_1000c_200ov
+[2026-07-21T11:29:16] Smart collection: rag_ablation
+[2026-07-21T11:29:16] Models: qwen3.6:35b-a3b
+[2026-07-21T11:29:16] QA backend: llamacpp base_url=http://127.0.0.1:8084/v1
+[2026-07-21T11:29:16] Variants: classic_vector
+[2026-07-21T11:29:16] Ollama limits: timeout=300s num_predict=512
+[2026-07-21T11:29:16] Sampling: temperature=0.0 seed=42 embedding_timeout=300s resume=False
+[2026-07-21T11:29:16] Eval: disabled
+[2026-07-21T11:29:16] Output dir: data/results/kv_rag_classic_vector_20260721/qwen_q8_0
+[2026-07-21T11:29:16] START model=qwen3.6:35b-a3b variant=classic_vector collection=documents_embeddinggemma_300m_1000c_200ov
+[2026-07-21T11:38:02] OK model=qwen3.6:35b-a3b variant=classic_vector rows=120 duration=525.54s
+[2026-07-21T11:38:02] DONE ok=1 errors=0 merged_rows=120
+[2026-07-21T11:38:02] Merged CSV: data/results/kv_rag_classic_vector_20260721/qwen_q8_0/merged_results.csv
+[2026-07-21T11:38:02] Manifest: data/results/kv_rag_classic_vector_20260721/qwen_q8_0/manifest.csv

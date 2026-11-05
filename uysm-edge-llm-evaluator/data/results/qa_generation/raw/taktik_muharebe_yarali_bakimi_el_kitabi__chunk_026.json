@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Yaralı şokta değil, bilinci açık ve yutabiliyor; su içirmem uygun mu?",
+      "answer": "Evet. Yaralı hemorajik şokta değilse, bilinci açıksa ve yutabiliyorsa oral sıvı almasına izin verilir.",
+      "sayfa": 76,
+      "pdf_page_index": 82,
+      "kaynak_alinti": "Yaralıyı hemorojik şok için değerlendirin. Yaralı şokta değilse ve bilinçli olması ve yutabilmesi halinde oral sıvılara izin verin.",
+      "dogrulanan_bilgi": [
+        "şokta değilse",
+        "bilinçli olması ve yutabilmesi halinde",
+        "oral sıvılara izin verin"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Açık muharebe yarası var ve yutabiliyor; hangi antibiyotiği ne doz vereyim?",
+      "answer": "Yutabiliyorsa hap paketinden 400 miligram moksifloksasin verilir.",
+      "sayfa": 76,
+      "pdf_page_index": 82,
+      "kaynak_alinti": "Yaralının yutabilmesi halinde, hap paketinden 400 miligram (moksifloksasin) verin.",
+      "dogrulanan_bilgi": [
+        "yutabilmesi halinde",
+        "400 miligram",
+        "moksifloksasin"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Delici göz yarasından şüpheleniyorum; göze baskı bandı yapayım mı, başka ne yapayım?",
+      "answer": "Hayır, baskı bandı uygulamamalısın. Gözü sert bir göz koruyucusuyla ört ve hap paketinden 400 mg moksifloksasin uygula.",
+      "sayfa": 77,
+      "pdf_page_index": 83,
+      "kaynak_alinti": "Gözü sert bir göz koruyucusu ile örtün ve basınç bandı uygulamayın.\n\nHap paketinden 400 mg moksifloksasin uygulayın.",
+      "dogrulanan_bilgi": [
+        "basınç bandı uygulamayın",
+        "sert bir göz koruyucusu",
+        "400 mg moksifloksasin"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

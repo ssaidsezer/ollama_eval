@@ -1,0 +1,31 @@
+version: "3.9"
+
+services:
+  backend:
+    image: saidsezer/uysm-backend:latest
+    build:
+      context: .
+      dockerfile: "ui file/Dockerfile.backend"
+    env_file: .env
+    volumes:
+      - ./data:/app/data
+    networks:
+      - uysm-net
+    restart: unless-stopped
+
+  frontend:
+    image: saidsezer/uysm-frontend:latest
+    build:
+      context: .
+      dockerfile: "ui file/Dockerfile.frontend"
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    networks:
+      - uysm-net
+    restart: unless-stopped
+
+networks:
+  uysm-net:
+    driver: bridge

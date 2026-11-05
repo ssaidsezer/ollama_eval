@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Ateşten çıkıp taktik saha bakımına geçtiysem, yaralının bilinci değiştiyse ya da fentanil/ketamin aldıysa silahını ne yapmalıyım?",
+      "answer": "Bu durumda yaralının silahlarını almalısın. Sayfadaki yönlendirme, mental durum değiştiğinde veya fentanil ya da ketamin verildiğinde silahların alınmasını söylüyor.",
+      "sayfa": 46,
+      "pdf_page_index": 52,
+      "kaynak_alinti": "Yaralının mental durumu değiştiyse veya fentanil veya ketamine aldıysa yaralının silahlarını alın.",
+      "dogrulanan_bilgi": [
+        "mental durumu değiştiyse",
+        "fentanil veya ketamine aldıysa",
+        "yaralının silahlarını alın"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Muharebede yaralıya CPR başlayayım mı?",
+      "answer": "Genelde hayır. Bu sayfaya göre kardiyopulmoner resüsitasyon muharebede tipik olarak yapılmaz.",
+      "sayfa": 46,
+      "pdf_page_index": 52,
+      "kaynak_alinti": "Temel yaşam desteği (kardiyopulmoner resüsitasyon [CPR]) tipik olarak muharebede gerçekleştirilmez.",
+      "dogrulanan_bilgi": [
+        "kardiyopulmoner resüsitasyon [CPR]",
+        "tipik olarak muharebede gerçekleştirilmez"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Rol 2’ye ulaştığımızda orada ne tür ek imkanlar var, hasta ne kadar gözlenebilir?",
+      "answer": "Rol 2, Role 1’de başlayan resüsitasyonun devamı dahil gelişmiş travma yönetimi ve acil tedavi sağlar. Ek olarak kan ürünleri, sınırlı X-ışını, sınırlı laboratuvar, diş destek tedavisi, muharebe ve operasyonel stres kontrolü, koruyucu ilaç desteği bulunur; hasta da 72 saate kadar sınırlı şekilde gözlenebilir.",
+      "sayfa": 48,
+      "pdf_page_index": 54,
+      "kaynak_alinti": "JP 4-02'ye göre, bir Rol 2 tesisi, Role 1 bakımında başlatılan resüsitasyonun devam etmesi de dahil olmak üzere gelişmiş travma yönetimi ve acil tıbbi tedavi sağlar. Rol 2 tesisinin yetenekleri arasında kan ürünleri, sınırlı X-ışını, sınırlı laboratuvar, diş destek tedavisi, muharebe ve operasyonel stres kontrolü, koruyucu ilaç desteği ve 72 saat süreyle sınırlı hasta müşahade yer alır.",
+      "dogrulanan_bilgi": [
+        "kan ürünleri",
+        "sınırlı X-ışını",
+        "72 saat süreyle sınırlı hasta müşahade"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

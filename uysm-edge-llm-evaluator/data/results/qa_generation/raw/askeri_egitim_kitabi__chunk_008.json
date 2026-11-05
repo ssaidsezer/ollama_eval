@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "AKM’nin etkili atış özellikleri ne, mermi ve çıkış hızı kaç?",
+      "answer": "AKM, 7,62 x 39 mm mühimmat kullanır. Merminin çıkış hızı 715 m/sn’dir. Teorik atış hızı dakikada 600 mermi, ameli atış hızı ise dakikada 100 mermidir.",
+      "sayfa": 27,
+      "pdf_page_index": 27,
+      "kaynak_alinti": "Mermisi: 7,62 x 39 mm\nMerminin çıkış hızı: 715 m/sn\nDakikada teorik atışı: 600 mermi\nDakikada ameli atışı: 100 mermi",
+      "dogrulanan_bilgi": [
+        "7,62 x 39 mm",
+        "715 m/sn",
+        "600 mermi"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "AK-47 ile AKM arasında menzil levhası farkı neydi?",
+      "answer": "Bu iki modelde atış levhası farklıdır: AK-47’nin atış levhası 800 metreyi gösterirken, AKM’nin atış levhası 1000 metreyi gösterir.",
+      "sayfa": 26,
+      "pdf_page_index": 26,
+      "kaynak_alinti": "Atış levhası 800 m mesafeyi gösterir.\nAtış levhası 1000 m mesafeyi gösterir.",
+      "dogrulanan_bilgi": [
+        "800 m",
+        "1000 m"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "karsilastirma",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Silahı söküm durumuna aldıktan sonra emniyet için ilk ne yapmalıyım?",
+      "answer": "Silah söküm vaziyetine alındıktan sonra oturarak ya da masa üzerinde, namlu havaya ve dipçik yere gelecek şekilde silahı sol elle tutmalısın. Sonra sağ elin serçe parmağıyla şarjörü çıkarmalısın. Ardından emniyeti açıp mekanizma kolunu iki kez çekip bırakır ve tetiği düşürürsün.",
+      "sayfa": 28,
+      "pdf_page_index": 28,
+      "kaynak_alinti": "Silah söküm vaziyeti alındıktan sonra oturarak veya masa üzerinde, namlu havaya ve dipçik yere gelmek şartıyla silah sol elle tutulur. Sağ elin serçe parmağı ile şarjör çıkartılır. Daha sonra emniyet açılarak mekanizma kolu iki defa çekilip bırakılır ve tetik düşürülür.",
+      "dogrulanan_bilgi": [
+        "namlu havaya ve dipçik yere",
+        "şarjör çıkartılır",
+        "iki defa çekilip bırakılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

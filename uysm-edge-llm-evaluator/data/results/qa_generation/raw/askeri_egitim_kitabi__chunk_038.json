@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Bir patlayıcıyı ilk ne tetikleyebilir, temel sebepler neler?",
+      "answer": "Metne göre patlayıcıyı harekete geçiren başlıca sebepler hararet, darbe, ani yüksek sıcaklık ve basınç ile kimyasal reaksiyondur.",
+      "sayfa": 118,
+      "pdf_page_index": 118,
+      "kaynak_alinti": "Patlama Sebebi: Patlayıcı maddeyi harekete geçiren sebeplerdir.\n• Hararet: Fitille, sürtünmeyle, darbeyle, elektrikle, iğneyle sağlanabilir.\n• Darbe: Vurmayla, iğneyle, fünye ve korteksle sağlanabilir.\n• Ani yüksek sıcaklık ve basınç: Fünye, korteks veya ara patlayıcıyla sağlanır.\n• Kimyasal Reaksiyon: Patlayıcıyı tepkimeye sokacak maddeyle sağlanır.",
+      "dogrulanan_bilgi": [
+        "Hararet",
+        "Darbe",
+        "Ani yüksek sıcaklık ve basınç"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Basıncı belli bir yöne vermek istiyorsam patlamada yönlendirme mantığı ne?",
+      "answer": "Basınç, patlamanın ilk oluştuğu yerin ters yönüne gider ve en zayıf bulduğu yerlerden çıkmaya çalışır. Yönlendirme mantığı bunun üzerine kuruludur.",
+      "sayfa": 118,
+      "pdf_page_index": 118,
+      "kaynak_alinti": "Patlayıcılarda Yönlendirme\nBasınç, patlamanın ilk gerçekleştiği yerden zıt yöne doğru olur ve en zayıf yerlerden çıkmaya çalışır.",
+      "dogrulanan_bilgi": [
+        "zıt yöne doğru olur",
+        "en zayıf yerlerden çıkmaya çalışır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Hassas, ara ve ana patlayıcı arasındaki fark ne, görevleri ne oluyor?",
+      "answer": "Hassas patlayıcı ısıya, darbeye ve sürtünmeye duyarlıdır; kapsül ve fünye içinde kullanılır ve görevi şiddetli patlayıcıyı patlatmaktır. Ara patlayıcı yarı hassastır, darbeyle patlar ve ana patlayıcıyı patlatmak için kullanılır. Ana patlayıcının görevi ise sistemde tahrip etkisini oluşturmaktır.",
+      "sayfa": 118,
+      "pdf_page_index": 118,
+      "kaynak_alinti": "• Etken (Hassas) Patlayıcılar: Isıya, darbeye, sürtünmeye hassastır. Kapsül ve fünyenin içinde kullanılır. Görevi şiddetli patlayıcıyı patlatmaktır. Nemden etkilenir. Kurşun azid ve civa fluminat en çok kullanılan çeşitleridir.\n• Ara (Şiddetli) Patlayıcılar: Yarı hassastır. Darbeyle patlar. Görevi ana patlayıcıyı patlatmaktır. Fünye ve korteks yapımında kullanılır. Nemden etkilenir. RDX, Petin kullanılır.\n• Ana Patlayıcılar: Patlama sistemindeki görevi tahrip etmektedir. C–4, TNT, Dinamit vb.",
+      "dogrulanan_bilgi": [
+        "Görevi şiddetli patlayıcıyı patlatmaktır",
+        "Görevi ana patlayıcıyı patlatmaktır",
+        "Patlama sistemindeki görevi tahrip etmektedir"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "karsilastirma",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

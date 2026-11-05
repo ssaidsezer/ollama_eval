@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Göğsünde emici yara var, elimde havalandırmalı kapama yoksa ne yapayım?",
+      "answer": "Açık ya da emici göğüs yarasını yine kapatmalısın. Havalandırmalı göğüs kapaması yoksa havalandırmasız bir göğüs kapaması kullan. Geçici olarak çıkarma; solunum sıkıntısı düzelmezse sağlık personeline başvur.",
+      "sayfa": 43,
+      "pdf_page_index": 49,
+      "kaynak_alinti": "Tüm açık ve / veya emici göğüs yaraları tedavi edilmelidir:\n* Derhal defektin kapatılması için havalandırmalı göğüs kapaması uygulanmalıdır.\n* Havalandırmalı göğüs kapaması mevcut değilse, havalandırmasız bir göğüs kapaması kullanın.\n* Geçici olarak çıkartmayın. Bu, solunum sıkıntısını ortadan kaldırmazsa sağlık personeline başvurun.",
+      "dogrulanan_bilgi": [
+        "havalandırmasız bir göğüs kapaması",
+        "Geçici olarak çıkartmayın",
+        "solunum sıkıntısını ortadan kaldırmazsa sağlık personeline başvurun"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Yaralı üşüyor ve hipotermi riski var, sahada neyle ısıyı koruyayım?",
+      "answer": "Çevresel maruziyeti azaltıp ısı tutulmasını sağlamalısın. Varsa TCCC Komitesi onaylı hipotermi önleme kiti kullan. Yoksa kuru battaniye, panço, uyku tulumu ya da yaralıyı ılık ve kuru tutacak benzer bir şey kullan.",
+      "sayfa": 44,
+      "pdf_page_index": 50,
+      "kaynak_alinti": "Yaralının çevresel maruziyetini en aza indirin ve ısı tutulumunu sağlayın.\nVarsa TCCC Komitesi onaylı hipotermi önleme kiti kullanın.\nHipotermi önleme kiti mevcut değilse, kuru battaniyeler, pançolar, uyku tulumları veya ısıyı tutacak ve yaralıyı ılık ve kuru tutacak herhangi bir şey kullanın.",
+      "dogrulanan_bilgi": [
+        "TCCC Komitesi onaylı hipotermi önleme kiti",
+        "kuru battaniyeler, pançolar, uyku tulumları",
+        "yaralıyı ılık ve kuru tutacak"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Ateş altındayken yaralıya ilk tıbbi önceliğim ne olmalı?",
+      "answer": "Ateş altında bakımda ilk tıbbi öncelik masif ekstremite kanamasını kontrol etmektir. Bu aşamada tahliye öncesi turnike uygulaması birincil hedeftir ve yaralanma noktasında yapılacak en önemli müdahaledir.",
+      "sayfa": 2,
+      "pdf_page_index": 51,
+      "kaynak_alinti": "İyi Tıp: Masif (Ağır) Kanamalar. AAB sırasında tahliye öncesi turnike uygulanırken ekstremite kanamasının kontrol edilmesi birincil medikal hedeftir. Bir turnike, yaralanma noktasında yapılacak en önemli tıbbi müdahale (YN).",
+      "dogrulanan_bilgi": [
+        "Masif (Ağır) Kanamalar",
+        "ekstremite kanamasının kontrol edilmesi birincil medikal hedeftir",
+        "Bir turnike, yaralanma noktasında yapılacak en önemli tıbbi müdahale"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": "Etikette SAYFA 2 yazıyor, ancak sayfa altındaki basılı numara 45 görünüyor."
+    }
+  ]
+}

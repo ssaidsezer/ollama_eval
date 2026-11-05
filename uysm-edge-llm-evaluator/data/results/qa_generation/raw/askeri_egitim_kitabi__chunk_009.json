@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Silahı ne zaman genel söküme sokmam gerekir?",
+      "answer": "Genel söküm; eğitim amacıyla, atış eğitimi bittikten sonra genel temizlik için, silah suya ya da toza maruz kaldığında ve depodan ilk alındığında gresini temizlemek için yapılır.",
+      "sayfa": 30,
+      "pdf_page_index": 30,
+      "kaynak_alinti": "Genel söküm eğitim için yapılır.\nAtış eğitiminin bitiminden sora genel temizlik için.\nSuya veya toza maruz kaldığında.\nDepodan ilk alındığında gresi temizlemek için.",
+      "dogrulanan_bilgi": [
+        "eğitim için",
+        "suya veya toza maruz kaldığında",
+        "depodan ilk alındığında gresi temizlemek için"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Kurma kolu geri gelmiyorsa ilk hangi arızalara bakayım?",
+      "answer": "Önce gaz borusu ve beden kapağında ezilme olup olmadığına bakılır. Ayrıca iğne tertibatının dönerek bedenden açıldığı yataklar genişlemiş olabilir; bu durumda iğne bedenden açılamaz. Hareketli parçanın kaydığı beden dudakları ezilmiş, piston başı eğrilip piston borusuna takılmış ya da şarjörde ezilme olup yay çalışmadığı için hareketli parçanın geri gelişi engellenmiş olabilir.",
+      "sayfa": 31,
+      "pdf_page_index": 31,
+      "kaynak_alinti": "Gaz borusunda ve beden kapağında ezilme olabilir.\nİğne tertibatının dönerek, bedenden açıldığı yataklar genişlemiş olabilir. İğneyi bedenden açamaz.\nHareketli parçanın üzerinde kaydığı bedenin dudakları ezilmiş olabilir.\nPiston başı eğrilmiş olabilir piston borusuna takılır\nŞarjörde ezilme olabilir. Yay çalışmaz, hareketli parçayı engeller ve geri gelmesine mani olur.",
+      "dogrulanan_bilgi": [
+        "Gaz borusunda ve beden kapağında ezilme olabilir",
+        "İğne tertibatının dönerek, bedenden açıldığı yataklar genişlemiş olabilir",
+        "Şarjörde ezilme olabilir"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Aksam ileri gitmiyorsa muhtemel sebep ne olabilir?",
+      "answer": "Bunun birkaç muhtemel nedeni var: mekanizma yayı zayıflamış olabilir; horoz emniyet kol yayının kırılması emniyetin çalışmamasına yol açabilir; horozda veya emniyet kolunda aşınma varsa horoz arkada tutulamaz ve aksamın ileri gidişi engellenir; ayrıca şarjör dudakları ezilmişse iğne tertibatı mermiyi şarjörden sökemeyip takılabilir.",
+      "sayfa": 31,
+      "pdf_page_index": 31,
+      "kaynak_alinti": "Mekanizma yayı zayıflamış olabilir.\nHoroz emniyet kol yayı kırılmış olup bu emniyeti çalıştırmayabilir.\nHorozda veya emniyet kolunda aşınma olup horozu arkada tutamaz ve öylece horoz aksamın ileri gidişini engeller.\nŞarjör dudaklarında ezilme olup iğne tertibatı mermiyi şarjörden sökemeyip takılır.",
+      "dogrulanan_bilgi": [
+        "Mekanizma yayı zayıflamış olabilir",
+        "Horoz emniyet kol yayı kırılmış olup bu emniyeti çalıştırmayabilir",
+        "Şarjör dudaklarında ezilme olup iğne tertibatı mermiyi şarjörden sökemeyip takılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Patlayıcıya bağlı bacak ampütasyonunda pelvisi de düşünmem gerekir mi, ne öneriliyor?",
+      "answer": "Evet. Alt ekstremite ampütasyonuna yol açan patlayıcı ya da mayın yaralanmalarında enerji yukarı doğru ilerleyebileceği için pelvik bozukluk ve iç kanama riski akılda tutulmalı. Bu durumda kasık bölgesindeki arter kanamasını kontrol etmek ve pelvisi sabitlemek için junctional turnike kullanılmalı.",
+      "sayfa": 4,
+      "pdf_page_index": 10,
+      "kaynak_alinti": "Tıbbi personel pelvik bozukluklara ve göz yaralanmalarına dikkat etmelidir. Alt ekstremite amputasyonuna neden olan ( patlayıcı, mayın vs.) enerji vücutta yukarı yönde hareket eder ve potansiyel olarak daha fazla kemik bütünlüğü bozulması, organ yaralanması veya iç kanamaya neden olur. İlk müdahale personeli kasık noktalarındaki arterlerden kanamayı kontrol etmek ve pelvisi sabitlemek için junctional turnikeyi kullanmalıdır.",
+      "dogrulanan_bilgi": [
+        "enerji vücutta yukarı yönde hareket eder",
+        "iç kanamaya neden olur",
+        "junctional turnikeyi kullanmalıdır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Delici göz yaralanması şüphesinde göze bastırayım mı, bir de hangi antibiyotiği vermem lazım?",
+      "answer": "Hayır, böyle bir gözde basınçlı pansuman yapmamalısın. Enfeksiyonu önlemek için de en kısa zamanda ağızdan 400 mg moksifloksasin verilmesi öneriliyor.",
+      "sayfa": 4,
+      "pdf_page_index": 10,
+      "kaynak_alinti": "Gözle görülür delici göz travması vakalarında, müdahaleciler şunları yapmalıdır: 1) Görme keskinliği için hızlı bir alan testi yapmak; 2) Göze daha fazla travmayı önlemek için göze sert bir kalkan yapıştırmak ve 3) Göz içindeki enfeksiyonu önlemek için en kısa zamanda moksifloksasin, 400 mg, ağız yoluyla vermek. Şüphe duyulan delici bir yaralanması olan göze asla basınçlı pansuman uygulamayın.",
+      "dogrulanan_bilgi": [
+        "400 mg",
+        "ağız yoluyla",
+        "asla basınçlı pansuman uygulamayın"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Ateş altındayım, turnikeyi ilk anda nereye koyayım?",
+      "answer": "Ateş altında bakımda turnikeyi mümkün olduğunca ekstremitede yüksek bir yere yerleştirmelisin. Bu, acele turnike uygulaması olarak tarif ediliyor.",
+      "sayfa": 5,
+      "pdf_page_index": 11,
+      "kaynak_alinti": "Adım 1. Ateş altında bakım aşamasında mümkün olduğunca turnikeyi ekstremitede yüksek yere yerleştirin. Bu acele turnike uygulamasıdır.",
+      "dogrulanan_bilgi": [
+        "Ateş altında bakım aşamasında",
+        "ekstremitede yüksek yere",
+        "acele turnike uygulamasıdır"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

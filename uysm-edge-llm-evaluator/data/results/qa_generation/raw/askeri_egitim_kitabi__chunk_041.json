@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Araçlara karşı kullanılan mayınlar genelde ne kadar patlayıcı taşır ve nasıl etki eder?",
+      "answer": "Araçlara karşı kullanılan anti-tank mayınları genelde 5–10 kg patlayıcı içerir ve basınç etkisiyle çalışır.",
+      "sayfa": 125,
+      "pdf_page_index": 125,
+      "kaynak_alinti": "Anti-tank mayınlar araçlara karşı kullanılır. 5–10 kg arası patlayıcı içerirler. Basınç etkisi gösterirler.",
+      "dogrulanan_bilgi": [
+        "5–10 kg arası patlayıcı",
+        "Basınç etkisi"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Bir bölgede mayın arayacaksam zeminde özellikle neye bakayım?",
+      "answer": "Mayın ararken daha önce belirtilen şüpheli yerlere ek olarak yeşillik içinde kuru ot, toprak üstünde renk değişikliği ve yağmurdan sonra toprakta değişiklik olup olmadığına bakılır.",
+      "sayfa": 126,
+      "pdf_page_index": 126,
+      "kaynak_alinti": "Mayın Nerelerde Aranır?\n• Yukarıdaki yerlerde\n• Yeşillik alanlarda kuru ot varsa\n• Toprak üstünde renk değişikliği varsa\n• Yağmur sonrası toprakta değişiklik varsa",
+      "dogrulanan_bilgi": [
+        "Yeşillik alanlarda kuru ot",
+        "Toprak üstünde renk değişikliği",
+        "Yağmur sonrası toprakta değişiklik"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Basmalı olmayan bir mayını gömerken üstünü ne kadar kapatmalı ve taşları hangi aralıkla koymalıyım?",
+      "answer": "Metne göre mayının üstü yüzeyden en az 5 cm aşağıda olmalı. Basmalı değilse korteks yolu açılır ve korteksin kalkmaması için her 15–20 cm'ye bir taş konur.",
+      "sayfa": 127,
+      "pdf_page_index": 127,
+      "kaynak_alinti": "• Mayının üstü yüzeyden en az 5 cm altta olmalıdır.\n• Mayın basmalı değilse korteks yolu açılır.\n• Her 15–20 cm'ye bir taş konulur. Korteks kalkmasın diye.",
+      "dogrulanan_bilgi": [
+        "en az 5 cm altta",
+        "Her 15–20 cm'ye bir taş",
+        "Mayın basmalı değilse korteks yolu açılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

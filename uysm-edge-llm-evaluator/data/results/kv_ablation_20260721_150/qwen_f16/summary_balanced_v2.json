@@ -1,0 +1,82 @@
+{
+  "rubric": "balanced-v2",
+  "eval_model": "gpt-5.4-mini",
+  "reasoning_effort": "high",
+  "counts": {
+    "total": 150,
+    "successful": 150,
+    "failed": 0
+  },
+  "evaluation": {
+    "correctness_score_mean": 3.5866666666666664,
+    "completeness_score_mean": 2.7,
+    "groundedness_score_mean": 2.9466666666666668,
+    "verdicts": {
+      "partial": 45,
+      "fail": 88,
+      "pass": 17
+    },
+    "hallucination_risk": {
+      "medium": 37,
+      "high": 84,
+      "low": 29
+    },
+    "answerable": {
+      "count": 140,
+      "correctness_score_mean": 3.7214285714285715,
+      "completeness_score_mean": 2.8785714285714286,
+      "groundedness_score_mean": 3.142857142857143
+    },
+    "unanswerable": {
+      "count": 10,
+      "grounded_refusal_accuracy": 0.0,
+      "hallucination_rate": 1.0
+    }
+  },
+  "inference": {
+    "wall_time_seconds": {
+      "mean": 3.2543485866666666,
+      "median": 3.1949875,
+      "p50": 3.175666,
+      "p95": 5.202359,
+      "p99": 5.646159
+    },
+    "prompt_ms": {
+      "mean": 440.71430666666663,
+      "median": 439.9865,
+      "p50": 439.876,
+      "p95": 457.52,
+      "p99": 466.022
+    },
+    "generation_ms": {
+      "mean": 2534.0238466666665,
+      "median": 2499.3705,
+      "p50": 2475.879,
+      "p95": 4459.758,
+      "p99": 5015.617
+    },
+    "prompt_tokens_per_second": {
+      "mean": 328.92810176109555,
+      "median": 329.09938104757157,
+      "p50": 329.0007391249482,
+      "p95": 346.2064032135291,
+      "p99": 356.103300922772
+    },
+    "generation_tokens_per_second": {
+      "mean": 37.6130482717524,
+      "median": 37.624726386768316,
+      "p50": 37.624376528490295,
+      "p95": 38.243392718458026,
+      "p99": 38.77301501549628
+    },
+    "measured_wall_time_seconds_total": 488.152288
+  },
+  "cache": {
+    "cached_tokens_total": 0,
+    "prompt_tokens_total": 21747,
+    "cached_token_ratio": 0.0
+  },
+  "tokens": {
+    "completion_total": 14251
+  }
+}

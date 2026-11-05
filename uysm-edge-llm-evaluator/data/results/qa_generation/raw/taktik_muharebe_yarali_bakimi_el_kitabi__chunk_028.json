@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Ateş altındayım, yaralıda kol-bacak kanaması var; ilk ne yapmalıyım?",
+      "answer": "Ateş altında bakımda, taktik olarak mümkünse hayatı tehdit eden dış kanamayı durdurmalısın. Ekstremite kanaması varsa TCCC Komitesinin önerdiği turnikeyi kullanıp ardından yaralıyı tahliye etmelisin.",
+      "sayfa": 83,
+      "pdf_page_index": 89,
+      "kaynak_alinti": "Taktiksel olarak mümkünse hayati tehdit eden dış kanamaları durdurun.\nMümkünse yaralının kanamasını kendi kendisine durdurması için yönlendirin.\nBir ekstremite kanaması için TCCC Komitesi tarafından önerilen turnike kullanın.\nYaralıyı tahliye edin.",
+      "dogrulanan_bilgi": [
+        "hayati tehdit eden dış kanamaları durdurun",
+        "Bir ekstremite kanaması için TCCC Komitesi tarafından önerilen turnike kullanın",
+        "Yaralıyı tahliye edin"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Üniforma üstüne takılmış turnikeyi düzeltmem gerekirse, yaraya ne kadar yakına almalıyım?",
+      "answer": "Üniforma üzerine uygulanmış turnikeyi, doğrudan yaranın 5-7.5 cm üzerine cilde uygulanacak bir turnike ile değiştirmelisin.",
+      "sayfa": 84,
+      "pdf_page_index": 90,
+      "kaynak_alinti": "Üniforma üzerine uygulanmış turnikeyi doğrudan yaranın 5-7.5 cm üzerine cilde uygulanacak turnike ile değiştirin.",
+      "dogrulanan_bilgi": [
+        "5-7.5 cm",
+        "cilde uygulanacak turnike"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Bilinci kapalı ama hava yolu tıkalı görünmeyen yaralıda hava yolunu nasıl yöneteyim?",
+      "answer": "Hava yolu tıkanıklığı olmayan bilinçsiz yaralıda çene itme/çene kaldırma manevrası yapmalı, nazofaringeal havayolu yerleştirmeli ve yaralıyı kurtarma pozisyonuna getirmelisin.",
+      "sayfa": 84,
+      "pdf_page_index": 90,
+      "kaynak_alinti": "Hava yolu tıkanıklığı olmayan bilinçsiz bir yaralı için aşağıdakileri yapın:\n*Çene itme / çene kaldırma manevrası.\n*Nazofaringeal havayolu (NPA).\n*Yaralıyı kurtarma pozisyonuna getirin.",
+      "dogrulanan_bilgi": [
+        "Çene itme / çene kaldırma manevrası",
+        "Nazofaringeal havayolu (NPA)",
+        "Yaralıyı kurtarma pozisyonuna getirin"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

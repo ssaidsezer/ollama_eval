@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Yaralıyı üst bakım seviyesine çıkaracağız; tıbbi tahliye ile tıbbi düzenleme arasındaki fark ne?",
+      "answer": "Tıbbi tahliye, yaralının toplanması, ayrıştırılması, taşınması ve bakımının yolda sürdürülmesiyle ilgilidir; hastayı alt seviyeden daha yüksek bakım seviyesine götürür. Tıbbi düzenleme ise tahliye edilen hastaların koordinasyon ve kontrolünü yapar; uygun hastaneye sevki, uygun yatağın bulunması ve ulaşımın koordine edilmesini sağlar.",
+      "sayfa": 115,
+      "pdf_page_index": 121,
+      "kaynak_alinti": "Tıbbi tahliye (MEDEVAC) ve tıbbi düzenleme, yolda tıbbi bakımın toplanması, ayrıştırılması, taşınması ve sağlanması ile ilgilidir. Hastalar alt seviyeden daha yüksek bakım seviyesine tahliye edilir.\n\nTıbbi düzenleme, gerekli özel bakımı sağlayabilen askeri tedavi tesislerine (MTF'ler) tahliye edilen hastaların koordinasyonu ve kontrolüdür. Bu sistem, hastaların rahat ve güvenli bir şekilde tahliye edilmesini sağlamak, tahliyeyi bekleyen hastalar tespit edilmesi, mevcut yatakların bulunması ve ulaşımda kullanılacak ulaşım araçlarının koordine edilmesi için tasarlanmıştır.",
+      "dogrulanan_bilgi": [
+        "alt seviyeden daha yüksek bakım seviyesine tahliye edilir",
+        "hastaların koordinasyonu ve kontrolüdür",
+        "mevcut yatakların bulunması"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "karsilastirma",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Seviye III ve IV bakımda hastaları kim yatırıp takip eder?",
+      "answer": "Seviye III ve Seviye IV bakımda hospitalizasyon MTF'ler tarafından sağlanır. Ayrıca muharebe destek hastaneleri tüm hasta sınıflarına bakım verecek şekilde donatılmıştır.",
+      "sayfa": 116,
+      "pdf_page_index": 122,
+      "kaynak_alinti": "MTF'ler tarafından Seviye III ve Seviye IV bakımında hospitalizasyon sağlanır ve muharebe destek hastaneleri tarafından tüm hasta sınıflarına bakım sağlamak için donatılmıştır.",
+      "dogrulanan_bilgi": [
+        "Seviye III",
+        "Seviye IV",
+        "MTF'ler tarafından hospitalizasyon sağlanır"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Operasyonda tıbbi komuta tarafında komuta cerrahının temel işi ne oluyor?",
+      "answer": "Her komuta seviyesinde bir komuta cerrahı belirlenir. Bu kişi AHS misyonunu planlayıp yürütür, tüm tıbbi işlevlerin çalışma tahminleri, operasyon planları ve emirlerde dikkate alınmasını sağlar ve AHS operasyonlarının teknik denetimini elinde tutar.",
+      "sayfa": 117,
+      "pdf_page_index": 123,
+      "kaynak_alinti": "Her komuta seviyesinde bir komuta cerrahı belirlenir. Bu AMEDD subayı, Ordu Sağlık Sistemi (AHS) misyonunu planlamak ve yürütmekle görevli özel bir subaydır.\n\nKomuta cerrahı, tüm tıbbi işlevlerin göz önünde bulundurulmasından, çalışma tahminlerine, operasyon planlarına ve operasyon emirlerine dahil edilmesinden sorumludur. Komuta cerrahı tüm AHS operasyonlarının teknik denetimini elinde tutar.",
+      "dogrulanan_bilgi": [
+        "Her komuta seviyesinde bir komuta cerrahı belirlenir",
+        "AHS misyonunu planlamak ve yürütmekle görevli",
+        "tüm AHS operasyonlarının teknik denetimini elinde tutar"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

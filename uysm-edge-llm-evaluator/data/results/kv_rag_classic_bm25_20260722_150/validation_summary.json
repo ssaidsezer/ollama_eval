@@ -1,0 +1,49 @@
+{
+  "status": "complete",
+  "benchmark": "fixed-150 engineering benchmark",
+  "input_csv": "data/qa/final_qa_150.csv",
+  "input_csv_sha256": "4d31136d33b2cc4de174e646bbf14cc6b8432aac4819913e09decd1c0d93e121",
+  "git_head": "9a69cf3830b9fa48bad14f2d169d4fa028867c65",
+  "model": "gemma4:26b-a4b",
+  "weights": "Q4_K_M",
+  "kv_conditions": ["f16", "q8_0", "q4_0"],
+  "rag": {
+    "enabled": true,
+    "prompt_enabled": true,
+    "prompt_builder": "prompts.build_rag_prompt",
+    "prompt_file_sha256": "676ff44bf9ccfba9f03d931f689ea876e1d9a5461a1b2388b462bd98e8e9079d",
+    "variant": "classic_bm25",
+    "collection": "documents_embeddinggemma_300m_1000c_200ov",
+    "configured_k": 10,
+    "actual_chunks_per_question": 10,
+    "retrieved_chunks_saved": true,
+    "chunk_sources_saved": true,
+    "chunk_payload_sha256": "d8a49f49fcae8ccf78698c4142aa0002a192c41c8ba2ebbc8ff11c360ba25d42",
+    "chunk_payloads_identical_across_conditions": true
+  },
+  "generation": {
+    "temperature": 0,
+    "max_tokens": 512,
+    "context_size": 32768,
+    "parallel": 1,
+    "flash_attention": true,
+    "prompt_cache": false
+  },
+  "counts": {
+    "questions_per_condition": 150,
+    "conditions": 3,
+    "successful_rows": 450,
+    "failed_rows": 0,
+    "saved_chunks": 4500
+  },
+  "inference": {
+    "gemma_f16": {"mean_seconds": 6.080, "p95_seconds": 7.532, "mean_tokens_per_second": 32.28},
+    "gemma_q8_0": {"mean_seconds": 6.208, "p95_seconds": 7.663, "mean_tokens_per_second": 31.33},
+    "gemma_q4_0": {"mean_seconds": 6.181, "p95_seconds": 7.811, "mean_tokens_per_second": 30.63}
+  },
+  "evaluation": {
+    "performed": false,
+    "note": "Inference and retrieval evidence were saved first; answer-quality evaluation remains pending."
+  },
+  "server_stopped": true
+}

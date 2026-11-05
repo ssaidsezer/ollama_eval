@@ -1,0 +1,32 @@
+[2026-07-21T11:03:16] CSV: data/csv/rag_blind_test_120_gold.csv
+[2026-07-21T11:03:16] Fallback collection: rag_ablation
+[2026-07-21T11:03:16] Classic collection: documents_embeddinggemma_300m_1000c_200ov
+[2026-07-21T11:03:16] Smart collection: rag_ablation
+[2026-07-21T11:03:16] Models: qwen3.6:35b-a3b
+[2026-07-21T11:03:16] QA backend: llamacpp base_url=http://127.0.0.1:8084/v1
+[2026-07-21T11:03:16] Variants: classic_vector
+[2026-07-21T11:03:16] Ollama limits: timeout=300s num_predict=512
+[2026-07-21T11:03:16] Sampling: temperature=0.0 seed=42 embedding_timeout=300s resume=False
+[2026-07-21T11:03:16] Eval: disabled
+[2026-07-21T11:03:16] Output dir: data/results/kv_rag_classic_vector_20260721/qwen_f16
+[2026-07-21T11:03:16] START model=qwen3.6:35b-a3b variant=classic_vector collection=documents_embeddinggemma_300m_1000c_200ov
+[2026-07-21T11:03:34] OK model=qwen3.6:35b-a3b variant=classic_vector rows=120 duration=18.22s
+[2026-07-21T11:03:34] DONE ok=1 errors=0 merged_rows=120
+[2026-07-21T11:03:34] Merged CSV: data/results/kv_rag_classic_vector_20260721/qwen_f16/merged_results.csv
+[2026-07-21T11:03:34] Manifest: data/results/kv_rag_classic_vector_20260721/qwen_f16/manifest.csv
+[2026-07-21T11:04:40] CSV: data/csv/rag_blind_test_120_gold.csv
+[2026-07-21T11:04:40] Fallback collection: rag_ablation
+[2026-07-21T11:04:40] Classic collection: documents_embeddinggemma_300m_1000c_200ov
+[2026-07-21T11:04:40] Smart collection: rag_ablation
+[2026-07-21T11:04:40] Models: qwen3.6:35b-a3b
+[2026-07-21T11:04:40] QA backend: llamacpp base_url=http://127.0.0.1:8084/v1
+[2026-07-21T11:04:40] Variants: classic_vector
+[2026-07-21T11:04:40] Ollama limits: timeout=300s num_predict=512
+[2026-07-21T11:04:40] Sampling: temperature=0.0 seed=42 embedding_timeout=300s resume=True
+[2026-07-21T11:04:40] Eval: disabled
+[2026-07-21T11:04:40] Output dir: data/results/kv_rag_classic_vector_20260721/qwen_f16
+[2026-07-21T11:04:40] START model=qwen3.6:35b-a3b variant=classic_vector collection=documents_embeddinggemma_300m_1000c_200ov
+[2026-07-21T11:13:15] OK model=qwen3.6:35b-a3b variant=classic_vector rows=120 duration=514.51s
+[2026-07-21T11:13:15] DONE ok=1 errors=0 merged_rows=120
+[2026-07-21T11:13:15] Merged CSV: data/results/kv_rag_classic_vector_20260721/qwen_f16/merged_results.csv
+[2026-07-21T11:13:15] Manifest: data/results/kv_rag_classic_vector_20260721/qwen_f16/manifest.csv

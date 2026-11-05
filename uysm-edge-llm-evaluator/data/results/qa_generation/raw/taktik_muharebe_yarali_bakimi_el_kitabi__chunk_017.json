@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "İleri resüsitasyon ve cerrahi ekip sahada bana ne kadar ameliyat kapasitesi sağlar?",
+      "answer": "FRST, günde en fazla 10 vaka ve toplam 30 operasyon kapasitesi sağlar. Bu ekip, alanda hasar kontrol ve cerrahi destek vermek için yapılandırılmıştır.",
+      "sayfa": 49,
+      "pdf_page_index": 55,
+      "kaynak_alinti": "FRST, tugay muharebe ekibine alanda hasar kontrol ve cerrahi destek sağlar. Bu 20 kişilik ekipteki iki ortopedi cerrahı, iki genel cerrah, iki anestezi uzmanı, iki acil hekimi, acil servis ve yoğun bakım hemşiresi ve teknisyenini kullanarak hızlıca yapılabilen, anında hasar kontrol ameliyatı kabiliyeti sağlamaktadır. FRST, günde en fazla 10 vaka ve toplam 30 operasyon için iki çalışma masasından oluşur.",
+      "dogrulanan_bilgi": [
+        "günde en fazla 10 vaka",
+        "toplam 30 operasyon"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Bir yaralı kabul ve tedavi gemisinde yaklaşık kaç yatak ve ameliyathane olur?",
+      "answer": "CRTS'de 45 koğuş yatağı ve 4 ameliyathane bulunur. Ayrıca yoğun bakım desteği de vardır.",
+      "sayfa": 50,
+      "pdf_page_index": 56,
+      "kaynak_alinti": "Gemiler, 45 koğuş yatağı, dört ameliyathane (bir cerrah, bir sertifikalı kayıtlı anestezi hemşiresi, bir yoğun bakım hemşiresi, bir ameliyathane hemşiresi, bir genel sağlık memuru ve 12 destek personeli) ve yoğun bakım ünitesini destekleyen 17 yatağa 176 tıbbi personele sahiptir.",
+      "dogrulanan_bilgi": [
+        "45 koğuş yatağı",
+        "dört ameliyathane"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Deniz sefer gücündeki cerrahi birim 3 gün boyunca kaç yatakla çalışabiliyor?",
+      "answer": "SC, 72 saat boyunca 20 yatak kapasitesiyle çalışabilir. Buna ek olarak taşınabilir dijital X-ışını ile minimal laboratuvar ve kan bankası imkânı da vardır.",
+      "sayfa": 51,
+      "pdf_page_index": 57,
+      "kaynak_alinti": "Bir SC'nin 72 saat boyunca 20 yatak kapasitesi, taşınabilir dijital X-ışını ve minimal laboratuvar ve kan bankası kabiliyeti vardır.",
+      "dogrulanan_bilgi": [
+        "72 saat boyunca",
+        "20 yatak kapasitesi"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

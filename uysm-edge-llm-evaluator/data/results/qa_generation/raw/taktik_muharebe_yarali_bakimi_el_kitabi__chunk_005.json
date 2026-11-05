@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Kriko sırasında tüpü ne kadar içeri sürmeliyim, sağ ana bronşa kaçırmamak için?",
+      "answer": "Tüpü trakeaya sadece 5-7 cm ilerletmelisin. Daha derine gitmek sağ ana kök bronşa entübasyon riskini artırır.",
+      "sayfa": 13,
+      "pdf_page_index": 19,
+      "kaynak_alinti": "Tüpü açıklıktan akciğerlere doğru yerleştirin. Sağ ana kök bronş entübasyonunu önlemek için tüpü trakeaya sadece 5-7 cm arasında ilerletin.",
+      "dogrulanan_bilgi": [
+        "5-7 cm",
+        "Sağ ana kök bronş entübasyonunu önlemek"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Kriko sonrası tek tarafta nefes sesi alıyorum; tüpü tamamen çıkarayım mı, ne yapayım?",
+      "answer": "Hayır, tüpü tamamen çıkarma. Tek taraflı nefes sesi ve göğsün bir tarafının kalkması ana kök bronş entübasyonunu düşündürür; tüpü 2-3 cm geri çekip yerleşimi yeniden doğrulamalısın.",
+      "sayfa": 13,
+      "pdf_page_index": 19,
+      "kaynak_alinti": "Tek taraflı nefes sesleri ve göğsün bir tarafının alçalıp yükselmesi ana kök bronş entübasyonunu gösterir. Tüpü 2 ile 3 cm arasında geri çekerek yerleşimi doğrulayın. Tüpü yaralının boynundan tamamen çıkartmayın.",
+      "dogrulanan_bilgi": [
+        "ana kök bronş entübasyonu",
+        "2 ile 3 cm",
+        "tamamen çıkartmayın"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Tüpü yerleştirdim ama yaralı nefes almıyor; torba valf maske varsa ya da yoksa dakikada kaç nefes vermeliyim?",
+      "answer": "Tüp doğru yerleştirildikten sonra torba valf maskeyle de, ağız-tüp resüsitasyonunda da dakikada 20 nefes hızında havalandırmalısın.",
+      "sayfa": 14,
+      "pdf_page_index": 20,
+      "kaynak_alinti": "Tüpü bir torba valf maskesine bağlayın ve yaralıyı dakikada 20 nefes hızında havalandırın.\nTorba valfi maskesi mevcut değilse, dakikada 20 nefes ağız-tüp resüsitasyonuna başlayın.",
+      "dogrulanan_bilgi": [
+        "dakikada 20 nefes",
+        "torba valf maskesine bağlayın",
+        "ağız-tüp resüsitasyonu"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "karsilastirma",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

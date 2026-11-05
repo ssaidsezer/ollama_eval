@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Birinden silah alacağım, önce emniyet önlemini nasıl yapmalıyım?",
+      "answer": "Önce şarjörü ya da şeridi çıkar. Emniyeti aç, silahı iki defa kur; ancak Pika ve DSHK gibi silahlarda bir defa kurulur. Sonra tetiği düşür, emniyeti kapat ve en son şarjör ya da şeridi tekrar tak.",
+      "sayfa": 5,
+      "pdf_page_index": 5,
+      "kaynak_alinti": "Silahın şarjörü çıkarılır (ya da şeridi). Emniyeti açılır. Silah iki defa kurulur (Pika, DSHK gibi silahlar bir defa kurulur). Sonra tetik düşürülür. Emniyet kapatılır. Şarjör (ya da şerit) takılır.",
+      "dogrulanan_bilgi": [
+        "şarjör çıkarılır",
+        "silah iki defa kurulur",
+        "Pika, DSHK gibi silahlar bir defa kurulur"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Gece hedefi başka gruba da göstermek istiyorum; hangi mermi iş görür, alameti ne?",
+      "answer": "Bu iş için izli mermi kullanılır. Çekirdeğinin uç kısmı yeşile boyanmıştır ve atılınca parlak kırmızı bir ışık verir. Bu ışık 800 metreye kadar devam eder; hedef yerini başka gruba göstermek ve gece baskınlarında kullanmak için uygundur.",
+      "sayfa": 6,
+      "pdf_page_index": 6,
+      "kaynak_alinti": "2- İzli Mermi: Çekirdeğin uç kısmı yeşile boyanmıştır. Çekirdeğin son kısmına yerleştirilmiş yanıcı bir madde silahla atıldığı zaman namluda barutun harareti ile tutuşur ve parlak kırmızı bir ışık verir. Bu ışık 800 metreye kadar devam eder. Buda savaşta hedefin yerini bir başka guruba göstermek için kullanılır. Ayriyeten gece baskın veya gece yapılan keminlerde kullanılır.",
+      "dogrulanan_bilgi": [
+        "uç kısmı yeşile boyanmıştır",
+        "parlak kırmızı bir ışık verir",
+        "800 metreye kadar devam eder"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Elimde siyah-kırmızı uçlu mermi var; bu ne işe yarar, kaç metrede patlar?",
+      "answer": "Siyah ve kırmızı boyalı uç, delici ve yakıcı mermiyi gösterir. Bu mermi delici ve yakıcı özellikleri birlikte taşır; hafif zırhlı araç, depo ve helikopterlere karşı kullanılır. Hedefe çarptığında 200 metrelik mesafede patlar.",
+      "sayfa": 7,
+      "pdf_page_index": 7,
+      "kaynak_alinti": "5- Delici ve Yakıcı Mermi: Çekirdeğin ucu siyah ve kırmızı renge boyanmıştır. Delici ve yakıcı mermilerin özelliğini üstünde toplar. 200 metrelik mesafedeki hedefe çarpması halinde patlar. Yine bu; hafif zırhlı araç, depo ve helikopterlere karşı kullanılır. Yakma özelliğine sahiptir.",
+      "dogrulanan_bilgi": [
+        "siyah ve kırmızı renge boyanmıştır",
+        "200 metrelik mesafedeki hedefe çarpması halinde patlar",
+        "hafif zırhlı araç, depo ve helikopterlere karşı kullanılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

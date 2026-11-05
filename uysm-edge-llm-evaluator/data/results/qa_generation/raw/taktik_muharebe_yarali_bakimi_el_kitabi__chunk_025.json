@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Ateş altındayım, yaralı arkadaşımın hava yoluna hemen girmeli miyim yoksa beklemeli miyim?",
+      "answer": "Ateş altında bakımda hava yolu yönetimi genelde ertelenir. Öncelik hayati kanamaları durdurmak ve yaralıyı güvenli alana çıkarmaktır; hava yolu müdahalesi daha çok taktik saha bakımı aşamasında ele alınır.",
+      "sayfa": 74,
+      "pdf_page_index": 80,
+      "kaynak_alinti": "Havayolu yönetimi, taktik saha bakımı (TFC) aşamasına kadar genellikle ertelenir.",
+      "dogrulanan_bilgi": [
+        "havayolu yönetimi",
+        "taktik saha bakımı (TFC) aşamasına kadar",
+        "genellikle ertelenir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Üniforma üstüne takılmış turnikeyi kontrol ederken ne yapayım, yaraya ne kadar yakın olmalı?",
+      "answer": "Önce yarayı açıp turnikenin gerçekten gerekli olup olmadığını yeniden değerlendir. Eğer turnike üniforma üzerine konduysa, onu doğrudan cilde uygulanacak şekilde değiştir ve yaranın 5–7.5 cm üzerine yerleştir.",
+      "sayfa": 74,
+      "pdf_page_index": 80,
+      "kaynak_alinti": "Önceki turnike uygulamalarını tekrar değerlendirin:\n*Yarayı ortaya çıkarın ve turnike gerekliliğini değerlendirin.\n*Yaranın 5 – 7.5 cm üzerine, üniforma üzerine yerleştirilmiş herhangi bir ekstremite turnikesini doğrudan cilde uygulanacak turnikeyle değiştirin",
+      "dogrulanan_bilgi": [
+        "Yarayı ortaya çıkarın",
+        "5 – 7.5 cm üzerine",
+        "doğrudan cilde uygulanacak turnikeyle değiştirin"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Bilinçsiz yaralının hava yolu tıkanmak üzereyse sahada ilk ne yapmalıyım?",
+      "answer": "Önce çene kaldırma/çene itme manevrası yap. Ardından NPA nazofaringeal havayolu uygula ve bilinçsiz yaralıyı kurtarma pozisyonuna getir.",
+      "sayfa": 75,
+      "pdf_page_index": 81,
+      "kaynak_alinti": "Havayolu tıkanıklığı olan veya tıkanmak üzere olan yaralı için aşağıdakileri yapın:\n*Çene kaldırma / çene itme manevrası.\n*NPA Nazofaringeal havayolu.\n*Bilinçsiz yaralıyı kurtarma pozisyonuna getirin.",
+      "dogrulanan_bilgi": [
+        "Çene kaldırma / çene itme manevrası",
+        "NPA Nazofaringeal havayolu",
+        "Bilinçsiz yaralıyı kurtarma pozisyonuna getirin"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

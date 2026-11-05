@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Turnikeyi üniformanın üstüne takmıştık; saha bakımında bunu nasıl düzeltmeliyim?",
+      "answer": "Önce yarayı açıp turnikenin gerçekten gerekli olup olmadığını yeniden değerlendir. Gerekliyse, üniforma üstündeki ekstremite turnikesini çıkarıp yenisini yaranın 5 ile 7.5 cm üzerine, doğrudan cilde gelecek şekilde uygula.",
+      "sayfa": 38,
+      "pdf_page_index": 48,
+      "kaynak_alinti": "Önceki turnike uygulamasını tekrar değerlendirin:\n* Yarayı ortaya çıkarın ve bir turnike gerekli olup olmadığını belirleyin.\n* Yaranın 5 ile 7.5 cm üzerine doğrudan cilde uygulayacak şekilde, üniforma üzerine yerleştirilmiş ekstremite turnikesini yenisiyle değiştirin.",
+      "dogrulanan_bilgi": [
+        "yarayı ortaya çıkarın",
+        "5 ile 7.5 cm",
+        "doğrudan cilde"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": "Etikette SAYFA 38 yazıyor, ancak sayfa altındaki basılı numara 42 görünüyor; etiket esas alındı."
+    },
+    {
+      "question": "Bilinci kapalı ama hava yolu tıkalı görünmeyen yaralıda ilk ne yapayım?",
+      "answer": "Bu durumda çene kaldırma/çene itme manevrası yap, NPA yerleştir ve yaralıyı kurtarma pozisyonuna getir.",
+      "sayfa": 38,
+      "pdf_page_index": 48,
+      "kaynak_alinti": "Hava yolu tıkanıklığı olmayan bilinçsiz bir yaralı için aşağıdakileri yapın:\n*Çene kaldırma/çene itme manevrası.\n* NPA(Nazofaringeal).\n* Yaralıyı kurtarma pozisyonuna getirin",
+      "dogrulanan_bilgi": [
+        "Çene kaldırma/çene itme manevrası",
+        "NPA(Nazofaringeal)",
+        "kurtarma pozisyonu"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": "Etikette SAYFA 38 yazıyor, ancak sayfa altındaki basılı numara 42 görünüyor; etiket esas alındı."
+    },
+    {
+      "question": "Tahliyeyi bekleyen yaralının üşümemesi için ne yapmalıyım, soğuk sıvı vermek sorun olur mu?",
+      "answer": "Yaralı tahliyeyi beklerken hazır ısı battaniyesi, Blizzard Survival Battaniye veya ısı yansıtıcı kaplamaya sarılı halde tutulmalı. Ayrıca tüm IO/IV bölgelerinde ve verilen sıvı-ilaçlarda portatif sıvı ısıtıcısı kullanılmalı; soğuk sıvı vermek hipoterimi riskini artırır.",
+      "sayfa": 41,
+      "pdf_page_index": 47,
+      "kaynak_alinti": "Yaralı tahliyeyi beklerken Hazır ısı battaniyesi, Blizzard Survival Battaniye veya Isı yansıtıcı kaplamaya sarılı vaziyette bekleyerek yol bakımı sağlanmalıdır.\nTüm IO /IV bölgelerinde ve uygulanan tüm sıvı ilaçlarda (Hextend, Laktatlı Ringers, TXA, kan vb.) portatif bir sıvı ısıtıcı kullanın. Soğuk sıvıları uygulamak, kaygı yaratan hipoterminin oluşması olasılığına katkıda bulunur.",
+      "dogrulanan_bilgi": [
+        "Hazır ısı battaniyesi, Blizzard Survival Battaniye veya Isı yansıtıcı kaplama",
+        "portatif bir sıvı ısıtıcı",
+        "Soğuk sıvıları uygulamak"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

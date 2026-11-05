@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "Elimde Beretta 92 FS var, etkili menzili ve şarjör kapasitesi ne kadar?",
+      "answer": "Beretta 92 FS için etkili menzil 50 m, şarjör kapasitesi ise 15 fişektir.",
+      "sayfa": 18,
+      "pdf_page_index": 18,
+      "kaynak_alinti": "92 FS\nEtkili Menzil 50 m\nŞarjör 15",
+      "dogrulanan_bilgi": [
+        "50 m",
+        "15"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "MP-5K ile kısa mesafede çalışacağım, bunun etkili menzili kaç metre?",
+      "answer": "MP-5K için etkili menzil 50 metredir. Sayfada genel MP-5 için 100 m verilirken, MP-5K için özellikle 50 metre belirtiliyor.",
+      "sayfa": 19,
+      "pdf_page_index": 19,
+      "kaynak_alinti": "Etkili Menzili: 100 m (50 metre MP-5K için)",
+      "dogrulanan_bilgi": [
+        "50 metre",
+        "MP-5K"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "MP-5’e normal 9x19 Parabellum taksam sorunsuz çalışır mı?",
+      "answer": "Her zaman sorunsuz çalışmayabilir. Sayfaya göre normal 9 x 19 mm Parabellum mühimmatta gerekli barut hakkı basıncı bulunmayabilir; bu yüzden MP 5 Parabellum mermisi kullanılması gerekir, aksi halde silah çalışmayabilir.",
+      "sayfa": 19,
+      "pdf_page_index": 19,
+      "kaynak_alinti": "MP5 makineli tabancanın, mekanizma sisteminin çalışması için gerekli olan barut hakkı (basınç) normal 9 x 19 mm Parabellum tipi mermilerde bulunmayabilir. Bu tabancada MP 5 Parabellum mermisi kullanılması gereklidir. Aksi takdirde silah çalışmayabilir.",
+      "dogrulanan_bilgi": [
+        "normal 9 x 19 mm Parabellum tipi mermilerde bulunmayabilir",
+        "MP 5 Parabellum mermisi kullanılması gereklidir",
+        "silah çalışmayabilir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

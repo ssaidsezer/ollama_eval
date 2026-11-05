@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "RPG-7 ile atışta arkamdaki emniyet mesafesi ne olmalı, engel de ne kadar geride kalmalı?",
+      "answer": "Silahın geri tehlikeli bölgesinde en az 20 metre geride personel, mühimmat, akaryakıt ve malzeme olmamalı. Ayrıca silahın en az 5 metre gerisinde de hiçbir engel bulunmamalı.",
+      "sayfa": 78,
+      "pdf_page_index": 78,
+      "kaynak_alinti": "Silahın geri tehlikeli bölgesinde (silahtan en az 20 m geride), hiçbir personel, mühimmat, akaryakıt ve malzeme bulunmamalıdır.\nSilahın geri tehlikeli bölgesinde (silahın en az 5 m gerisinde), hiçbir engel bulunmamalıdır.",
+      "dogrulanan_bilgi": [
+        "en az 20 m geride",
+        "en az 5 m gerisinde"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Tetiğe bastım ama roket çıkmadı, hemen ne yapmalıyım?",
+      "answer": "Hedefe bakmayı bırakmadan 2-3 saniye beklemelisin. Sonra horozu yeniden kurup tekrar atış yaparsın. Yine çıkmazsa aynı şekilde beklenir ve silah hedefe bakacak şekilde mermi çıkarılır.",
+      "sayfa": 79,
+      "pdf_page_index": 79,
+      "kaynak_alinti": "Tetiğe basılıp roket ateşlenmezse 2-3 sn hedefe bakarak beklenir. Yeniden horoz kurulur. Atış yapılır. Yine çıkmazsa aynı şekilde beklenir. Silah hedefe bakacak şekilde mermi çıkarılır.",
+      "dogrulanan_bilgi": [
+        "2-3 sn",
+        "Yeniden horoz kurulur",
+        "Silah hedefe bakacak şekilde mermi çıkarılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Yan rüzgâr varsa roket hangi tarafa sapar?",
+      "answer": "Yan rüzgâr roketin uçuşunu belirgin etkiler ve roket rüzgârın estiği yöne döner. Yani rüzgâr sağdan geliyorsa roket sağa, soldan geliyorsa sola sapar.",
+      "sayfa": 79,
+      "pdf_page_index": 79,
+      "kaynak_alinti": "Yandan esen rüzgâr roketin uçuşuna önemli derecede etki eder. Roket rüzgâr istikametine doğru döner. Başka bir ifadeyle rüzgâr sağdan esiyorsa roket sağa, soldan esiyorsa roket sola döner.",
+      "dogrulanan_bilgi": [
+        "Roket rüzgâr istikametine doğru döner",
+        "rüzgâr sağdan esiyorsa roket sağa",
+        "soldan esiyorsa roket sola döner"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

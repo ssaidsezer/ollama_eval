@@ -1,0 +1,1 @@
+/home/odine/llama.cpp/build/bin/llama-server --model /home/odine/models/llama.cpp/models--lmstudio-community--Qwen3.6-35B-A3B-GGUF/snapshots/68a34855558af61cbef0324d31f411be8a506b08/Qwen3.6-35B-A3B-Q4_K_M.gguf --alias qwen3.6:35b-a3b --host 127.0.0.1 --port 8084 --ctx-size 32768 --parallel 1 --flash-attn on --cache-type-k q4_0 --cache-type-v q4_0 -ngl 99

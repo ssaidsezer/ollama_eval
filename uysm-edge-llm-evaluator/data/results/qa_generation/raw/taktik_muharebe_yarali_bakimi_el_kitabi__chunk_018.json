@@ -1,0 +1,45 @@
+{
+  "sorular": [
+    {
+      "question": "Bir askere verilen IFAK Nesil I’de göğüs dekompresyon iğnesi var mı?",
+      "answer": "Hayır, IFAK Nesil I’in içinde göğüs dekompresyonu için iğne veya anjiyokateter bulunmaz.",
+      "sayfa": 53,
+      "pdf_page_index": 59,
+      "kaynak_alinti": "IFAK, göğüs dekompresyonu için iğne veya anjiyokateter içermez.",
+      "dogrulanan_bilgi": [
+        "göğüs dekompresyonu için iğne veya anjiyokateter içermez"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "IFAK Nesil I’de muayene eldiveni kaç tane var?",
+      "answer": "IFAK Nesil I içinde hasta muayene eldiveni 4 adettir.",
+      "sayfa": 54,
+      "pdf_page_index": 60,
+      "kaynak_alinti": "6515-01-519-9161 Hasta Muayene Eldiveni, 100s 4",
+      "dogrulanan_bilgi": [
+        "Hasta Muayene Eldiveni",
+        "4"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Nesil II IFAK’ta turnike sayısı kaç, tek mi çift mi?",
+      "answer": "Nesil II IFAK’ta kit torbasına takılan eklerde 2 adet muharebe turnikesi bulunur; yani çift turnikelidir.",
+      "sayfa": 54,
+      "pdf_page_index": 60,
+      "kaynak_alinti": "Bu IFAK, kit torbasına takılan eklerde iki adet Muharebe turnikesi içerir.",
+      "dogrulanan_bilgi": [
+        "iki adet",
+        "Muharebe turnikesi"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

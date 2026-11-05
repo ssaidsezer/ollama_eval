@@ -1,0 +1,5 @@
+variant,model,collection,status,total_questions,attempted_questions,successful_questions,inference_errors,evaluation_errors,rows,duration_seconds,output_csv,error
+classic_vector,Qwen3.6-35B-A3B,documents_embeddinggemma_300m_1000c_200ov,ok,120,120,120,0,0,120,15.57,checkpoints/Qwen3.6-35B-A3B__classic_vector.csv,
+smart_vector,Qwen3.6-35B-A3B,documents_embeddinggemma_300m_3000p_500c_100ov,ok,120,120,120,0,0,120,4.85,checkpoints/Qwen3.6-35B-A3B__smart_vector.csv,
+classic_bm25,Qwen3.6-35B-A3B,documents_embeddinggemma_300m_1000c_200ov,ok,120,120,120,0,0,120,0.0,checkpoints/Qwen3.6-35B-A3B__classic_bm25.csv,
+smart_bm25,Qwen3.6-35B-A3B,documents_embeddinggemma_300m_3000p_500c_100ov,ok,120,120,120,0,0,120,0.0,checkpoints/Qwen3.6-35B-A3B__smart_bm25.csv,

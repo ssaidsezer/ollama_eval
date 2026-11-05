@@ -1,0 +1,77 @@
+[
+  {
+    "id": "q001",
+    "path": "ATBK_Pipeline/audio_files/questions/q001_question.wav",
+    "text": "Kaskımda kırmızı ışık yanıp sönüyor, ne yapmalıyım?"
+  },
+  {
+    "id": "q002",
+    "path": "ATBK_Pipeline/audio_files/questions/q002_question.wav",
+    "text": "Telsiz kanalları nelerdir ve hangi durumda kullanılır?"
+  },
+  {
+    "id": "q003",
+    "path": "ATBK_Pipeline/audio_files/questions/q003_question.wav",
+    "text": "SALUTE rapor formatı nedir?"
+  },
+  {
+    "id": "q004",
+    "path": "ATBK_Pipeline/audio_files/questions/q004_question.wav",
+    "text": "Akıllı kask nasıl kalibre edilir?"
+  },
+  {
+    "id": "q005",
+    "path": "ATBK_Pipeline/audio_files/questions/q005_question.wav",
+    "text": "Sistem kilitlenirse ne yapmalıyım?"
+  },
+  {
+    "id": "q006",
+    "path": "ATBK_Pipeline/audio_files/questions/q006_question.wav",
+    "text": "Mavi titreşim ne anlama gelir?"
+  },
+  {
+    "id": "q007",
+    "path": "ATBK_Pipeline/audio_files/questions/q007_question.wav",
+    "text": "Drone tehdidi durumunda ne yapmalıyım?"
+  },
+  {
+    "id": "q008",
+    "path": "ATBK_Pipeline/audio_files/questions/q008_question.wav",
+    "text": "GPS sinyali kesildi, ne yapmalıyım?"
+  },
+  {
+    "id": "q009",
+    "path": "ATBK_Pipeline/audio_files/questions/q009_question.wav",
+    "text": "Pusuya düşersem ilk ne yapmalıyım?"
+  },
+  {
+    "id": "q010",
+    "path": "ATBK_Pipeline/audio_files/questions/q010_question.wav",
+    "text": "Kimyasal gaz alarmı aldım, ne yapmalıyım?"
+  },
+  {
+    "id": "q011",
+    "path": "ATBK_Pipeline/audio_files/questions/q011_question.wav",
+    "text": "Turnike nereye uygulanır?"
+  },
+  {
+    "id": "q012",
+    "path": "ATBK_Pipeline/audio_files/questions/q012_question.wav",
+    "text": "Morfin hangi durumlarda kullanılmaz?"
+  },
+  {
+    "id": "q013",
+    "path": "ATBK_Pipeline/audio_files/questions/q013_question.wav",
+    "text": "5S kuralı nedir?"
+  },
+  {
+    "id": "q014",
+    "path": "ATBK_Pipeline/audio_files/questions/q014_question.wav",
+    "text": "Esir aldığımız kişinin telefonunu ne yapmalıyız?"
+  },
+  {
+    "id": "q015",
+    "path": "ATBK_Pipeline/audio_files/questions/q015_question.wav",
+    "text": "Yakalanma riski varsa sistem nasıl silinir?"
+  }
+]

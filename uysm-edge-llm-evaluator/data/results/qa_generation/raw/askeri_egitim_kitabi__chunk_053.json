@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Havan mermisi patlamadı, normal kapsül de ateşlemedi; emniyetli şekilde ne yapayım?",
+      "answer": "Fişeği yerinde bırakıp kuyruktaki deliklerden birinden fişeğe, siyah fitilin girebileceği bir delik açılır. Fitil sökülüp mermiye bağlanır; ne çok uzun ne de kısa bırakılmaz. Fitil fişeğe ulaşmadan halka barutu yakmamasına dikkat edilerek fitil ateşlenip mermi namluya bırakılır. Bu durumda mermi 100-200 metre geriye düşebilir.",
+      "sayfa": 161,
+      "pdf_page_index": 161,
+      "kaynak_alinti": "Kuyruktaki deliklerden birisinden fişeğe, siyah fitilin girebileceği bir delik açılır. Fitil buradan sokulup mermiye bantlanır. Fitil ne uzun nede kısa bırakılmamalıdır. Fitil fişeğe ulaşmadan halka barutları yakmaması için dikkat edilir. Fitil ateşlenip mermi namluya bırakılır. Normal kapsülle ateşlenmezse, fitille ateşlenecektir. Mermi 100-200 metre geriye düşebilir.",
+      "dogrulanan_bilgi": [
+        "siyah fitilin girebileceği bir delik açılır",
+        "Fitil ateşlenip mermi namluya bırakılır",
+        "100-200 metre geriye düşebilir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Patlamayan havan mermisini uzaktan çekerek denemek istersem ipi nasıl bağlamalıyım?",
+      "answer": "Sağlam ve ince bir naylon ipi halka şeklinde, fünyenin altında kalacak biçimde mermiye bağlamalısın. Mermi ateşlenmezse ip dikkatlice çekilir ve başka fişek takılır.",
+      "sayfa": 161,
+      "pdf_page_index": 161,
+      "kaynak_alinti": "İkinci bir yol; Sağlam, ince bir naylon ip halka şeklinde fünyenin altında kalacak şekilde mermiye bağlanır. Mermi ateşlenmezse ihtiyatlı bir şekilde ip çekilir ve başka fişek takılır.",
+      "dogrulanan_bilgi": [
+        "Sağlam, ince bir naylon ip",
+        "fünyenin altında kalacak şekilde",
+        "başka fişek takılır"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Mermi patlamıyor, iğne yeri kirlenmişse çözüm ne?",
+      "answer": "Sorun iğne yerinin kirli olup pislik toplamasıysa çözüm temizlemektir.",
+      "sayfa": 161,
+      "pdf_page_index": 161,
+      "kaynak_alinti": "Mermi patlamıyor  İğne yeri kirli olup pislik toplanmıştır.  Temizlenir.",
+      "dogrulanan_bilgi": [
+        "İğne yeri kirli olup pislik toplanmıştır",
+        "Temizlenir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

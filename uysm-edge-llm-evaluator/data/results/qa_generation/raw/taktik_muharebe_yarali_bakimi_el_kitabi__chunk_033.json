@@ -1,0 +1,32 @@
+{
+  "sorular": [
+    {
+      "question": "Yaralanma sonrası TCCC eylem raporunu en geç ne zaman göndermem gerekiyor?",
+      "answer": "TCCC sonrası eylem raporu, yaralanmadan sonra en geç 72 saat içinde doldurulup Savunma Bakanlığı Travma Dairesi'ne gönderilmelidir.",
+      "sayfa": 97,
+      "pdf_page_index": 103,
+      "kaynak_alinti": "Taktik Muharebe Yaralı Bakımı (TCCC) Sonrası Eylem Raporu (AAR), sakatlık (POI) yaralanma noktası sağlık ekibi veya Rol 1 de doldurulup, Savunma Bakanlığı Travma Dairesi'ne (DODTR) en geç yaralanmadan 72 saat sonra gönderilecektir.",
+      "dogrulanan_bilgi": [
+        "en geç yaralanmadan 72 saat sonra",
+        "Savunma Bakanlığı Travma Dairesi'ne (DODTR)"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Tahliye bakımının zamanında olup olmadığını hangi standartla değerlendiriyorlar?",
+      "answer": "Yaralanma noktasından ilk cerrahi kapasiteye kadar olan hareket için değerlendirme, \"altın saat\" standardına göre yapılıyor.",
+      "sayfa": 97,
+      "pdf_page_index": 103,
+      "kaynak_alinti": "Travma Bakım Uygulaması, tahliye bakımının sunulmasıyla ilgili operasyonel ve fizyolojik parametreler içeren veritabanını sağlar ve yaralanma noktasından ilk cerrahi kapasiteye kadar olan yaralıların hareketi için “altın saat” standardının geçerliliğini değerlendirir.",
+      "dogrulanan_bilgi": [
+        "yaralanma noktasından ilk cerrahi kapasiteye kadar",
+        "“altın saat” standardı"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

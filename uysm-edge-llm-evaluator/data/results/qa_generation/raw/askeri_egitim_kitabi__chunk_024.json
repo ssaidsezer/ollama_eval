@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "Uçak mevzimin üstünden geçecekse nereye nişan almalıyım?",
+      "answer": "Uçak doğrudan mevzinin üstünden geçerek taarruz ediyorsa, etkili ateş için uçağın burnunun biraz üstüne nişan almalısın.",
+      "sayfa": 74,
+      "pdf_page_index": 74,
+      "kaynak_alinti": "Uçak bulunan yerin üzerinden geçecek tarzda doğrudan doğruya hedefe yönelerek taarruz ediyorsa, onu etkili bir şekilde ateş altına almak için uçağın burnunun biraz üstüne nişan alınır.",
+      "dogrulanan_bilgi": [
+        "üzerinden geçecek tarzda",
+        "uçağın burnunun biraz üstüne"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Yandan geçen jete ateş açacaksam ne kadar önleme vermeliyim?",
+      "answer": "Yandan geçen jetlerde önleme vermen gerekir; makineli tüfek nişancıları jetler için yaklaşık iki futbol sahası, yani yaklaşık 200 m öne nişan almalıdır.",
+      "sayfa": 74,
+      "pdf_page_index": 74,
+      "kaynak_alinti": "Mk. Tf. nişancıları jetlerin iki futbol sahası (yaklaşık 200 m),",
+      "dogrulanan_bilgi": [
+        "iki futbol sahası",
+        "yaklaşık 200 m"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "RPG-7 ile hareketli bir tanka dürbünle güvenilir atışı en fazla kaç metrede yaparım?",
+      "answer": "Hareket eden anti-tank hedeflere dürbünle sağlıklı atış mesafesi 300 metredir.",
+      "sayfa": 100,
+      "pdf_page_index": 75,
+      "kaynak_alinti": "Hareket eden hedeflere sağlıklı atış mesafesi (dürbünle): Anti-tank 300 m.",
+      "dogrulanan_bilgi": [
+        "dürbünle",
+        "Anti-tank 300 m"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": "Etikette SAYFA 100 yazıyor, ancak sayfanın altındaki basılı numara 75 görünüyor; etiket esas alındı."
+    }
+  ]
+}

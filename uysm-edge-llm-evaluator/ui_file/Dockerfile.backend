@@ -1,0 +1,17 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libgl1 libglib2.0-0 && rm -rf /var/lib/apt/lists/*
+
+COPY requirements.txt ./
+COPY web_backend/requirements.txt ./web_backend/requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY web_backend/ ./web_backend/
+COPY rag/ ./rag/
+COPY pipeline.py prompts.py voice_utils.py ./
+
+EXPOSE 8000
+CMD ["uvicorn", "web_backend.main:app", "--host", "0.0.0.0", "--port", "8000"]

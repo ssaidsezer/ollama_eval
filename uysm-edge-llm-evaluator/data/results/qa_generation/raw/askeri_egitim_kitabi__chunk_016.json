@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Yavaş atışta nefesi ne zaman tutup ne kadar beklemeliyim, atış çıkmazsa ne yapayım?",
+      "answer": "Yavaş atışta birkaç derin nefes alıp verdikten sonra nefesi normale döndürürsün ve nefes verme biter bitmez nefesi tutarsın. Tetik boşluğunu alıp nişan kontrolünü yaparak tetiği düşürmeye çalışırsın. Nefesi kestikten sonra 9-10 saniye içinde atış çıkmadıysa aynı işlemi baştan tekrarlamalısın.",
+      "sayfa": 50,
+      "pdf_page_index": 50,
+      "kaynak_alinti": "Nişancı tetik düşürmeden önce birkaç kez derin nefes alır ve verir.\nNefes temposu normale döndürülür ve nefes verme işlemi bittiği anda nefes tutulur.\nTetik boşluğu alınır, nişan kontrolü yapılır ve baskı artırılarak tetik düşürülür.\nNefes kestikten 9-10 saniye sonra tetik düşürülememişse; aynı işlem yeniden tekrarlanır.",
+      "dogrulanan_bilgi": [
+        "nefes verme işlemi bittiği anda",
+        "9-10 saniye sonra",
+        "aynı işlem yeniden tekrarlanır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Hedef çok kısa süre görünecekse nefesi nasıl ayarlayıp tetiği ne kadar sürede düşürmeliyim?",
+      "answer": "Çabuk atışta hedef görünür görünmez ya da ateş komutu gelir gelmez, o anda nefes alıyor ya da veriyor olsan da nefesi tutmalısın. Ardından tetik boşluğunu alıp baskıyı artırarak tetiği 2-3 saniye içinde düşürmelisin.",
+      "sayfa": 50,
+      "pdf_page_index": 50,
+      "kaynak_alinti": "Hedef görüldüğü veya ateş komutu verildiği zaman o esnada nefes alma veya verme işleminin neresinde olunursa olunsun nefes tutulur.\nTetik boşluğu alınır ve 2-3 saniye içinde basınç artırılarak tetik düşürülür.",
+      "dogrulanan_bilgi": [
+        "nefes tutulur",
+        "2-3 saniye içinde",
+        "Tetik boşluğu alınır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Tetiği düşürürken sürpriz atım için yaklaşık ne kadar sürem olmalı, eğitimle bu süre nereye iner?",
+      "answer": "Başlangıçta tetiği istinada getirdikten sonra düşürmeye kadar geçen süre yaklaşık 5-7 saniye olabilir. Düzenli çalışmayla bu süre 1-2 saniyeye kadar indirilebilir. Esas nokta, atıcının tüfeğin tam ne zaman ateşleneceğini bilmemesidir.",
+      "sayfa": 52,
+      "pdf_page_index": 52,
+      "kaynak_alinti": "Başlangıçta tetiğin istinada getirilmesinden, düşürülmesine kadar geçecek süre 5–7 sn kadar olabilir. Çalışmalara devam etmek suretiyle bu süre 1–2 sn’ye kadar indirilebilir. Bütün bu çalışmalar esnasında hatırlanacak en önemli nokta atıcının tüfeğin ateşleneceği anı bilmemesi gerektiği olmalıdır.",
+      "dogrulanan_bilgi": [
+        "5–7 sn",
+        "1–2 sn’ye kadar",
+        "atıcının tüfeğin ateşleneceği anı bilmemesi"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "cause_effect",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Burkulmada ilk anda soğuk mu sıcak mı uygulayayım, ne kadar süreyle?",
+      "answer": "Burkulmuş ekleme önce soğuk uygulanır. İlk 48 saat boyunca soğuk tercih edilir; sonrasında sıcak uygulanır. Ayrıca soğuk uygulama 48 saat boyunca 15 dakikalık seanslar halinde de yapılabilir.",
+      "sayfa": 48,
+      "pdf_page_index": 203,
+      "kaynak_alinti": "Tedavisi: Burkulan eklem bölgesine ilk 48 saat boyunca soğuk daha sonra sıcak uygulanır. Daha sonra 15 dk’lık seanslar halinde 48 saat boyunca soğuk uygulanabilir.",
+      "dogrulanan_bilgi": [
+        "ilk 48 saat boyunca soğuk",
+        "daha sonra sıcak",
+        "15 dk’lık seanslar halinde 48 saat boyunca"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": "Etiketteki SAYFA 48, sayfa altındaki basılı numara 203 görünüyor; talimat gereği etiket esas alındı."
+    },
+    {
+      "question": "Kanama durmuyor, turnikeyi nasıl yapıp ne sıklıkla gevşetmem lazım?",
+      "answer": "Yaranın üstüne gazlı bez koyup turnike malzemesini yaranın üst tarafına doğru iki kez dolayarak bağlamalısın. Düğümün üstüne tahta ya da benzeri bir çubuk yerleştirip bir düğüm daha atarsın; sonra çubuğu kanama durana kadar çevirirsin, gereğinden fazla sıkmazsın ve bu şekilde sabitlersin. Uzun süre bekletmeden her 20 dakikada bir gevşetilmesi gerekir.",
+      "sayfa": 204,
+      "pdf_page_index": 204,
+      "kaynak_alinti": "Turnike yöntemi: Yaranın üzerine gazlı bez bırakılır. Turnike malzemesi yaranın yanına (üst kısmına doğru) iki defa dolanır ve bağlanır.\nDüğümün üzerine tahta, sil çubuğu vb. şeyler konulup bir düğüm daha atılır. Bu çubuk kanama duruncaya kadar çevrilir. Gereğinden fazla çevrilmez. Turnike çubuğu bu şekilde sabitlenir.\nTurnike fazla bekletilmeden her 20 dk da bir gevşetilmelidir.",
+      "dogrulanan_bilgi": [
+        "iki defa dolanır ve bağlanır",
+        "kanama duruncaya kadar çevrilir",
+        "her 20 dk da bir gevşetilmelidir"
+      ],
+      "zorluk": "zor",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Akrep ya da yılan soktu, bu sayfaya göre hangi iğne geçiyor?",
+      "answer": "Bu sayfaya göre akrep ve yılan sokmalarında geçen iğne Decadron’dur.",
+      "sayfa": 205,
+      "pdf_page_index": 205,
+      "kaynak_alinti": "DECADRON: Akrep, yılan sokmaları için.",
+      "dogrulanan_bilgi": [
+        "DECADRON",
+        "Akrep, yılan sokmaları için"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

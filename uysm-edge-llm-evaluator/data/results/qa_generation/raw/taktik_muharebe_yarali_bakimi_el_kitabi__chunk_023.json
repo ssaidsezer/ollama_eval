@@ -1,0 +1,47 @@
+{
+  "sorular": [
+    {
+      "question": "Yaralı yutabiliyor; sahada hangi antibiyotiği vermeliyim?",
+      "answer": "Yutabiliyorsa moksifloksasin verilir. Dozu 400 mg ve oral yoldan uygulanır; muharebe hap paketinde yer alır.",
+      "sayfa": 68,
+      "pdf_page_index": 74,
+      "kaynak_alinti": "Moksifloksasin 400 mg oral (muharebe hap paketi)",
+      "dogrulanan_bilgi": [
+        "Moksifloksasin",
+        "400 mg oral"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Yaralı yutamıyor; antibiyotik olarak neyi, hangi dozda yapayım?",
+      "answer": "Yutamıyorsa ertapenem 1 gram IV/IM günde 1 kez verilir. Alternatif olarak sefotetan 2 gram IV/IM 12 saatte bir uygulanır.",
+      "sayfa": 68,
+      "pdf_page_index": 74,
+      "kaynak_alinti": "Ertapenem (Invanz) günde 1 gr IV/IM veya Sefotetan, 2 mg IV/IM 12 saatte bir.",
+      "dogrulanan_bilgi": [
+        "günde 1 gr IV/IM",
+        "12 saatte bir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Kafa travmalı yaralıda herniasyondan şüphelenirsem hemen ne yapayım?",
+      "answer": "Herniasyon yaklaşıyorsa 250 ml yüzde 3 hipertonik salin ver, başı 30 derece yükselt ve yaralıyı hiperventile et.",
+      "sayfa": 69,
+      "pdf_page_index": 75,
+      "kaynak_alinti": "1.250 ml yüzde 3 hipertonik salin uygulayın. 2.Başı 30 derece yükseltin. 3.Yaralıyı hiperventile edin.",
+      "dogrulanan_bilgi": [
+        "250 ml yüzde 3 hipertonik salin",
+        "Başı 30 derece yükseltin",
+        "hiperventile edin"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

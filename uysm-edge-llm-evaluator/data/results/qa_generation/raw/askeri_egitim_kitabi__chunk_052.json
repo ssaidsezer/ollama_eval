@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "question": "Havanı kurarken kaideyi yere hangi açıda yerleştirmeliyim?",
+      "answer": "Kaide, yukarı-aşağı açı için ya 90 derece atış derecesinde ya da 20–30 derece arasında olacak şekilde yerleştirilmelidir.",
+      "sayfa": 159,
+      "pdf_page_index": 159,
+      "kaynak_alinti": "Yukarı-aşağı (90 – atış derecesi) ya da 20–30 derece arası olacak şekilde kaide yerleştirilir.",
+      "dogrulanan_bilgi": [
+        "90",
+        "20–30 derece"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Ayaklarla kaide arasını ne kadar açmam gerekiyor?",
+      "answer": "Ayakların kaideye uzaklığı 80 ile 100 cm arasında olmalı. Ayrıca ayak uçları yere gömülmelidir.",
+      "sayfa": 159,
+      "pdf_page_index": 159,
+      "kaynak_alinti": "Ayakların kaideye olan uzaklıkları 80 ile 100 cm arası olmalıdır. Ayak uçları yere gömülür.",
+      "dogrulanan_bilgi": [
+        "80 ile 100 cm",
+        "Ayak uçları yere gömülür"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Mermi namluda patlamadı, güvenli şekilde çıkarmaya başlamadan önce ne kadar beklemeliyim?",
+      "answer": "Önce havan takımı mevziden uzaklaşmalı ve 30 saniyeye kadar beklenmelidir. Namluya hafif darbelerden sonra da ayrıca 5 saniye daha beklenir.",
+      "sayfa": 160,
+      "pdf_page_index": 160,
+      "kaynak_alinti": "Havan takımı mekânından uzaklaşıp 30 saniye kadar beklenilir.\nBundan sonra 5 saniye kadar beklenir.",
+      "dogrulanan_bilgi": [
+        "30 saniye",
+        "5 saniye"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

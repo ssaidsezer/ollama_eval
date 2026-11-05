@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "question": "Elimde taze tam kan var; yaralıya verirken ABO uyumu şart mı, yoksa O grup herkese gider mi?",
+      "answer": "Evet, donör taze tam kanı yaralının ABO grubuyla eşleştirilmeli. Eşleşme olmazsa ölümcül hemolitik reaksiyon gelişebilir. Ayrıca Tip O tam kan bu kaynakta evrensel kabul edilmiyor.",
+      "sayfa": 103,
+      "pdf_page_index": 109,
+      "kaynak_alinti": "Donör FWB, yaralıyla ABO'ya ait eşleşme sağlamalıdır. Eşleşmezse ölümcül hemolitik reaksiyon oluşabilir. Tip O tam kan evrensel değildir.",
+      "dogrulanan_bilgi": [
+        "ABO'ya ait eşleşme sağlamalıdır",
+        "ölümcül hemolitik reaksiyon",
+        "Tip O tam kan evrensel değildir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Bir yaralıyı en geç 1 saat içinde çıkarmam gerekiyorsa bu hangi tahliye önceliği oluyor?",
+      "answer": "Bu durum Öncelik I kapsamına girer. Bu kategori, yaşamı, uzuvları veya görmeyi korumak için mümkün olan en kısa sürede ve en fazla 1 saat içinde tahliye edilmesi gereken acilleri ifade eder.",
+      "sayfa": 105,
+      "pdf_page_index": 111,
+      "kaynak_alinti": "Öncelik I Acil ciddi hastalığın komplikasyonlarını önlemek veya kalıcı sakatlıktan kaçınmak için yaşamı, uzuvları veya görme yetilerini korumak amacıyla mümkün olan en kısa sürede ve en fazla 1 saat içinde tahliye edilmesi gereken acil durumlara tahsis edilir.",
+      "dogrulanan_bilgi": [
+        "Öncelik I Acil",
+        "en fazla 1 saat içinde",
+        "yaşamı, uzuvları veya görme yetilerini korumak"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Yaralının durumu şimdilik stabil ama 24 saat içinde tahliye edilmesi gerekiyorsa hangi kategoriye sokmalıyım?",
+      "answer": "Bu hasta Öncelik III, yani rutin tahliye kategorisine girer. Bu grupta şartların belirgin şekilde kötüleşmesi beklenmez ve hasta ya da yaralılar 24 saat içinde tahliye edilmelidir.",
+      "sayfa": 105,
+      "pdf_page_index": 111,
+      "kaynak_alinti": "Öncelik III Rutin Tahliye gerektiren hasta ve yaralı personele atanır. Ancak şartlarının önemli ölçüde bozulması beklenmez. Bu kategoride hasta ve yaralılar 24 saat içinde tahliye edilmelidir.",
+      "dogrulanan_bilgi": [
+        "Öncelik III",
+        "Rutin Tahliye",
+        "24 saat içinde tahliye edilmelidir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

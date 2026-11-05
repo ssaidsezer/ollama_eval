@@ -1,0 +1,37 @@
+{
+  "rubric": "balanced-v2",
+  "eval_model": "gpt-5.4-mini",
+  "reasoning_effort": "high",
+  "source_csv": "data/results/speculative_ablation_20260722_150/qwen_ngram/raw_results.csv",
+  "counts": {
+    "total": 150,
+    "successful": 150,
+    "failed": 0
+  },
+  "evaluation": {
+    "correctness_score_mean": 3.486666666666667,
+    "completeness_score_mean": 2.526666666666667,
+    "groundedness_score_mean": 2.88,
+    "verdicts": {
+      "partial": 45,
+      "fail": 89,
+      "pass": 16
+    },
+    "hallucination_risk": {
+      "medium": 40,
+      "high": 87,
+      "low": 23
+    },
+    "answerable": {
+      "count": 140,
+      "correctness_score_mean": 3.6285714285714286,
+      "completeness_score_mean": 2.6857142857142855,
+      "groundedness_score_mean": 3.0714285714285716
+    },
+    "unanswerable": {
+      "count": 10,
+      "grounded_refusal_accuracy": 0.0,
+      "hallucination_rate": 1.0
+    }
+  }
+}

@@ -1,0 +1,4 @@
+# ASR bağımlılıkları artık ana requirements.txt içinde tanımlı.
+# Repo kökünden kurulum yapın:
+#   pip install -r requirements.txt
+-r ../web_backend/requirements.txt

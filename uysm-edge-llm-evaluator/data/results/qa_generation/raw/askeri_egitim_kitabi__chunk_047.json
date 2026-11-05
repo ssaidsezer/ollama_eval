@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Bu 82 mm geri tepmesiz topla atışta arkamda ne kadar tehlikeli alan bırakmam lazım?",
+      "answer": "Atışta silahın arkasında 30 metre geri tehlike bölgesi bırakman gerekir. Bu alan boş tutulmalıdır.",
+      "sayfa": 143,
+      "pdf_page_index": 143,
+      "kaynak_alinti": "30 m geri tehlike bölgesi vardır.",
+      "dogrulanan_bilgi": [
+        "30 m",
+        "geri tehlike bölgesi"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Delici mühimmat kullanacaksam bu merminin menzili, çıkış hızı ve delme gücü ne?",
+      "answer": "Delici merminin menzili 3000 metredir, çıkış hızı 320 m/sn'dir ve 25 cm çeliği deler.",
+      "sayfa": 144,
+      "pdf_page_index": 144,
+      "kaynak_alinti": "Ağırlığı 4300 g'dır. 3000 m menzili vardır. 25 cm çeliği deler. Çıkış hızı 320 m/sn'dir.",
+      "dogrulanan_bilgi": [
+        "3000 m",
+        "25 cm çeliği deler",
+        "320 m/sn"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Silahı kurarken önce kaba ayarı mı yaparım, ince ayarı mı; krikolar ne için kullanılıyor?",
+      "answer": "Önce gerekli açı ve istikameti kaba ayar pimleriyle ayarlarsın. İnce ayar krikoları ise hata düzeltmek için kullanılır; sağ-sol ve yukarı-aşağı hassas krikolar ortalanır.",
+      "sayfa": 145,
+      "pdf_page_index": 145,
+      "kaynak_alinti": "Sağ-sol ve yukarı-aşağı hassas krikoları ortalanır. Gerekli olan zaviye ve istikamet açısı kaba ayar pimleri ile ayarlanır. İnce ayar krikoları hata düzeltmede kullanılır.",
+      "dogrulanan_bilgi": [
+        "kaba ayar pimleri",
+        "ince ayar krikoları",
+        "hata düzeltmede kullanılır"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

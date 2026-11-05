@@ -1,0 +1,45 @@
+{
+  "sorular": [
+    {
+      "question": "Tabancayı genel temizlik için sökerken kabza ve tetik-horoz tertibatını da ayırayım mı?",
+      "answer": "Hayır. Genel temizlikte beden, kabza ve tetik-horoz tertibatları sökülmez. Sadece silah çok kirliyse kabza, emniyet mandalı ve iğne sökülür.",
+      "sayfa": 14,
+      "pdf_page_index": 14,
+      "kaynak_alinti": "Beden, kabza ve tetik-horoz tertibatları genel temizlik sırasında sökülmez. Çok kirliyse, kabza, emniyet mandalı ve iğne sökülür.",
+      "dogrulanan_bilgi": [
+        "genel temizlik sırasında sökülmez",
+        "Çok kirliyse, kabza, emniyet mandalı ve iğne sökülür"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "prosedur",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Ghost TR 01 ile etkili atış mesafem yaklaşık ne kadar?",
+      "answer": "Ghost TR 01'in etkili menzili yaklaşık 75 metredir.",
+      "sayfa": 15,
+      "pdf_page_index": 15,
+      "kaynak_alinti": "Etkili Menzili: (+-5) 75 m",
+      "dogrulanan_bilgi": [
+        "75 m"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Taurus sökümünde Kanuni'den farklı olarak mekanizmayı nasıl çekmem gerekiyor?",
+      "answer": "Taurus'ta söküm mandalını çevirirken mekanizmayı biraz değil, tam çekmelisin ve muhbiri sadığa tutturmalısın.",
+      "sayfa": 16,
+      "pdf_page_index": 16,
+      "kaynak_alinti": "Farklı olarak Kanuni’de söküm mandalı çevrilirken mekanizma biraz geri çekilirken, bunda tam çekilir ve muhbiri sadığa tutturulur.",
+      "dogrulanan_bilgi": [
+        "tam çekilir",
+        "muhbiri sadığa tutturulur"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "karsilastirma",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}

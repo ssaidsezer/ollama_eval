@@ -1,0 +1,48 @@
+{
+  "sorular": [
+    {
+      "question": "Yakıcı mermiyle uzak hedefe atış yapacaksam düşüş payı ne kadar olabilir?",
+      "answer": "Uzun mesafede yakıcı mermi yaklaşık 200 metre geriye düşebilir; atış planını buna göre düzeltmek gerekir.",
+      "sayfa": 152,
+      "pdf_page_index": 152,
+      "kaynak_alinti": "Tecrübe: Uzun mesafelerde yakıcı mermi yaklaşık 200 m geriye düşebilir.",
+      "dogrulanan_bilgi": [
+        "uzun mesafelerde",
+        "yaklaşık 200 m geriye düşebilir"
+      ],
+      "zorluk": "orta",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "Birden fazla BM'yi elektrikle beraber ateşleyeceksem batarya olarak ne uygun?",
+      "answer": "Çoklu atışta BM'ler paralel bağlanır; bunun için 12V 3A batarya ideal kabul edilir.",
+      "sayfa": 153,
+      "pdf_page_index": 153,
+      "kaynak_alinti": "Çoklu atışlarda, BM'ler paralel bağlanır. 12V 3A batarya idealdir.",
+      "dogrulanan_bilgi": [
+        "paralel bağlanır",
+        "12V 3A batarya",
+        "idealdir"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "dogrudan",
+      "sayfa_uyarisi": ""
+    },
+    {
+      "question": "BM atışı sırasında güvenli duruş için ne kadar yana açılmam lazım?",
+      "answer": "Atış anında BM'nin en az 7 metre sağında ya da solunda olmalısın.",
+      "sayfa": 153,
+      "pdf_page_index": 153,
+      "kaynak_alinti": "Atış anında BM’in en az 7 metre sağ veya solunda olunmalıdır.",
+      "dogrulanan_bilgi": [
+        "atış anında",
+        "en az 7 metre",
+        "sağ veya solunda"
+      ],
+      "zorluk": "kolay",
+      "soru_tipi": "senaryo",
+      "sayfa_uyarisi": ""
+    }
+  ]
+}
